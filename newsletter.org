@@ -54,7 +54,7 @@
   Less than a fortnight until the second Missoula Civic Hackathon and
   the core team has much to share in ...
 
-* The First Installment of Our Newsletter
+* Our First Install(ment)
 
   Version 1.0 — here we go!
 
@@ -116,10 +116,33 @@
   self-assembling out of discarded [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously
   stamped [[https://en.wikipedia.org/wiki/Neuromancer]["Chiba City,'53"]], races to the finish line, winners and
   learner, silence and centering, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+* Prizes Worth Hacking For
 
+  Oh boy does the universe like to throw prizes at hackathons.
+
+  I think many of you will find much value and surprises in the prizes
+  we have collected and will collect up to the day of the hackathon!
+
+  Here is a wee bit of a teaser..
+
+  + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
+  + 1 $20 gift card to Five on Black
+  + 1 Louis Garneau Racing Jersey
+  + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
+  + 1 copy of “The Well” by
+
+  And, although not the most “valuable” prize in the bunch, the
+  following book, to me, is the grand prize.  It truly is a gem that
+  would teach a beginning programmer sooooooo much if they were to
+  explore it fully.
+
+** [[http://www.amazon.com/Sargon-Computer-Program-Dan-Spracklen/dp/0810451557][Sargon: A Computer Chess Program]]
+   by [[https://chessprogramming.wikispaces.com/Dan+Spracklen][Dan]] and [[https://chessprogramming.wikispaces.com/Kathe+Spracklen][Kathe]] Spracklen
+
+   Published November 1, 1978
 * The Dictionary Definition of *Hack*
 
-On one of our my little runs around town meeting the wonderful shop
+On one of our little runs around town meeting the wonderful shop
 owners and managers of Missoula, Jolie Anderson over at the [[http://www.birdsnestbooks.com/][Bird's
 Nest Books]] donated a few extra-ordinary prizes, and as [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/William-Halliburton][Will]] sat, in
 the Missoula First Friday sunshine, enjoying a free coffee out on a
@@ -158,7 +181,7 @@ to
 
 The wicked sharp and generous people out at the new [[https://www.opportunityecycling.org/][Opportunity
 E-Cycling]], out near the airport, have donated a box of used laptop
-batteries destined for being shipped[fn:1] out[fn:2] of town and we at
+batteries destined for being shipped[fn:shipped] out[fn:out] of town and we at
 the Missoula Civic Hackathon thought we might be able to put a few of
 them to use here in town.
 
@@ -174,20 +197,20 @@ sound of "battery power active", my guages read:
 #+RESULTS: full-battery
 #+begin_example
 barcoding                   1ZET589B0BC
-charging max current        5000
-charging max voltage        12600
+charging max current        0
+charging max voltage        0
 chemistry                   LION
-current avg                 681
-current now                 670
+current avg                 0
+current now                 0
 cycle count                 123
 design capacity             84240
 design voltage              10800
 dump                        c0 80 01 02 e0 5a 00 00 00 00 00 00 00 00 00 00 …
 first use date              2009-03-10
 force discharge             0
-group0 voltage              4183
-group1 voltage              4177
-group2 voltage              4178
+group0 voltage              4189
+group1 voltage              4183
+group2 voltage              4196
 group3 voltage              0
 inhibit charge minutes      0
 installed                   1
@@ -195,24 +218,33 @@ last full capacity          77790
 manufacture date            2008-09-11
 manufacturer                Panasonic
 model                       92P1133
-power avg                   8538
-power now                   8400
-remaining capacity          74840
-remaining charging time     44
-remaining percent           97
+power avg                   0
+power now                   0
+remaining capacity          77790
+remaining charging time     not_charging
+remaining percent           100
 remaining percent error     0
 remaining running time      not_discharging
 remaining running time now  not_discharging
 serial                      375
 start charge thresh         96
-state                       charging
+state                       idle
 stop charge thresh          100
-temperature                 33200
-voltage                     12550
+temperature                 33100
+voltage                     12568
 #+end_example
 
 Just a wee bit of research and it looks like we have a pretty “new”
 laptop battery here...
+
+#+name: percent-left
+#+begin_src lisp
+  (format nil "This battery is at ~D% of design capacity charge."
+          (round (* 100 (/ 77790 84240))))
+#+end_src
+
+#+RESULTS: percent-left
+: This battery is at 92% of design capacity charge.
 
 Lithium-ion batteries, especially for the purposes we intend to us
 these batteries, [[https://na.industrial.panasonic.com/sites/default/pidsa/files/uf103450pn_1.pdf][really don't loose much]] even after 500 cycles.
@@ -224,14 +256,72 @@ just have found a very valuable and untapped stream of “waste” of
 electrical energy storage material, unheard of ever in the history of
 humanity — ready for the hacking.
 
-[fn:1]  on pallets in large metal boxes minded from the earth powered
+[fn:shipped] on pallets in large metal boxes minded from the earth powered
 by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
-[fn:2] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
+[fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
 
 * ASCII art show
 ** TODO pick prizes for best original art
-* The Oracle
+* The Sunlight Foundation
+The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
+Civic Hackathon!
+
+    OUR MISSION[fn:sl]
+
+    The Sunlight Foundation is a national, nonpartisan, nonprofit
+    organization that uses the tools of civic tech, open data, policy
+    analysis and journalism to make our government and politics more
+    accountable and transparent to all. Our vision is to use technology
+    to enable more complete, equitable and effective democratic
+    participation. Our overarching goal is to achieve changes in the law
+    to require real-time, online transparency for all government
+    information, with a special focus on the political money flow and
+    who tries to influence government and how government responds. And,
+    our work focuses on the local, state, federal and international
+    levels.
+
+    These efforts have produced real results. To date, we have served
+    more than 4.1 billion API calls (and counting), indicating how much
+    the data we liberate is needed. Our reporting is frequently cited by
+    the world's preeminent journalists. Our research has led to
+    congressional hearings, and our tools have stripped problematic
+    measures from bills. And we recently won a major victory when, at
+    our urging, the federal government agreed to begin the process of
+    releasing all datasets held by federal agencies.
+
+    As government grows ever-more complex, and as the flow of political
+    money becomes more perverse, we will all need better and more
+    creative tools to ensure that democracy thrives.
+
+
+We all hopefully strive daily to shine our own personal sun of
+awareness inside our own internal worlds at the parts of the greater
+world that we do not need there any longer and that have long served
+their purpose, placed in there a long time ago against our then
+undeveloped and vulnerable wills.
+
+These energy matrices, psychopathies, entities, whatever-your-flavor
+will wither and die in the sun like the vampires of lore as the sun
+rises over the horizon.
+
+As this process is vitally critical to our own personal grown and
+evolution — “As above, so below”, and at the level of the “City”, this
+same process must be proceeded in earnest, by all conscious and aware
+beings, at all times, as a necessary constant force of good in this
+world.
+
+Maybe it's time to shine a bit of the burning sunshine of awareness
+around your own town a bit to see if anything scurries out of the
+darkness to rapidly deliquesce — releasing all of that parasitized
+energy for constructive[fn:vampires] use on the betterment of the
+whole.
+
+[fn:sl] http://creativecommons.org/licenses/by/4.0/
+[fn:vampires] It's not like vampires are bad people, their just
+misunderstood and looking for connection like the rest of us.
+
+* [[http://deoxy.org/iching][The Oracle]]
 #+BEGIN_EXAMPLE
 ䷊  Peace
 ䷆  The Army
@@ -242,13 +332,16 @@ The Missoula Civic Hackathon team is now shouldering the “librarian”
 role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
 in participating in the census to read the [[http://us-city.census.okfn.org/about/][Introduction]] and [[http://us-city.census.okfn.org/faq/][FAQ]], from
 which we copy below the list of data sets we are requesting help on
-locating.  We are /not/, we repeat, /not/, at this particular time,
-requesting the city government to release data sets they have
+locating.  We are **not**, we repeat, **not**, at this particular
+time, requesting the city government to release data sets they have
 contained in non publicly-accessible databases, many of which are
 understandibly internally coupled to and expensive to decouple from
 highly personal data that the City of Missoula would be violating
-citizens trust and personal privacy law to release into the wild. This
-is only a census.
+citizens trust and personal privacy law to release into the wild. The
+Missoula Civic Hackathon Team understands this problem deeply and is
+here, once trust is eventually established, to help.
+
+This is only a census.
 
 +------------------------+--------------------------------------------------+
 |                        |                                                  |
@@ -435,7 +528,7 @@ except the building of potential energy
 
 within each and every one of us.
 
-* farewell for now, and **Happy Hacking** from the
+* Farewell for now, and **Happy Hacking** from the
 #+BEGIN_EXAMPLE
                  .  .             .
                  |\/|* __ __ _ . .| _.
@@ -450,36 +543,6 @@ within each and every one of us.
       |  (/,(_][ | ) *                 __O>O__/
 
 #+END_EXAMPLE
-
-* Wi Xing
-
-#+BEGIN_SRC dot :file dot_success.png
-  digraph {
-  metal -> water
-  water -> wood
-  wood -> fire
-     fire -> earth
-  earth -> metal
-  dot -> "Success" [style=dotted]
-  }
-#+END_SRC
-
-#+CAPTION: We love graphs!
-#+LABEL: fig.dot
-#+RESULTS:
-[[file:dot_success.png]]
-
-This is the [[fig.dot][graph]].
-
-
-(defun wu ()
-  (with-graph (:nodes (element)
-               :edges ((generates) (overcomes))
-               :graph ((metal water wood fire earth metal)
-                       (overcomes metal wood earth water fire metal)))
-    (print)))
-
-
 
 * License
 This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
@@ -524,8 +587,7 @@ pub   4096R/5B975E63 2016-06-07 [expires: 2019-06-07]
 uid                  William Halliburton <will@blueskystewardship.org>
 #+END_EXAMPLE
 
-* ideas                                                            :noexport:
-** TODO list of transportation hackathons
+* TODO list of transportation hackathons
    # http://hackthecommute.seattle.gov
    # http://hackthecommute.seattle.gov/2015/03/03/a-civic-hackathon-presented-by-the-city-of-seattle-and-commute-seattle
 

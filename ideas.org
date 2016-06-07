@@ -1,0 +1,33 @@
+#+TITLE: Newsletter Ideas
+
+* Newsletter Ideas
+** Wi Xing
+
+#+BEGIN_SRC dot :file dot_success.png
+  digraph {
+  metal -> water
+  water -> wood
+  wood -> fire
+     fire -> earth
+  earth -> metal
+  dot -> "Success" [style=dotted]
+  }
+#+END_SRC
+
+#+CAPTION: We love graphs!
+#+LABEL: fig.dot
+#+RESULTS:
+file:dot_success.png]]
+
+This is the [[fig.dot][graph]].
+
+
+(defun wu ()
+  (with-graph (:nodes (element)
+               :edges ((generates) (overcomes))
+               :graph ((metal water wood fire earth metal)
+                       (overcomes metal wood earth water fire metal)))
+    (print)))
+
+
+** TODO add target='_blank' to html exports
