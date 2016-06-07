@@ -581,11 +581,75 @@ the field, doing what we do best — Hacking.
   and encrypt all private communications. A good daily habit akin to
   brushing your teeth.
 
-#+BEGIN_EXAMPLE
-pub   4096R/5B975E63 2016-06-07 [expires: 2019-06-07]
-      Key fingerprint = 2C11 F044 24FF 1987 9214  02B0 B873 00D6 5B97 5E63
-uid                  William Halliburton <will@blueskystewardship.org>
-#+END_EXAMPLE
+#+BEGIN_SRC sh :results verbatim
+gpg --fingerprint will@blueskystewardship.org
+#+END_SRC
+
+#+RESULTS:
+: pub   4096R/5B975E63 2016-06-07 [expires: 2019-06-07]
+:       Key fingerprint = 2C11 F044 24FF 1987 9214  02B0 B873 00D6 5B97 5E63
+: uid                  William Halliburton <will@blueskystewardship.org>
+: sub   4096R/03E2AF63 2016-06-07 [expires: 2019-06-07]
+:
+#+BEGIN_SRC sh :results verbatim
+gpg --armor --export will@blueskystewardship.org
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQINBFdW77gBEADFzMTZxSMiLIzTMT6ss0xI+9zhk5KUqT/ziXo1d+7BrHnCNSbz
+03IK9lu76qDvb7aM4d9qptAlwsLAL5Q2dqlHcdqkXTGXP+LFqb7+XNrwj9TmMNLx
+rK//qplu7blAtDjE3qo1g/DtwzqhLHkyFwclGLq+AinfIWongiN7kCPqEjDXYrO9
+UTjUtl+X3ebI5c6bG5J5VfJgfJZ1rNGcIKt9Qwpzy04REeCPpUrFWh5/9x7JGJC0
+mTGy9I4nIU3evSQ5wH46oSEiJecOMP3DOwLGnNpoPE34R+Z7Es+ryJ1s/tdeSDrs
+a/ZnB8S2r2g5tnW65Z0xzipDXWlyzmy0TwdIGCA+sabhnKCEJMUk32XRIcB9dLLH
+EadWRz8UFWOjcCgILTtghhIRemUmCIkvBir+vdhzU734oPKfM4NRR31POLR5T2oJ
+e3JYu429SueV+qea0wmRD6kZYhX6viFULJimqxgRURQgte/72xq8GxiUHOiVjMxB
+UcxgwvS/FJGnbuNeZ/dUaUbh0odinOtmwvwFnMOxpH/piikjpOpJdRLFPwIcQBB7
+RKzBEvC+9dH5Cn445EUuLlHkS+pLFvR5AOaM8fHqr2rg4szRTUoEBR0lYH5k+0CJ
+PkL4OShzl4vVnRJ0FVNeHHoujsFgMLFqHMR6ZdqXEvzJQ6dtIkYkhVZw5QARAQAB
+tDFXaWxsaWFtIEhhbGxpYnVydG9uIDx3aWxsQGJsdWVza3lzdGV3YXJkc2hpcC5v
+cmc+iQI9BBMBCAAnBQJXVu+4AhsDBQkFo5qABQsJCAcDBRUKCQgLBRYCAwEAAh4B
+AheAAAoJELhzANZbl15jd/EP+wS7YzSgm61BRQzGEaSry1CBIN8GrNADHCqSIUdU
+QpHB9GARmMzcqL9EeDiyXdXjY6rQ14f+M4WT+RQ0wRGP0wAKhllNWvxqT6auWfEP
+K1wGwVXeg30zRQQmTtSwS8Dz2Ut427uGAIaLpNGJ7hstj/27eYk873dxroDcG6zp
+qkfnu32YZ7D0fiRfSr4Ur79tvoAY4cj7mhyjc/CgGkQb5eDRZ/Eu0dCSGj0bE0Nd
+dlTRtM23YX6RoErGskZzKb3cG/CXXvD6BMMj/NJVkzPu4jzzMmBxKTtfccNeVsMd
+ex2w0Au6c9ebEbDW9AVV5PZ1aIu1nWEH2v4X2i9aKLVfz8ZZrmt+eSbkD3iKIQhF
+kb+5OA+ybbezpmlnDOx/CI6HvRIpydFWa5Lt69tejUeB9J1PtcMIjDF1Q5ofY+l5
+pn4QnBP7LwGYXtbwSCsqiZCoICYG9WEcLPr77vL0DwnzfWp/ph13eJSqDvh2qF7k
+l2Jdh+ku8SOi3YGwwVug+iIIU3HT0NcNLdSnBEHr0xiwMeR7+BSeb0PJXsbmbBPL
+jtjrm9dmIC3tJh2pCHXQAwN8T4JFbk0lKPHGg6nujpJRYyjYyELAc4QeYixUJ/y+
+m1MQ8NT5x/v8MPYN4QRLXP3XZg0qhsScE6aBAFNlcwDnLEM3Bbo9v69boULOTJjR
+Mp+RuQINBFdW77gBEAC9F2klHLseRtSfNVx56uWVdd2cRYLundIiiMLwioz2FI/t
+Dpvv1+5jO80nFpgeuWVFGVo2NvzaCT9/EE2ghW6xpGwYr3f4u+LmmvDoDnz9ssdO
+vxczdtMpWAIXRwc4+vqC2x7xvoNJMoktI0s//qexeXC9ue70ew5rMc11r0314Ouv
+6fpHXeo6Wggu/YFqVIJKM+jb2WLGjGnYqVa9vyCIMXczb/3a0GiTTw7zSGNpJMYN
+slHkeZYBpYqzK3FKQib/OKf/NpkFiXa0EGl+a+FbdLhjADq0VE7/AajnMsX8bnN1
+0134xLyH72aDQZXG3/KB9kXyte4bJVhSHoDvlBd7+tcHCH5LfDrBdIvah+UhcNAB
+dYItd7pX8okKkYflocQUs4rX3g+ciJpEjoUWi+4V7GbNchseWxa0OqsL+UDnZBQH
+T3Ei8H+gpNojyXQDX8wO+vBTS9hZoVm77VTUadpx+ccdnhhylyZGK3vDWdm81Pui
+gx7CcTPeEGjCSL72nmjVSXTGPWdYXSUL2HY/YERssUNf8B3CgpcUGG1Q7cnXkkWk
+6Iy4XD0XiTuPL6//BmxFkXbassmXwqibQWpJ2WKqH++BfBpreqYHNeXpHK3LigkY
+7Zi0ctTlvAGvP2ZHZfYPiW111gHuytSnEM5fOspjgPkWkYV8IkzqTZOkhK2ipwAR
+AQABiQIlBBgBCAAPBQJXVu+4AhsMBQkFo5qAAAoJELhzANZbl15jFrEQAJJHdWqg
+jKUA7rbAo4jx+4ipfvoNRkG6jl9kpwOx/AwmBB1e+WRm3o49m9KkrdgKRvG+Jq9B
+4bTZY/0E/x6qaPOjU+V8mgDngr4+KGbYtajmQzv+YVslUAr/vtV/KyywhwvGC+7H
+zoB9c3k9UNBEY8dg9op8HmECjXHJLD0bphPqQh+sj3sfVQbh4UgWC3ZZ4Mw/QfGu
+T6J9Gj0Y14wwedBKdoo4S51g8BwjcEDLiok/XGUlCyLk6NjIBg0hHhtpnCCrRp2J
+W3xZPSp+aPxZlXn79cLJKAiKwNAFpqI05xtGjjv6DLaR2Olbr5/Fv178Mg2aeUWf
+cVeegaB5W9bcshGCSUioEzbNBy4rUIpyBx4EwASBIafXgMWc74JtD44P5w2n4rNI
+Jdbs0UCqz7kZz7QEelfPInchXYa/HSCO2qmPl1LsFtrlECdo2teUulmdO4EoseAs
+NnNnH9bMpvMiB75W4FZtK04seZdsOU9C4XCj870mnh0iAWNq/zAfKe5vovnQWrqk
+0kYpWuJyMCV49bWzoHV17knstlL2MM4lRES6MGJPvK880uAHuBabpElKzekI7cEY
+LMXD5tPblvEYWnkRnXIksYVwqjlU48Q7ub1QvkdVQlBIg23ge+S1SHYtfrjhZ+iF
+JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
+=9PZN
+-----END PGP PUBLIC KEY BLOCK-----
+#+end_example
 
 * TODO list of transportation hackathons
    # http://hackthecommute.seattle.gov

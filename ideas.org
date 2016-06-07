@@ -31,3 +31,16 @@ This is the [[fig.dot][graph]].
 
 
 ** TODO add target='_blank' to html exports
+** Unix Shell tech tip
+
+   Everyone has their favorite shell aliases. Here are a few of our favorites:
+
+ #+BEGIN_EXAMPLE
+ alias a=alias
+ alias c=clear
+ alias e='emacs -nw'
+ alias m=make
+ alias pg=less
+ alias the="dict -d moby-thesaurus"
+
+ #+END_EXAMPLE
