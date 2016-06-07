@@ -141,7 +141,8 @@
 
    Published November 1, 1978
 
-   This book is a jem. It includes the entire souce code for SARGON.
+   This book is a jem and it includes the entire souce code for
+   SARGON.
 
    An excerpt from the introduction...
 
@@ -153,10 +154,10 @@
    of 5 played. A tie existed for second place, with 3 programs
    scoring a total of 3 points in the 5 rounds."
 
-   "SARGON is written in Z-80 assemblu language using the TDL Macro
+   "SARGON is written in Z-80 assembly language using the TDL Macro
    Assembler. The program occupies 8K of RAM, which includes 2K of
    data areas, 2K of graphic display and user interface, and 4K of
-   move logic. The move ligic is the heart of SARGON. It is displayed
+   move logic. The move logic is the heart of SARGON. It is displayed
    in the block diagram as the set of routines called by FNDMOV (Find
    Move). FNDMOVE controls..."
 
