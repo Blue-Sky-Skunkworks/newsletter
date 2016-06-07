@@ -140,6 +140,28 @@
    by [[https://chessprogramming.wikispaces.com/Dan+Spracklen][Dan]] and [[https://chessprogramming.wikispaces.com/Kathe+Spracklen][Kathe]] Spracklen
 
    Published November 1, 1978
+
+   This book is a jem. It includes the entire souce code for SARGON.
+
+   An excerpt from the introduction...
+
+   "SARGON is a computer chess program by Dan and Kathe Spraklen. In
+   March 1978 it took first place in the first chess tournament held
+   strictly for microcomputers. The tournament took place during the 2
+   1/2 days of the 1978 [[https://en.wikipedia.org/wiki/West_Coast_Computer_Faire][West Coast Computer Faire]] and drew large
+   crowds each day. When the last battle ended, SARGON had won 5 games
+   of 5 played. A tie existed for second place, with 3 programs
+   scoring a total of 3 points in the 5 rounds."
+
+   "SARGON is written in Z-80 assemblu language using the TDL Macro
+   Assembler. The program occupies 8K of RAM, which includes 2K of
+   data areas, 2K of graphic display and user interface, and 4K of
+   move logic. The move ligic is the heart of SARGON. It is displayed
+   in the block diagram as the set of routines called by FNDMOV (Find
+   Move). FNDMOVE controls..."
+
+   Interest anyone?
+
 * The Dictionary Definition of *Hack*
 
 On one of our little runs around town meeting the wonderful shop
