@@ -1,0 +1,531 @@
+#+TITLE: Missoula Civic Hackathon Newsletter - Transportation Edition
+#+AUTHOR: Blue Sky Skunkworks Division
+#+DATE: Summer Solstice, 2016
+#+setupfile: ~/org/newsletter.org
+#+KEYWORDS: civic hackathon, transportation, electronic waste, un-conference, carnival
+#+BEGIN_EXAMPLE
+  ______  ________                                ______
+  ___   |/  /___(_)______________________ ____  _____  /______ _
+  __  /|_/ / __  / __  ___/__  ___/_  __ \_  / / /__  / _  __ `/
+  _  /  / /  _  /  _(__  ) _(__  ) / /_/ // /_/ / _  /  / /_/ /
+  /_/  /_/   /_/   /____/  /____/  \____/ \__,_/  /_/   \__,_/
+
+  ______________         _____
+  __  ____/___(_)___   _____(_)_______
+  _  /     __  / __ | / /__  / _  ___/
+  / /___   _  /  __ |/ / _  /  / /__
+  \____/   /_/   _____/  /_/   \___/
+
+  ______  __               ______          _____ ______                 ______
+  ___  / / /______ ___________  /________ ___  /____  /_ ______ _______ ___  /
+  __  /_/ / _  __ `/_  ___/__  //_/_  __ `/_  __/__  __ \_  __ \__  __ \__  /
+  _  __  /  / /_/ / / /__  _  ,<   / /_/ / / /_  _  / / // /_/ /_  / / / /_/
+  /_/ /_/   \__,_/  \___/  /_/|_|  \__,_/  \__/  /_/ /_/ \____/ /_/ /_/ (_)
+
+
+
+                                          ----  .__o
+                                        ----- _-\_<,
+                                        ---  (*)/'(*)
+
+
+                        __
+                        /  _ _  _   _  _  _  __/_ _ _/_ . _  _
+                       /  / /_|/ /_\  /_//_// /  /_|/  / /_// /
+                                     /
+                         _
+                        /_`  _/ ._/_ . _  _
+                       /_, /_/ / /  / /_// /
+     __o                                                                 __o
+   _`\<,_                                                              _`\<,_
+  (*)/ (*)                                                            (*)/ (*)
+/\/\/\/\/\/\                                                  o;_   /\/\/\/\/\
+            \(*)|\                                            / (*)/
+             \ --_\o      __o          __o          __o      /_-\ /
+              \(*)!     _`\<,_       _`\<,_       _`\<,_      (*)/
+               \       (*)/ (*)     (*)/ (*)     (*)/ (*)       /
+                \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+#+END_EXAMPLE
+
+* Welcome!
+
+  Hello fellow civic hackers,
+
+  Less than a fortnight until the second Missoula Civic Hackathon and
+  the core team has much to share in ...
+
+* The First Installment of Our Newsletter
+
+  Version 1.0 — here we go!
+
+  I hope you all enjoy this message and everyone is highly encouraged
+  to self-organize and help out on any of the myriad of paths below,
+  communicating results back into the net.
+
+* Plan for the Second Missoula Civic Hackathon
+
+  After much deliberation and meditation on the successes and failures
+  of the last hackathon, the crew has changed it up a bit this time,
+  and I'm pretty confident you will all be pleased.
+
+  In leu of strict science and more in line with /Alchemy/ we're
+  gonna hit the ~Math.random()~ function here with regard to the
+  variables at play...
+
+* Free!
+
+  As much of a learning experience renting our own commercial kitchen
+  and serving amazing meals was, it was very stressful for our core
+  beloved and the only monetary cost for the first hackathon. Removing
+  this task allows us to focus on the festivities and offer this
+  imaginative and unique to Missoula event for free.
+
+  And with the support from our generous sponsors we are offering a
+  [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]], Saturday, to everyone that signs up for the event before
+  June 17th.
+
+* Non-Profit Sponsorship and Fundraiser
+
+  Hoping to follow the same successfull pattern of non-profit support
+  and shared growth through synergy we experenced in the first
+  Hackathon, as [[http://blueskystewardship.org][Blue Sky Stewardship]] sponsored the last hackathon with
+  their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals and Friday
+  night dinner party, this hackathon is sponsored by the [[http://www.strans.org][Montana
+  Institute of Sustainable Transportation]] and [[http://www.freecycles.org][Free Cycles]] with their
+  fantastically creative community bike shop and inventive up-cycling
+  laboratory.
+
+  If you are not yet aware, Free Cycles is in the middle of possibly
+  their most important time in fund-raising history with the push to
+  save their home from being razed to the ground, everyone swept up
+  with that crazy new dance everyone is talking about called “out with
+  the old and in with the new,” the quick flip of a long lasting
+  community for the joy of the rush of the high of the dazzle of the
+  phantasmagoria of the myopic reality tunnel called “modern civilized
+  progress”.
+
+  The team here thinks that there may be just a little wiggle room
+  here for the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
+
+* Carnival!!!
+
+  The [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/TAZ][Temporary Autonomous Zone]] myriad mix of [[https://en.wikipedia.org/wiki/Midsummer][summer festival
+  tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
+  skills and thrills, connection and conversation, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]]
+  and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using miniature [[https://en.wikipedia.org/wiki/Braitenber][Braitenberg vehicles]]
+  self-assembling out of discarded [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously
+  stamped [[https://en.wikipedia.org/wiki/Neuromancer]["Chiba City,'53"]], races to the finish line, winners and
+  learner, silence and centering, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+
+* The Dictionary Definition of *Hack*
+
+On one of our my little runs around town meeting the wonderful shop
+owners and managers of Missoula, Jolie Anderson over at the [[http://www.birdsnestbooks.com/][Bird's
+Nest Books]] donated a few extra-ordinary prizes, and as [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/William-Halliburton][Will]] sat, in
+the Missoula First Friday sunshine, enjoying a free coffee out on a
+Burning Man'esque streetside [[https://en.wikipedia.org/wiki/Parklet][parklet]] erected by [[http://www.factandfictionbooks.com][Fact and Fiction]],
+another Hackathon sponsor, Que's *Computer User's Dictionary* 5th
+Edition, [[https://en.wikipedia.org/wiki/Fair_use][Copyright 1994]], a prize for the winning, written by the
+social anthropologist Bryan Pfaffenberger, fell open, as if magically,
+to
+
+#+BEGIN_EXAMPLE
+                        HHHHHHHHH     HHHHHHHHH
+                        H:::::::H     H:::::::H
+                        H:::::::H     H:::::::H
+                        HH::::::H     H::::::HH
+                          H:::::H     H:::::H
+                          H:::::H     H:::::H
+                          H::::::HHHHH::::::H
+                          H:::::::::::::::::H
+                          H:::::::::::::::::H
+                          H::::::HHHHH::::::H
+                          H:::::H     H:::::H
+                          H:::::H     H:::::H
+                        HH::::::H     H::::::HH
+                        H:::::::H     H:::::::H
+                        H:::::::H     H:::::::H
+                        HHHHHHHHH     HHHHHHHHH
+#+END_EXAMPLE
+
+    *hack*
+
+    “An inordinately clever rearrangement of existing system resources
+    that results, as if my magic, in a stunning improvement in system
+    performance—or an equally stunning prank.”
+
+* Batteries - or how Missoula began loving electric bicycles
+
+The wicked sharp and generous people out at the new [[https://www.opportunityecycling.org/][Opportunity
+E-Cycling]], out near the airport, have donated a box of used laptop
+batteries destined for being shipped[fn:1] out[fn:2] of town and we at
+the Missoula Civic Hackathon thought we might be able to put a few of
+them to use here in town.
+
+First test — popped in a dusty 9-cell Li-ion into my trusted [[http://www.thinkwiki.org/wiki/Category:T500][Thinkpad
+T500]] yesterday to a "charging 0.1%" and now, as I pull the cord to the
+sound of "battery power active", my guages read:
+
+#+name: full-battery
+#+begin_src lisp :results output
+  (battery)
+#+end_src
+
+#+RESULTS: full-battery
+#+begin_example
+barcoding                   1ZET589B0BC
+charging max current        5000
+charging max voltage        12600
+chemistry                   LION
+current avg                 681
+current now                 670
+cycle count                 123
+design capacity             84240
+design voltage              10800
+dump                        c0 80 01 02 e0 5a 00 00 00 00 00 00 00 00 00 00 …
+first use date              2009-03-10
+force discharge             0
+group0 voltage              4183
+group1 voltage              4177
+group2 voltage              4178
+group3 voltage              0
+inhibit charge minutes      0
+installed                   1
+last full capacity          77790
+manufacture date            2008-09-11
+manufacturer                Panasonic
+model                       92P1133
+power avg                   8538
+power now                   8400
+remaining capacity          74840
+remaining charging time     44
+remaining percent           97
+remaining percent error     0
+remaining running time      not_discharging
+remaining running time now  not_discharging
+serial                      375
+start charge thresh         96
+state                       charging
+stop charge thresh          100
+temperature                 33200
+voltage                     12550
+#+end_example
+
+Just a wee bit of research and it looks like we have a pretty “new”
+laptop battery here...
+
+Lithium-ion batteries, especially for the purposes we intend to us
+these batteries, [[https://na.industrial.panasonic.com/sites/default/pidsa/files/uf103450pn_1.pdf][really don't loose much]] even after 500 cycles.
+
+The battery powering the laptop this text is being entered, with over
+4 hours remaining of battery power, was the first battery I tried out
+of the box of 50 lbs., and we may have beginners luck here, or we may
+just have found a very valuable and untapped stream of “waste” of
+electrical energy storage material, unheard of ever in the history of
+humanity — ready for the hacking.
+
+[fn:1]  on pallets in large metal boxes minded from the earth powered
+by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
+
+[fn:2] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
+
+* ASCII art show
+** TODO pick prizes for best original art
+* The Oracle
+#+BEGIN_EXAMPLE
+䷊  Peace
+䷆  The Army
+#+END_EXAMPLE
+* US City Open Data Census
+
+The Missoula Civic Hackathon team is now shouldering the “librarian”
+role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
+in participating in the census to read the [[http://us-city.census.okfn.org/about/][Introduction]] and [[http://us-city.census.okfn.org/faq/][FAQ]], from
+which we copy below the list of data sets we are requesting help on
+locating.  We are /not/, we repeat, /not/, at this particular time,
+requesting the city government to release data sets they have
+contained in non publicly-accessible databases, many of which are
+understandibly internally coupled to and expensive to decouple from
+highly personal data that the City of Missoula would be violating
+citizens trust and personal privacy law to release into the wild. This
+is only a census.
+
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Asset Disclosure       | Top-level government officials’ financial        |
+|                        | assets, including: name of top-level government  |
+|                        | officials, title, investment information, prior  |
+|                        | and current business relationships, real estate  |
+|                        | interests, and personal income (including gifts  |
+|                        | and travel or speaking payments).                |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Budget                 | Municipal budget at a high level (e.g. planned   |
+|                        | budget by unit of appropriation with a           |
+|                        | programmatic description of each unit of         |
+|                        | appropriation). This category is about budget    |
+|                        | which are plans for expenditure (not actual      |
+|                        | expenditure in the past).                        |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Business Listings      | A directory of all licensed businesses in the    |
+|                        | municipal area, including key information such   |
+|                        | as: name, address, contact information, business |
+|                        | type.                                            |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Campaign Finance       | Amount contributed to each candidate and by      |
+| Contributions          | whom.                                            |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Code Enforcement       | Building code inspection data surfacing reports  |
+| Violations             | on particular properties from code enforcement   |
+|                        | officials.                                       |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Construction Permit    | Locations of issued construction permits.        |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Crime                  | City crime report data, preferably at            |
+|                        | reasonably disaggregated level.                  |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Lobbyist Activity      | Actions of named registered lobbyists.           |
+|                        |                                                  |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Parcels                | Property parcel boundary data.                   |
+|                        |                                                  |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Procurement Contracts  | The full text of municipal contracts with        |
+|                        | vendors, including amount, awardee (name,        |
+|                        | address), date awarded etc.                      |
+|                        |                                                  |
++------------------------+ -------------------------------------------------+
+|                        |                                                  |
+| Property Assessment    | Data about assessed property values.             |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Property Deeds         | The recording of property sales, mortgages, and  |
+|                        | foreclosures. See your local Registry/Recorder   |
+|                        | of Deeds.                                        |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Public Buildings       | Locations of city-owned buildings.               |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Restaurant Inspections | Outcomes of food safety inspections of           |
+|                        | restaurants and other similar providers of food  |
+|                        | to the public.                                   |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Service Requests (311) | Non-emergency service requests, (that some       |
+|                        | cities request by dialing 3-1-1), such as:       |
+|                        | graffiti, non-working traffic lights, noise      |
+|                        | complaints, parking law enforcement, and         |
+|                        | potholes. Data should be at granular (per        |
+|                        | request) level.                                  |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Spending               | A complete list of city expenditures at a        |
+|                        | detailed transactional level (including: tax     |
+|                        | breaks, loans, contracts, grants, and            |
+|                        | operational spending). Records of actual (past)  |
+|                        | municipal spending at a detailed transactional   |
+|                        | level, for example, at the level of month to     |
+|                        | month expenditure on specific items (usually     |
+|                        | this means individual records of spending        |
+|                        | amounts at a fairly granular level - e.g. $5-50k |
+|                        | rather than at the $1m+ level). Note: a database |
+|                        | of contracts awarded or similar is not           |
+|                        | considered sufficient. This data category refers |
+|                        | to detailed ongoing data on actual expenditures. |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Transit                | Timetables (schedules), locations of stops, and  |
+|                        | real-time location information of all            |
+|                        | municipally run or commissioned transit services |
+|                        | (buses, subway, rail tram etc).                  |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Zoning (GIS)           | The mapped zone (GIS) shapefiles of designated   |
+|                        | permitted land use in your city.                 |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+|                        |                                                  |
+| Web Analytics          | Overall traffic stats, page-level traffic stats, |
+|                        | site search logs, and browser-agent breakdowns   |
+|                        | from your city’s primary web property.           |
+|                        |                                                  |
++------------------------+--------------------------------------------------+
+
+* JRPC Un-Conference
+
+The second annual [[https://jrpc.org/roots-and-wings][Jeannett Rankin Peace Un-Conference]], celebrating the
+[[http://jrpc.org][Jeanette Rankin Peace Center]]'s 30 year anniversary and [[https://en.wikipedia.org/wiki/Jeannette_Rankin][Jeannett's
+Rankin]]'s birthday, is occurring this Saturday, June 11th
+8:30a.m.–5:30p.m. with an all day Un-Conference facilitated by the
+Hackathon team's own Harold Shinsato.
+
+The theme for this years conference is:
+
+    How Will You Take Radical Responsibility For a Better World?
+
+I invite all who have June 11th free to join us at the University
+Congregational Church for this unique and special event.
+
+* Closing statement
+
+I would like to stop now and pause.
+
+.
+.
+.
+.
+.
+.
+.
+
+and remind everyone reading, that, at this point in time
+
+.
+.
+.
+.
+.
+.
+.
+
+absolutely nothing detailed in this newsletter has actually happened,
+
+.
+.
+.
+.
+.
+.
+.
+
+except the building of potential energy
+
+.
+.
+.
+.
+.
+.
+.
+
+within each and every one of us.
+
+* farewell for now, and **Happy Hacking** from the
+#+BEGIN_EXAMPLE
+                 .  .             .
+                 |\/|* __ __ _ . .| _.
+                 |  ||_) _) (_)(_||(_]
+
+     __            .  .      .      , .
+    /  `*.  ,* _.  |__| _. _.;_/ _.-+-|_  _ ._
+    \__.| \/ |(_.  |  |(_](_.| \(_] | [ )(_)[ )
+
+    .___.            |                          __/\
+      |   _  _.._ _  |                    _o   /  \ \_
+      |  (/,(_][ | ) *                 __O>O__/
+
+#+END_EXAMPLE
+
+* Wi Xing
+
+#+BEGIN_SRC dot :file dot_success.png
+  digraph {
+  metal -> water
+  water -> wood
+  wood -> fire
+     fire -> earth
+  earth -> metal
+  dot -> "Success" [style=dotted]
+  }
+#+END_SRC
+
+#+CAPTION: We love graphs!
+#+LABEL: fig.dot
+#+RESULTS:
+[[file:dot_success.png]]
+
+This is the [[fig.dot][graph]].
+
+
+(defun wu ()
+  (with-graph (:nodes (element)
+               :edges ((generates) (overcomes))
+               :graph ((metal water wood fire earth metal)
+                       (overcomes metal wood earth water fire metal)))
+    (print)))
+
+
+
+* License
+This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License.]]
+
+* Disclaimer
+
+Ideas and people mentioned and referenced in this document in no way
+reflect the beliefs and conviction of the Missoual Civic Hackathon
+team as a whole or any one of the many of our sponsors and supporters.
+
+As nothing is truly static in this world and all things, great and
+small, are either evolving or devolving, we know which side of this
+deeply personal existential flip-trap we want to land — on our feet,
+running fast, concious and loving and open to new ways of attempting
+to evolve our own collective reality together. There is just too much
+[[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to address,
+[[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical energy on
+needless conflict, almost always rooted in miss-understanding and
+miss-communications, and with the infinite fractal of beautiful
+graceful hacks left to perform together, and we do need [[http://www.census.gov/popclock/][all of us]] now,
+we perfer to work out our differences along-side each other, out in
+the field, doing what we do best — Hacking.
+
+* You Can Contribute to the Missoula Civic Hackathon Newsletter
+  The Missoula Civic Hackathon is taking submissions for the next
+  installment of our newsletter. Join us in the quest for
+  disseminating our and others successes and failures in Civic Hacking
+  to the world.
+
+  All submissions should be sent to
+
+     will@blueskystewardship.org
+
+  Everyone is [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to sign
+  and encrypt all private communications. A good daily habit akin to
+  brushing your teeth.
+
+#+BEGIN_EXAMPLE
+pub   4096R/5B975E63 2016-06-07 [expires: 2019-06-07]
+      Key fingerprint = 2C11 F044 24FF 1987 9214  02B0 B873 00D6 5B97 5E63
+uid                  William Halliburton <will@blueskystewardship.org>
+#+END_EXAMPLE
+
+* ideas                                                            :noexport:
+** TODO list of transportation hackathons
+   # http://hackthecommute.seattle.gov
+   # http://hackthecommute.seattle.gov/2015/03/03/a-civic-hackathon-presented-by-the-city-of-seattle-and-commute-seattle
+
