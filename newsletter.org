@@ -47,108 +47,134 @@
                 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #+END_EXAMPLE
 
-* Welcome!
+* DONE Welcome!
 
   Hello fellow civic hackers,
 
   Less than a fortnight until the second Missoula Civic Hackathon and
   the core team has much to share in ...
 
-* Our First Install(ment)
+* TODO Our First Install(ment)
 
   Version 1.0 — here we go!
 
-  I hope you all enjoy this message and everyone is highly encouraged
-  to self-organize and help out on any of the myriad of paths below,
-  communicating results back into the net.
+  We hope you all enjoy this [[https://en.wikipedia.org/wiki/Cybernetics][communication]].
 
-* Plan for the Second Missoula Civic Hackathon
+  [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]] and help us out on
+  any of the myriad of reality tunnels flirted with below,
+  communicating all results back into the net.
+
+* DONE Plan for the Second Missoula Civic Hackathon
 
   After much deliberation and meditation on the successes and failures
-  of the last hackathon, the crew has changed it up a bit this time,
-  and I'm pretty confident you will all be pleased.
+  of throwing our first hackathon, the crew has changed it up a bit
+  this time, and I'm pretty confident you will all be pleased.
 
   In leu of strict science and more in line with /Alchemy/ we're
   gonna hit the ~Math.random()~ function here with regard to the
   variables at play...
 
-* Free!
+* DONE **Free!**
 
   As much of a learning experience renting our own commercial kitchen
   and serving amazing meals was, it was very stressful for our core
-  beloved and the only monetary cost for the first hackathon. Removing
-  this task allows us to focus on the festivities and offer this
-  imaginative and unique to Missoula event for free.
+  beloved and the only monetary cost for the first
+  hackathon. Eliminating this unnecessary task allows us to focus on
+  the festivities and offer this imaginative and unique to Missoula
+  event for **free**.
 
   And with the support from our generous sponsors we are offering a
   [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]], Saturday, to everyone that signs up for the event before
   June 17th.
 
-* Non-Profit Sponsorship and Fundraiser
+* DONE Non-Profit Sponsorship and Fundraiser
 
   Hoping to follow the same successfull pattern of non-profit support
   and shared growth through synergy we experenced in the first
   Hackathon, as [[http://blueskystewardship.org][Blue Sky Stewardship]] sponsored the last hackathon with
   their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals and Friday
-  night dinner party, this hackathon is sponsored by the [[http://www.strans.org][Montana
+  night dinner party, this next hackathon is sponsored by the [[http://www.strans.org][Montana
   Institute of Sustainable Transportation]] and [[http://www.freecycles.org][Free Cycles]] with their
-  fantastically creative community bike shop and inventive up-cycling
+  fantastically creative community bike shop and inventive upcycling
   laboratory.
 
   If you are not yet aware, Free Cycles is in the middle of possibly
   their most important time in fund-raising history with the push to
   save their home from being razed to the ground, everyone swept up
   with that crazy new dance everyone is talking about called “out with
-  the old and in with the new,” the quick flip of a long lasting
+  the old and in with the new,” — the quick flip of a long lasting
   community for the joy of the rush of the high of the dazzle of the
   phantasmagoria of the myopic reality tunnel called “modern civilized
   progress”.
 
-  The team here thinks that there may be just a little wiggle room
-  here for the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
+  The team thinks that there may just be a little wiggle room here for
+  the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
 
-* Carnival!!!
+* TODO Carnival!!!
 
   The [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/TAZ][Temporary Autonomous Zone]] myriad mix of [[https://en.wikipedia.org/wiki/Midsummer][summer festival
   tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
-  [[https://en.wikipedia.org/wiki/AWK][skills]] and [[http://www.oikos.org/stepsintro.htm][thrills]], connection and conversation, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]]
-  and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using miniature [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]]
-  self-assembling out of discarded [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously
-  stamped [[https://en.wikipedia.org/wiki/Neuromancer]["Chiba City,'53"]], races to the finish line, winners and
-  learner, silence and centering, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+  [[https://en.wikipedia.org/wiki/AWK][skills]] and [[http://www.oikos.org/stepsintro.htm][thrills]], [[https://en.wikipedia.org/wiki/Unconference][connection and conversation]], silence and
+  centering, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]] and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using
+  miniature [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
+  [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
+  finish line, winners and learner, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+
+* TODO A [[https://en.wikipedia.org/wiki/Autodidacticism][Skills]] [[https://en.wikipedia.org/wiki/Spectrograph][Spectrograph]]
+  + [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
+  + [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]
+  http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/awk.pdf
+  + [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/sed.pdf][sed]]
+  + [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/make.pdf][make]]
+  + vi
+  + [[http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/][bash]]
+  + diff
+  + emacs
+  + [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
+* TODO Social Hacking Croundfunding
+  https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
+  https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
+  http://www.rhubarbstudios.co/crowdfunding-growth-hacker/
+  http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/
+  http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
+  http://www.crowd101.com/hacking-way-success-crowdfunding/
+* DONE Holding Space
 
   The Missoula Civic Hackathon team is holding this space, tentativly
   now, but we are asking for all of your help to solidify our hold.
 
-  You participate in our activities by showing up. We all love this
-  stuff, but the modern world demands its high tax on the true wealths
-  of this world, one being time and, if this song is close enough to
-  your own personal song to join this choir, and you have that
-  precious time to spare, come be awkward with the rest of us “nerds”
-  — as we hack this world for the better together.
+  You participate in our activities by showing up and being yourself.
 
-* Prizes Worth Hacking For
+  We all love this stuff, but the modern world demands its high tax on
+  the true wealths of this world, one being time, and if this song is
+  close enough to your own personal song to join this choir, and you
+  have that precious time to spare, come be awkward with the rest of
+  us “nerds” — as we hack this world for the better, together.
+
+* DONE Prizes Worth Hacking For
 
   Oh boy does the universe like to throw prizes at civic hackathons.
 
   I think many of you will find much value and surprise in the prizes
   we have collected and will collect up to the day of the hackathon!
 
-  Here is a wee bit of a teaser..
+  Here is a wee bit of a teaser:
 
-  + 1 $20 gift card to Five on Black
+  + 1 $10 gift card to [[www.shakespeareandco.com][Shakespear & Co. Bookstore]]
+  + 1 $20 gift card to [[http://www.fiveonblack.com/][Five on Black]]
   + 1 [[http://www.louisgarneau.com/][Louis Garneau]] Racing Jersey
   + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
   + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
-  + 1 copy of Que's C
+  + 1 copy of Que's Computer User's Dictionary, 5th Edition
   + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
   + 1 IBM Thinkpad T500
 
   And, although not the most “valuable” prize in the bunch, the
-  following book, to me, is the grand prize.  It truly is a gem that
-  would teach any programmer, beginning and seasoned, much if they
-  were to explore it fully.  The entire well-commented assembly
-  listing is included.
+  following book, to me, is the **grand prize**.  It truly is a gem
+  that would teach any programmer much, beginning and seasoned, if
+  they were to explore it fully.
+
+  The entire well-commented assembly listing is included.
 
 ** [[http://www.amazon.com/Sargon-Computer-Program-Dan-Spracklen/dp/0810451557][SARGON: A Computer Chess Program]]
    by [[https://chessprogramming.wikispaces.com/Dan+Spracklen][Dan]] and [[https://chessprogramming.wikispaces.com/Kathe+Spracklen][Kathe]] Spracklen
@@ -171,65 +197,7 @@
    move logic. The move logic is the heart of SARGON. It is displayed
    in the block diagram as the set of routines called by FNDMOV (Find
    Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
-
-* Learning from “Old” Byte Magazines
-
-** http://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up
-** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n17/mode/2up][Functional Approximations]]
-** http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n35/mode/2up
-** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n49/mode/2up][The Sky's the Limit]]
-   "This article outlines how intercomputer communications networks
-   can be set up on existing amateur radioteletypewriter (RTTY)
-   networks, without requiring the computer user to have an amateur
-   radio license."
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n75/mode/2up][Machine Language Puzzler - TIMOUT]]
-   "Subroutine "TIMOUTN" is used to introduce a time delay in the
-   execution of a main program. The program, written in 8080 assembly
-   language, is shown as follows:"
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n77/mode/2up][A Computer Controlled Stepper Moter Light Scanner]]
-   "Photo 1. A stepper motor controlled scanning sensor capable of
-   detecting both infared and visible light. A photo detecter is
-   mounted at the focal point of an inexpensive parabolic solar
-   cigarette lighter. The computer controlled unit is capable of
-   following a moving flashlight, detecting headlights in a driveway,
-   and many other applications."
-
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n113/mode/2up][Controlling a System with a Microcomputer]]
-   "The object of this experiment is to illustrate how a computer
-   program, running in a simple microprocessor, can be used as a
-   control element for a system."
-
-
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n121/mode/2up][A Multiuser Data Network]]
-   "Figure 1. The use of a remote transceiver at an advantageous
-   centrally located site greatly increases operational range of a
-   network of users at VHF frequencies.
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n135/mode/2up][Puzzle]]
-   "This story is basically a learning tool that teaches the user how
-   to convert numbers from one number base to another.
-
-   There once was a little (1) ___. As he flew (2) ___ to (3) ____, he...
-
-   (1) 101111101110 Binary
-   (2) 377 Octal...
-
-   See page 8B hexadecimal for the solution."
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n137/mode/2up][Transmission of Digital Data Over Twisted Pair Lines]]
-   "The two intergrated circuits used as line drivers and receivers
-   are the Texas Instruments [[http://www.ti.com/product/SN75183][75183]] and [[http://www.ti.com/lit/ds/symlink/sn75182.pdf][75182]]."
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n141/mode/2up][A Puzzling Switch]]
-   "One of the more interesting methods of interchanging the contents
-   of two memory locations involves the use of the Boolean [[https://en.wikipedia.org/wiki/Exclusive_or][exclusive
-   OR]] function."
-** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n151/mode/2up][Hobbyist Computerized Bulletin Board]]
-   "The Computerized Hobbyist Bulletin Board System is a personal
-   computer based system for message communication among
-   experimenters. People with terminals or computers equipped with
-   modems call in to leave and retrieve messages. It was concieved,
-   designed, built, programmed, tested, and installed in 30 day period
-   (January 16 1978 to February 16 1978) by the two of us."
-
-* The Dictionary Definition of *Hack*
+* DONE The Dictionary Definition of *Hack*
 
 On one of our little runs around town meeting the wonderful shop
 owners and managers of Missoula, Jolie Anderson over at the [[http://www.birdsnestbooks.com/][Bird's
@@ -266,7 +234,7 @@ to
     that results, as if my magic, in a stunning improvement in system
     performance—or an equally stunning prank.”
 
-    And if we now turn to the trusty [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
+    We now turn to the trusty [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
     clarification:
 
     “The ‘hacker culture’ is actually a loosely networked collection
@@ -317,30 +285,30 @@ to
 
     Constructions on this term abound. They include happy hacking (a
     farewell), how's hacking? (a friendly greeting among hackers) and
-    hack, hack (a fairly content-free but friendly comment, often used as
-    a temporary farewell). For more on this totipotent term see The
+    hack, hack (a fairly content-free but friendly comment, often used
+    as a temporary farewell). For more on this totipotent term see The
     Meaning of Hack. See also neat hack, real hack.
+* DONE Batteries - or how Missoula began loving electric bicycles
 
-* Batteries - or how Missoula began loving electric bicycles
-
-The wicked sharp and generous people out at the new [[https://www.opportunityecycling.org/][Opportunity
-E-Cycling]], out near the airport, who are busy keeping Missoula's aging
-electronics from polluting our own landfill, have donated a box of
-used laptop batteries destined for being shipped[fn:shipped]
-out[fn:out] of town and we at the Missoula Civic Hackathon thought we
-might be able to put a few of them to use here in town.
+The wicked sharp and generous people out at the relatively new
+[[https://www.opportunityecycling.org/][Opportunity E-Cycling]], out near the airport, who are busy diligently
+keeping Missoula's aging electronics from polluting our own landfill,
+have donated a box of used laptop batteries destined for being
+shipped[fn:shipped] out[fn:out] of town and we at the Missoula Civic
+Hackathon thought we might be able to put a few of them to use here in
+town.
 
 First test — popped in a dusty 9-cell Li-ion into my trusted
-[[http://www.thinkwiki.org/wiki/Category:T500][ThinkpadT500]] yesterday to a "charging 0.1%" and now, as I pull the
+[[http://www.thinkwiki.org/wiki/Category:T500][Thinkpad T500]] yesterday to a "charging 0.1%" and now, as I pull the
 cord to the sound of "battery power active", my guages read:
 
 #+name: full-battery
-#+begin_src lisp :results output
+#+begin_src lisp :results output :exports none
   (battery)
 #+end_src
 
-#+RESULTS: full-battery
 #+begin_example
+HACKATHON> battery
 barcoding                   1ZET589B0BC
 charging max current        0
 charging max voltage        0
@@ -391,13 +359,13 @@ laptop battery here...
 #+RESULTS: percent-left
 : This battery is at 92% of design capacity charge.
 
-Lithium-ion batteries, especially for the purposes we intend to us
+Lithium-ion batteries, especially for the purposes we intend to use
 these batteries, [[https://na.industrial.panasonic.com/sites/default/pidsa/files/uf103450pn_1.pdf][really don't loose much]] even after 500 cycles.
 
-The battery powering the laptop this text is being entered, with over
-4 hours remaining of battery power, was the first battery I tried out
-of the box of 50 lbs., and we may have beginners luck here, or we may
-just have found a very valuable and untapped stream of “waste” of
+The battery powering the laptop this text is being entered into, with
+over 4 hours remaining of battery power, was the first battery I tried
+out of the box of 50 lbs., and we may have beginners luck here, or we
+may just have found a very valuable and untapped stream of “waste” of
 electrical energy storage material, unheard of ever in the history of
 humanity — ready for the hacking.
 
@@ -405,10 +373,9 @@ humanity — ready for the hacking.
 by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
 [fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
-
-* ASCII art show
+* TODO ASCII art show
 ** TODO pick prizes for best original art
-* The Sunlight Foundation
+* DONE The Sunlight Foundation
 The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
 Civic Hackathon!
 
@@ -439,20 +406,19 @@ Civic Hackathon!
     money becomes more perverse, we will all need better and more
     creative tools to ensure that democracy thrives.
 
-
 We all hopefully strive daily to shine our own personal sun of
 awareness inside our own internal worlds at the parts of the greater
-world that we do not need there any longer and that have long served
-their purpose, placed in there a long time ago against our then
-undeveloped and vulnerable wills.
+world that we do not need any longer and have long served their
+purpose, placed inside each of us, against our then undeveloped and
+vulnerable wills, a long time ago.
 
 These energy matrices, psychopathies, entities, whatever-your-flavor
 will wither and die in the sun like the vampires of lore as the sun
 rises over the horizon.
 
-As this process is vitally critical to our own personal grown and
+As this process is vitally critical to our own personal growth and
 evolution — “As above, so below”, and at the level of the “City”, this
-same process must be proceeded in earnest, by all conscious and aware
+same process must proceed in earnest, by all conscious and aware
 beings, at all times, as a necessary constant force of good in this
 world.
 
@@ -466,25 +432,72 @@ whole.
 [fn:vampires] It's not like vampires are bad people, their just
 misunderstood and looking for connection like the rest of us.
 
-* [[http://deoxy.org/iching][The Oracle]]
-#+BEGIN_EXAMPLE
-䷊  Peace
-䷆  The Army
-#+END_EXAMPLE
-* US City Open Data Census
+* TODO Learning from “Old” Byte Magazines
+** http://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up
+** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n17/mode/2up][Functional Approximations]]
+** http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n35/mode/2up
+** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n49/mode/2up][The Sky's the Limit]]
+   "This article outlines how intercomputer communications networks
+   can be set up on existing amateur radioteletypewriter (RTTY)
+   networks, without requiring the computer user to have an amateur
+   radio license."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n75/mode/2up][Machine Language Puzzler - TIMOUT]]
+   "Subroutine "TIMOUTN" is used to introduce a time delay in the
+   execution of a main program. The program, written in 8080 assembly
+   language, is shown as follows:"
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n77/mode/2up][A Computer Controlled Stepper Moter Light Scanner]]
+   "Photo 1. A stepper motor controlled scanning sensor capable of
+   detecting both infared and visible light. A photo detecter is
+   mounted at the focal point of an inexpensive parabolic solar
+   cigarette lighter. The computer controlled unit is capable of
+   following a moving flashlight, detecting headlights in a driveway,
+   and many other applications."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n113/mode/2up][Controlling a System with a Microcomputer]]
+   "The object of this experiment is to illustrate how a computer
+   program, running in a simple microprocessor, can be used as a
+   control element for a system."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n121/mode/2up][A Multiuser Data Network]]
+   "Figure 1. The use of a remote transceiver at an advantageous
+   centrally located site greatly increases operational range of a
+   network of users at VHF frequencies.
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n135/mode/2up][Puzzle]]
+   "This story is basically a learning tool that teaches the user how
+   to convert numbers from one number base to another.
+
+   There once was a little (1) ___. As he flew (2) ___ to (3) ____, he...
+
+   (1) 101111101110 Binary
+   (2) 377 Octal...
+
+   See page 8B hexadecimal for the solution."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n137/mode/2up][Transmission of Digital Data Over Twisted Pair Lines]]
+   "The two intergrated circuits used as line drivers and receivers
+   are the Texas Instruments [[http://www.ti.com/product/SN75183][75183]] and [[http://www.ti.com/lit/ds/symlink/sn75182.pdf][75182]]."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n141/mode/2up][A Puzzling Switch]]
+   "One of the more interesting methods of interchanging the contents
+   of two memory locations involves the use of the Boolean [[https://en.wikipedia.org/wiki/Exclusive_or][exclusive
+   OR]] function."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n151/mode/2up][Hobbyist Computerized Bulletin Board]]
+   "The Computerized Hobbyist Bulletin Board System is a personal
+   computer based system for message communication among
+   experimenters. People with terminals or computers equipped with
+   modems call in to leave and retrieve messages. It was concieved,
+   designed, built, programmed, tested, and installed in 30 day period
+   (January 16 1978 to February 16 1978) by the two of us."
+* DONE US City Open Data Census
 
 The Missoula Civic Hackathon team is now shouldering the “librarian”
 role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
 in participating in the census to read the [[http://us-city.census.okfn.org/about/][Introduction]] and [[http://us-city.census.okfn.org/faq/][FAQ]], from
 which we copy below the list of data sets we are requesting help on
-locating.  We are **not**, we repeat, **not**, at this particular
-time, requesting the city government to release data sets they have
+locating.
+
+We are **not**, we repeat, **not**, at this particular time,
+requesting the city government to release any data sets they have
 contained in non publicly-accessible databases, many of which are
-understandibly internally coupled to and expensive to decouple from
+,understandibly, internally coupled to and expensive to decouple from
 highly personal data that the City of Missoula would be violating
-citizens trust and personal privacy law to release into the wild. The
-Missoula Civic Hackathon Team understands this problem deeply and is
-here, once trust is eventually established, to help.
+citizens trust and personal privacy law to release into the wild.
 
 This is only a census.
 
@@ -613,8 +626,7 @@ This is only a census.
 |                        | from your city’s primary web property.           |
 |                        |                                                  |
 +------------------------+--------------------------------------------------+
-
-* JRPC Un-Conference
+* DONE JRPC Un-Conference
 
 The second annual [[https://jrpc.org/roots-and-wings][Jeannett Rankin Peace Un-Conference]], celebrating the
 [[http://jrpc.org][Jeanette Rankin Peace Center]]'s 30 year anniversary and [[https://en.wikipedia.org/wiki/Jeannette_Rankin][Jeannett's
@@ -629,33 +641,29 @@ The theme for this years conference is:
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
 
-* The Missoula Civic Hackathon as a possible example of a Hack
+* TODO The Missoula Civic Hackathon as a possible example of a Hack
 
   As I look at my calendar now
 
 #+BEGIN_SRC elisp
-    (format "gregorian — %s\nmayan — %s\nhebrew — %s\nfrench — %s\n"
-            (current-time-string)
-            (calendar-mayan-date-string)
-            (calendar-hebrew-date-string)
-            (calendar-french-date-string)
+        (format "gregorian — %s\nmayan — %s\nhebrew — %s\nfrench — %s\n"
+       (current-time-string)
+       (calendar-mayan-date-string)
+       (calendar-hebrew-date-string)
+       (calendar-french-date-string)
 
-  ))
+  )
+
 #+END_SRC
 
 #+RESULTS:
-: gregorian — Tue Jun  7 19:51:58 2016
-: mayan — Long count = 13.0.3.9.4; tzolkin = 7 Kan; haab = 7 Zotz
-: hebrew — Sivan 1, 5776
-: french — 20 Prairial an 224 de la Révolution
+: when
 
 June 7 2016
 
 and note the date of the next hackathon
 
-
-
-* Closing statement
+* TODO Closing statement
 
 I would like to stop now and pause.
 
@@ -699,15 +707,15 @@ except the building of potential energy
 
 within each and every one of us.
 
-* You Can Contribute to the Missoula Civic Hackathon Newsletter
+* DONE You Can Contribute to the Missoula Civic Hackathon Newsletter
   The Missoula Civic Hackathon is taking submissions for the next
   installment of our newsletter. Join us in the quest for
-  disseminating our and others successes and failures in Civic Hacking
-  to the world.
+  disseminating our and other's Civic Hacking successes and failures
+  out to the world.
 
   All submissions should be sent to
 
-     will@blueskystewardship.org
+     [[mailto:will@blueskystewardship.org][will@blueskystewardship.org]]
 
   Everyone is [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to sign
   and encrypt all private communications. A good daily habit akin to
@@ -782,47 +790,25 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 =9PZN
 -----END PGP PUBLIC KEY BLOCK-----
 #+end_example
-
-* Farewell for now, and **Happy Hacking** from the
-#+BEGIN_EXAMPLE
-                 .  .             .
-                 |\/|* __ __ _ . .| _.
-                 |  ||_) _) (_)(_||(_]
-
-     __            .  .      .      , .
-    /  `*.  ,* _.  |__| _. _.;_/ _.-+-|_  _ ._
-    \__.| \/ |(_.  |  |(_](_.| \(_] | [ )(_)[ )
-
-    .___.            |                          __/\
-      |   _  _.._ _  |                    _o   /  \ \_
-      |  (/,(_][ | ) *                 __O>O__/
-
-#+END_EXAMPLE
-
-* License
-This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
-Attribution-ShareAlike 4.0 License.]]
-
-* Disclaimer
-
-Ideas and people mentioned and referenced in this document in no way
-reflect the beliefs and conviction of the Missoual Civic Hackathon
-team as a whole or any one of the many of our sponsors and supporters.
-
-As nothing is truly static in this world and all things, great and
-small, are either evolving or devolving, we know which side of this
-deeply personal existential flip-trap we want to land — on our feet,
-running fast, concious and loving and open to new ways of attempting
-to evolve our own collective reality together. There is just too much
-[[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to address,
-[[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical energy on
-needless conflict, almost always rooted in miss-understanding and
-miss-communications, and with the infinite fractal of beautiful
-graceful hacks left to perform together, and we do need [[http://www.census.gov/popclock/][all of us]] now,
-we perfer to work out our differences along-side each other, out in
-the field, doing what we do best — Hacking.
-
-* Transportation Hackathons Around the World
+* TODO Join Our Local Discussion
+  https://groups.google.com/forum/#!forum/blue-sky-skunkworks
+* DONE Crossing the Collosum
+  “Hacker slang also challenges some common linguistic and
+  anthropological assumptions. For example, in the early 1990s it became
+  fashionable to speak of ‘low-context’ versus ‘high-context’
+  communication, and to classify cultures by the preferred context level
+  of their languages and art forms. It is usually claimed that
+  low-context communication (characterized by precision, clarity, and
+  completeness of self-contained utterances) is typical in cultures
+  which value logic, objectivity, individualism, and competition; by
+  contrast, high-context communication (elliptical, emotive,
+  nuance-filled, multi-modal, heavily coded) is associated with cultures
+  which value subjectivity, consensus, cooperation, and tradition. What
+  then are we to make of hackerdom, which is themed around extremely
+  low-context interaction with computers and exhibits primarily
+  “low-context” values, but cultivates an almost absurdly high-context
+  slang style?” - [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
+* TODO Transportation Hackathons Around the World
 ** Hack the Commute
    http://hackthecommute.seattle.gov
 
@@ -860,3 +846,44 @@ the field, doing what we do best — Hacking.
    transportation problems. Participants also could join
    transportation policy discussions and introductory coding
    tutorials.
+* DONE Farewell for now, and **Happy Hacking** from the
+#+BEGIN_EXAMPLE
+                 .  .             .
+                 |\/|* __ __ _ . .| _.
+                 |  ||_) _) (_)(_||(_]
+
+     __            .  .      .      , .
+    /  `*.  ,* _.  |__| _. _.;_/ _.-+-|_  _ ._
+    \__.| \/ |(_.  |  |(_](_.| \(_] | [ )(_)[ )
+
+    .___.            |                          __/\
+      |   _  _.._ _  |                    _o   /  \ \_
+      |  (/,(_][ | ) *                 __O>O__/
+
+#+END_EXAMPLE
+* DONE Disclaimer
+  Ideas and people mentioned and referenced in this document in no way
+  reflect the beliefs and conviction of the Missoual Civic Hackathon
+  team as a whole or any one of the many of our sponsors and
+  supporters.
+
+  As nothing is truly static in this world and all things, great and
+  small, are either evolving or devolving, we know which side of this
+  deeply personal existential flip-trap we want to land — on our feet,
+  running fast, concious and loving and open to new ways of attempting
+  to evolve our own collective reality together. There is just too
+  much [[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to
+  address, [[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical
+  energy on needless conflict, almost always rooted in
+  misunderstanding and miscommunication, and with an infinite fractal
+  of beautiful graceful hacks left to perform together (and we do need
+  [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
+  other, out in the field, doing what we do best — Hacking.
+* DONE [[http://deoxy.org/iching][The Oracle]]
+#+BEGIN_EXAMPLE
+䷊  Peace
+䷆  The Army
+#+END_EXAMPLE
+* DONE License
+This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License.]]
