@@ -131,30 +131,29 @@
 
   Oh boy does the universe like to throw prizes at civic hackathons.
 
-  I think many of you will find much value and surprises in the prizes
+  I think many of you will find much value and surprise in the prizes
   we have collected and will collect up to the day of the hackathon!
 
   Here is a wee bit of a teaser..
 
-  + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
   + 1 $20 gift card to Five on Black
   + 1 [[http://www.louisgarneau.com/][Louis Garneau]] Racing Jersey
   + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
   + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
+  + 1 copy of Que's C
+  + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
+  + 1 IBM Thinkpad T500
 
   And, although not the most “valuable” prize in the bunch, the
   following book, to me, is the grand prize.  It truly is a gem that
-  would teach any programmer, beginning and seasoned, sooooooo much if
-  they were to explore it fully.
+  would teach any programmer, beginning and seasoned, much if they
+  were to explore it fully.  The entire well-commented assembly
+  listing is included.
 
 ** [[http://www.amazon.com/Sargon-Computer-Program-Dan-Spracklen/dp/0810451557][SARGON: A Computer Chess Program]]
    by [[https://chessprogramming.wikispaces.com/Dan+Spracklen][Dan]] and [[https://chessprogramming.wikispaces.com/Kathe+Spracklen][Kathe]] Spracklen
 
    Published November 1, 1978
-
-   This book is a jem and it includes the entire source code for
-   SARGON, and almost every line in this assembly program has
-   informative comments.
 
    An excerpt from the introduction...
 
@@ -166,14 +165,69 @@
    of 5 played. A tie existed for second place, with 3 programs
    scoring a total of 3 points in the 5 rounds."
 
-   "SARGON is written in Z-80 assembly language using the TDL Macro
-   Assembler. The program occupies 8K of RAM, which includes 2K of
+   "SARGON is written in [[http://www.z80.info/z80oplist.txt][Z-80 assembly language]] using the [[http://www.s100computers.com/Software%20Folder/Assembler%20Collection/TDL_Relocating-Linking_Assembler_1977.pdf][TDL Macro
+   Assembler]]. The program occupies 8K of RAM, which includes 2K of
    data areas, 2K of graphic display and user interface, and 4K of
    move logic. The move logic is the heart of SARGON. It is displayed
    in the block diagram as the set of routines called by FNDMOV (Find
-   Move). FNDMOVE controls..."
+   Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
 
-   Interest anyone?
+* Learning from “Old” Byte Magazines
+
+** http://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up
+** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n17/mode/2up][Functional Approximations]]
+** http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n35/mode/2up
+** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n49/mode/2up][The Sky's the Limit]]
+   "This article outlines how intercomputer communications networks
+   can be set up on existing amateur radioteletypewriter (RTTY)
+   networks, without requiring the computer user to have an amateur
+   radio license."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n75/mode/2up][Machine Language Puzzler - TIMOUT]]
+   "Subroutine "TIMOUTN" is used to introduce a time delay in the
+   execution of a main program. The program, written in 8080 assembly
+   language, is shown as follows:"
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n77/mode/2up][A Computer Controlled Stepper Moter Light Scanner]]
+   "Photo 1. A stepper motor controlled scanning sensor capable of
+   detecting both infared and visible light. A photo detecter is
+   mounted at the focal point of an inexpensive parabolic solar
+   cigarette lighter. The computer controlled unit is capable of
+   following a moving flashlight, detecting headlights in a driveway,
+   and many other applications."
+
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n113/mode/2up][Controlling a System with a Microcomputer]]
+   "The object of this experiment is to illustrate how a computer
+   program, running in a simple microprocessor, can be used as a
+   control element for a system."
+
+
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n121/mode/2up][A Multiuser Data Network]]
+   "Figure 1. The use of a remote transceiver at an advantageous
+   centrally located site greatly increases operational range of a
+   network of users at VHF frequencies.
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n135/mode/2up][Puzzle]]
+   "This story is basically a learning tool that teaches the user how
+   to convert numbers from one number base to another.
+
+   There once was a little (1) ___. As he flew (2) ___ to (3) ____, he...
+
+   (1) 101111101110 Binary
+   (2) 377 Octal...
+
+   See page 8B hexadecimal for the solution."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n137/mode/2up][Transmission of Digital Data Over Twisted Pair Lines]]
+   "The two intergrated circuits used as line drivers and receivers
+   are the Texas Instruments [[http://www.ti.com/product/SN75183][75183]] and [[http://www.ti.com/lit/ds/symlink/sn75182.pdf][75182]]."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n141/mode/2up][A Puzzling Switch]]
+   "One of the more interesting methods of interchanging the contents
+   of two memory locations involves the use of the Boolean [[https://en.wikipedia.org/wiki/Exclusive_or][exclusive
+   OR]] function."
+** [[https://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n151/mode/2up][Hobbyist Computerized Bulletin Board]]
+   "The Computerized Hobbyist Bulletin Board System is a personal
+   computer based system for message communication among
+   experimenters. People with terminals or computers equipped with
+   modems call in to leave and retrieve messages. It was concieved,
+   designed, built, programmed, tested, and installed in 30 day period
+   (January 16 1978 to February 16 1978) by the two of us."
 
 * The Dictionary Definition of *Hack*
 
@@ -212,11 +266,66 @@ to
     that results, as if my magic, in a stunning improvement in system
     performance—or an equally stunning prank.”
 
+    And if we now turn to the trusty [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
+    clarification:
+
+    “The ‘hacker culture’ is actually a loosely networked collection
+    of subcultures that is nevertheless conscious of some important
+    shared experiences, shared roots, and shared values. It has its
+    own myths, heroes, villains, folk epics, in-jokes, taboos, and
+    dreams. Because hackers as a group are particularly creative
+    people who define themselves partly by rejection of ‘normal’
+    values and working habits, it has unusually rich and conscious
+    traditions for an intentional culture less than 50 years old.”
+
+    hack
+
+    [very common]
+
+    1. n. Originally, a quick job that produces what is needed, but
+       not well.
+
+    2. n. An incredibly good, and perhaps very time-consuming, piece
+       of work that produces exactly what is needed.
+
+    3. vt. To bear emotionally or physically. “I can't hack this
+       heat!”
+
+    4. vt. To work on something (typically a program). In an immediate
+       sense: “What are you doing?” “I'm hacking TECO.” In a general
+       (time-extended) sense: “What do you do around here?” “I hack
+       TECO.”  More generally, “I hack foo” is roughly equivalent to
+       “foo is my major interest (or project)”. “I hack solid-state
+       physics.” See Hacking X for Y.
+
+    5. vt. To pull a prank on. See sense 2 and hacker (sense 5).
+
+    6. vi. To interact with a computer in a playful and exploratory
+       rather than goal-directed way. “Whatcha up to?” “Oh, just
+       hacking.”
+
+    7. n. Short for hacker.
+
+    8. See nethack.
+
+    9. [MIT] v. To explore the basements, roof ledges, and steam
+       tunnels of a large, institutional building, to the dismay of
+       Physical Plant workers and (since this is usually performed at
+       educational institutions) the Campus Police. This activity has
+       been found to be eerily similar to playing adventure games such
+       as Dungeons and Dragons and Zork. See also vadding.
+
+    Constructions on this term abound. They include happy hacking (a
+    farewell), how's hacking? (a friendly greeting among hackers) and
+    hack, hack (a fairly content-free but friendly comment, often used as
+    a temporary farewell). For more on this totipotent term see The
+    Meaning of Hack. See also neat hack, real hack.
+
 * Batteries - or how Missoula began loving electric bicycles
 
 The wicked sharp and generous people out at the new [[https://www.opportunityecycling.org/][Opportunity
 E-Cycling]], out near the airport, who are busy keeping Missoula's aging
-electronics from polluting out own landfill, have donated a box of
+electronics from polluting our own landfill, have donated a box of
 used laptop batteries destined for being shipped[fn:shipped]
 out[fn:out] of town and we at the Missoula Civic Hackathon thought we
 might be able to put a few of them to use here in town.
