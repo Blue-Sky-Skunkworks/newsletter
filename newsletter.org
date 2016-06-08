@@ -61,8 +61,8 @@
   We hope you all enjoy this [[https://en.wikipedia.org/wiki/Cybernetics][communication]].
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]] and help us out on
-  any of the myriad of reality tunnels flirted with below,
-  communicating all results back into the net.
+  any of the myriad of projects hinted at below, communicating all
+  results back into the net.
 
 * DONE Plan for the Second Missoula Civic Hackathon
 
@@ -74,7 +74,7 @@
   gonna hit the ~Math.random()~ function here with regard to the
   variables at play...
 
-* DONE **Free!**
+* TODO **Free!**
 
   As much of a learning experience renting our own commercial kitchen
   and serving amazing meals was, it was very stressful for our core
@@ -84,8 +84,8 @@
   event for **free**.
 
   And with the support from our generous sponsors we are offering a
-  [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]], Saturday, to everyone that signs up for the event before
-  June 17th.
+  [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]] on Saturday to everyone that <<URL>> signs up for the event
+  before June 17th.
 
 * DONE Non-Profit Sponsorship and Fundraiser
 
@@ -717,9 +717,9 @@ within each and every one of us.
 
      [[mailto:will@blueskystewardship.org][will@blueskystewardship.org]]
 
-  Everyone is [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to sign
-  and encrypt all private communications. A good daily habit akin to
-  brushing your teeth.
+  Everyone is [[http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html][highly]] [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to
+  sign and encrypt all private communications. A good daily habit akin
+  to brushing your teeth.
 
 #+BEGIN_SRC sh :results verbatim
 gpg --fingerprint will@blueskystewardship.org
