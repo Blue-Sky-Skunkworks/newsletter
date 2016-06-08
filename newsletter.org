@@ -243,7 +243,7 @@ the Missoula First Friday sunshine, enjoying a free coffee out on a
 Burning Man'esque streetside [[https://en.wikipedia.org/wiki/Parklet][parklet]] erected by [[http://www.factandfictionbooks.com][Fact and Fiction]],
 another Hackathon sponsor, Que's *Computer User's Dictionary* 5th
 Edition, [[https://en.wikipedia.org/wiki/Fair_use][Copyright 1994]], a prize for the winning, written by the
-social anthropologist Bryan Pfaffenberger, fell open, as if magically,
+[[https://www.linkedin.com/in/bryan-pfaffenberger-1361115b][social anthropologist]] [[http://www.nyu.edu/projects/nissenbaum/papers/technologicaldramas.pdf][Bryan Pfaffenberger]], fell open, as if magically,
 to
 
 #+BEGIN_EXAMPLE
@@ -268,7 +268,7 @@ to
     *hack*
 
     “An inordinately clever rearrangement of existing system resources
-    that results, as if my magic, in a stunning improvement in system
+    that results, as if by magic, in a stunning improvement in system
     performance—or an equally stunning prank.”
 
     We now turn to the trusty [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
@@ -856,61 +856,43 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 #+end_example
 * TODO Join Our Local Discussion
   https://groups.google.com/forum/#!forum/blue-sky-skunkworks
-* DONE Crossing the Collosum
+* DONE A Few Recent Transportation Hackathons
+** [[http://hackthecommute.seattle.gov][Hack the Commute]]
+#+BEGIN_QUOTE
+The City of Seattle and Commute Seattle invite data analysts,
+developers, designers, and other innovators to help design
+user-centric tools that improve the commute. These can take the form
+of:
 
-  “Hacker slang also challenges some common linguistic and
-  anthropological assumptions. For example, in the early 1990s it became
-  fashionable to speak of ‘low-context’ versus ‘high-context’
-  communication, and to classify cultures by the preferred context level
-  of their languages and art forms. It is usually claimed that
-  low-context communication (characterized by precision, clarity, and
-  completeness of self-contained utterances) is typical in cultures
-  which value logic, objectivity, individualism, and competition; by
-  contrast, high-context communication (elliptical, emotive,
-  nuance-filled, multi-modal, heavily coded) is associated with cultures
-  which value subjectivity, consensus, cooperation, and tradition. What
-  then are we to make of hackerdom, which is themed around extremely
-  low-context interaction with computers and exhibits primarily
-  “low-context” values, but cultivates an almost absurdly high-context
-  slang style?” - [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
-* TODO Transportation Hackathons Around the World
-** Hack the Commute
-   http://hackthecommute.seattle.gov
++ improvements to existing applications
++ new tools to help commuters in any mode or modes of transportation
++ data analysis and visualizations that clarify the big picture
 
-   The City of Seattle and Commute Seattle invite data analysts,
-   developers, designers, and other innovators to help design
-   user-centric tools that improve the commute. These can take the
-   form of:
+Teams will have the opportunity to present their work to a panel of
+judges, with the top three project ideas moving on to a championship
+round. Work will be judged based on its potential to make commuting in
+Seattle easier and more pleasant for everyone.
+#+END_QUOTE
+** [[http://www.princeton.edu/engineering/news/archive/?id=16368][Princton]]
+#+BEGIN_QUOTE
+A smartphone application that alerts drivers to local road hazards
+could help avoid accidents and be a step towards improving
+transportation policy, [[http://www.princeton.edu/][Princeton University]] professor [[http://chemists.princeton.edu/chan/][Garnet Chan]] told
+an audience during the hackathon sponsored by the [[https://citp.princeton.edu/][Center for
+Information Technology Policy (CITP)]] and [[http://codeforprinceton.org/][Code for Princeton]] on
+February 27 and 28.
 
-   + improvements to existing applications
-   + new tools to help commuters in any mode or modes of transportation
-   + data analysis and visualizations that clarify the big picture
-
-   Teams will have the opportunity to present their work to a panel of
-   judges, with the top three project ideas moving on to a
-   championship round. Work will be judged based on its potential to
-   make commuting in Seattle easier and more pleasant for everyone.
-
-** Princton
-   http://www.princeton.edu/engineering/news/archive/?id=16368
-
-   A smartphone application that alerts drivers to local road hazards
-   could help avoid accidents and be a step towards improving
-   transportation policy, [[http://www.princeton.edu/][Princeton University]] professor [[http://chemists.princeton.edu/chan/][Garnet Chan]]
-   told an audience during the hackathon sponsored by the [[https://citp.princeton.edu/][Center for
-   Information Technology Policy (CITP)]] and [[http://codeforprinceton.org/][Code for Princeton]] on
-   February 27 and 28.
-
-   In an intensive 48 hours of coding, Chan and two partners created
-   just such an app. The team's project, "Save Your Car," was one of
-   four that won recognition at the hackathon, an event that attracted
-   about 90 computer coders, policy enthusiasts, and interested
-   citizens – from Princeton students and faculty to local middle
-   school students. Teams spent the weekend in Sherrerd Hall
-   brainstorming and creating digital technologies to solve
-   transportation problems. Participants also could join
-   transportation policy discussions and introductory coding
-   tutorials.
+In an intensive 48 hours of coding, Chan and two partners created just
+such an app. The team's project, "Save Your Car," was one of four that
+won recognition at the hackathon, an event that attracted about 90
+computer coders, policy enthusiasts, and interested citizens – from
+Princeton students and faculty to local middle school students. Teams
+spent the weekend in Sherrerd Hall brainstorming and creating digital
+technologies to solve transportation problems. Participants also could
+join transportation policy discussions and introductory coding
+tutorials.
+#+END_QUOTE
+* TODO Thanks Out to All of The Missoula Civic Hackathon's Sponsors
 * DONE Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
                  .  .             .
@@ -944,12 +926,10 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
   misunderstanding and miscommunication, and with an infinite fractal
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
-  other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — Hacking.
-* DONE [[http://deoxy.org/iching][The Oracle]]
-#+BEGIN_EXAMPLE
-䷊  Peace
-䷆  The Army
-#+END_EXAMPLE
+  other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — [[http://missoulacivichackathon.org][Hacking]].
+* DONE The Oracle
+  [[http://deoxy.org/iching/11][䷊  Peace]]\\
+  [[http://deoxy.org/iching/7][䷆  The Army]]
 * DONE [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons

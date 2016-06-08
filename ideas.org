@@ -44,3 +44,20 @@ This is the [[fig.dot][graph]].
  alias the="dict -d moby-thesaurus"
 
  #+END_EXAMPLE
+* Crossing the Collosum
+
+  “Hacker slang also challenges some common linguistic and
+  anthropological assumptions. For example, in the early 1990s it became
+  fashionable to speak of ‘low-context’ versus ‘high-context’
+  communication, and to classify cultures by the preferred context level
+  of their languages and art forms. It is usually claimed that
+  low-context communication (characterized by precision, clarity, and
+  completeness of self-contained utterances) is typical in cultures
+  which value logic, objectivity, individualism, and competition; by
+  contrast, high-context communication (elliptical, emotive,
+  nuance-filled, multi-modal, heavily coded) is associated with cultures
+  which value subjectivity, consensus, cooperation, and tradition. What
+  then are we to make of hackerdom, which is themed around extremely
+  low-context interaction with computers and exhibits primarily
+  “low-context” values, but cultivates an almost absurdly high-context
+  slang style?” - [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
