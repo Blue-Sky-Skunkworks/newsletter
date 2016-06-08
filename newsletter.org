@@ -56,6 +56,8 @@
 
 * TODO Our First Install(ment)
 
+  of the Missoula Civic Hackathon Newsletter - Transporation Edition
+
   Version 1.0 — here we go!
 
   We hope you all enjoy this [[https://en.wikipedia.org/wiki/Cybernetics][communication]].
@@ -119,7 +121,41 @@
   miniature [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
   finish line, winners and learner, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+* TODO CrowdHacking
 
+  We have until the end of the month of June to raise
+
+#+BEGIN_SRC lisp
+(format nil "$~D" (- 330000 125820))
+#+END_SRC
+
+#+RESULTS:
+: $204180
+
+  in order to furtur Free Cycles along its evolutionary path.
+
+  And this “problem” is most definitely an information distribution
+  problem.
+
+  and who better to come to that call than us
+
+#+BEGIN_EXAMPLE
+:::    :::     :::      ::::::::  :::    ::: :::::::::: :::::::::   ::::::::
+:+:    :+:   :+: :+:   :+:    :+: :+:   :+:  :+:        :+:    :+: :+:    :+:
++:+    +:+  +:+   +:+  +:+        +:+  +:+   +:+        +:+    +:+ +:+
++#++:++#++ +#++:++#++: +#+        +#++:++    +#++:++#   +#++:++#:  +#++:++#++
++#+    +#+ +#+     +#+ +#+        +#+  +#+   +#+        +#+    +#+        +#+
+#+#    #+# #+#     #+# #+#    #+# #+#   #+#  #+#        #+#    #+# #+#    #+#
+###    ### ###     ###  ########  ###    ### ########## ###    ###  ########
+#+END_EXAMPLE
+
+  https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
+  https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
+  http://www.rhubarbstudios.co/crowdfunding-growth-hacker/
+  http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/
+  http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
+  http://www.crowd101.com/hacking-way-success-crowdfunding/
+* TODO Upcycling Competition
 * TODO A [[https://en.wikipedia.org/wiki/Autodidacticism][Skills]] [[https://en.wikipedia.org/wiki/Spectrograph][Spectrograph]]
   + [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
   + [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]
@@ -131,26 +167,6 @@
   + diff
   + emacs
   + [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
-* TODO Social Hacking Croundfunding
-  https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
-  https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
-  http://www.rhubarbstudios.co/crowdfunding-growth-hacker/
-  http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/
-  http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
-  http://www.crowd101.com/hacking-way-success-crowdfunding/
-* DONE Holding Space
-
-  The Missoula Civic Hackathon team is holding this space, tentativly
-  now, but we are asking for all of your help to solidify our hold.
-
-  You participate in our activities by showing up and being yourself.
-
-  We all love this stuff, but the modern world demands its high tax on
-  the true wealths of this world, one being time, and if this song is
-  close enough to your own personal song to join this choir, and you
-  have that precious time to spare, come be awkward with the rest of
-  us “nerds” — as we hack this world for the better, together.
-
 * DONE Prizes Worth Hacking For
 
   Oh boy does the universe like to throw prizes at civic hackathons.
@@ -197,6 +213,17 @@
    move logic. The move logic is the heart of SARGON. It is displayed
    in the block diagram as the set of routines called by FNDMOV (Find
    Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
+* DONE Holding Space
+  The Missoula Civic Hackathon team is holding this space, tentativly
+  now, but we are asking for all of your help to solidify our hold.
+
+  You participate in our activities by showing up and being yourself.
+
+  We all love this stuff, but the modern world demands its high tax on
+  the true wealths of this world, one being time, and if this song is
+  close enough to your own personal song to join this choir, and you
+  have that precious time to spare, come be awkward with the rest of
+  us “nerds” — as we hack this world for the better, together.
 * DONE The Dictionary Definition of *Hack*
 
 On one of our little runs around town meeting the wonderful shop
@@ -499,7 +526,29 @@ contained in non publicly-accessible databases, many of which are
 highly personal data that the City of Missoula would be violating
 citizens trust and personal privacy law to release into the wild.
 
+And on the topic of *politics*, let me assure our readers here that we
+are not pushing any particular political agendas other than what we
+consider our birth-right — freedom of expression and the freedom to
+share with others.
+
+#+BEGIN_QUOTE
+Formerly vaguely liberal-moderate, more recently
+moderate-to-neoconservative (hackers too were affected by the
+collapse of socialism). There is a strong libertarian contingent
+which rejects conventional left-right politics entirely. The only
+safe generalization is that hackers tend to be rather
+anti-authoritarian; thus, both paleoconservatism and ‘hard’ leftism
+are rare. Hackers are far more likely than most non-hackers to
+either (a) be aggressively apolitical or (b) entertain peculiar or
+idiosyncratic political ideas and actually try to live by them
+day-to-day. — [[http://www.catb.org/jargon/html/politics.html][The Jargon File]]
+#+END_QUOTE
+
 This is only a census.
+
+#+END_VERSE
+
+
 
 +------------------------+--------------------------------------------------+
 |                        |                                                  |
@@ -717,8 +766,8 @@ within each and every one of us.
 
      [[mailto:will@blueskystewardship.org][will@blueskystewardship.org]]
 
-  Everyone is [[http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html][highly]] [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to
-  sign and encrypt all private communications. A good daily habit akin
+  Everyone is [[https://www.eff.org/][highly]] [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to
+  sign and encrypt all private communications. A good daily habit [[http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html][akin]]
   to brushing your teeth.
 
 #+BEGIN_SRC sh :results verbatim
@@ -878,7 +927,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
   misunderstanding and miscommunication, and with an infinite fractal
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
-  other, out in the field, doing what we do best — Hacking.
+  other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — Hacking.
 * DONE [[http://deoxy.org/iching][The Oracle]]
 #+BEGIN_EXAMPLE
 ䷊  Peace
