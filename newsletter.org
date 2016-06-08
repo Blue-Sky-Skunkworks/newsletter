@@ -156,7 +156,7 @@
 
   Hackers with a second [[https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers][human language]] will be very valuable here, and
   good luck competing on connections with a fluent Chinese speaker
-  raising money for bikes.
+  raising money for bikes. [[http://research.microsoft.com/en-us/um/people/mbj/Smiley/Smiley.html][:-)]]
 
   https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
   https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
@@ -409,7 +409,7 @@ humanity — ready for the hacking.
 by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
 [fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
-* DONE Hardcopies of The Missoula Civic Hackathon Newsletter
+* DONE Hardcopies of the First Missoula Civic Hackathon Newsletter
    Limited, first edition, signed dot-matrix printouts of this
    newsletter will be auctioned off at the Hackathon as the sole
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
