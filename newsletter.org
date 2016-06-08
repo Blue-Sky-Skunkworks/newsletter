@@ -156,7 +156,7 @@
 
   Hackers with a second [[https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers][human language]] will be very valuable here, and
   good luck competing on connections with a fluent Chinese speaker
-  raising money for bikes. [[http://research.microsoft.com/en-us/um/people/mbj/Smiley/Smiley.html][:-)]]
+  raising money for bikes. [[http://research.microsoft.com/en-us/um/people/mbj/Smiley/Smiley.html][;)]]
 
   https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
   https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
@@ -223,6 +223,7 @@
    in the block diagram as the set of routines called by FNDMOV (Find
    Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
 * DONE Holding Space
+
   The Missoula Civic Hackathon team is holding this space, tentativly
   now, but we are asking for all of your help to solidify our hold.
 
@@ -410,41 +411,45 @@ by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
 [fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
 * DONE Hardcopies of the First Missoula Civic Hackathon Newsletter
+
    Limited, first edition, signed dot-matrix printouts of this
    newsletter will be auctioned off at the Hackathon as the sole
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
 * DONE The Sunlight Foundation
-The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
-Civic Hackathon!
 
-    OUR MISSION[fn:sl]
+  The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
+  Civic Hackathon!
 
-    The Sunlight Foundation is a national, nonpartisan, nonprofit
-    organization that uses the tools of civic tech, open data, policy
-    analysis and journalism to make our government and politics more
-    accountable and transparent to all. Our vision is to use technology
-    to enable more complete, equitable and effective democratic
-    participation. Our overarching goal is to achieve changes in the law
-    to require real-time, online transparency for all government
-    information, with a special focus on the political money flow and
-    who tries to influence government and how government responds. And,
-    our work focuses on the local, state, federal and international
-    levels.
+#+BEGIN_QUOTE
+OUR MISSION[fn:sl]
 
-    These efforts have produced real results. To date, we have served
-    more than 4.1 billion API calls (and counting), indicating how much
-    the data we liberate is needed. Our reporting is frequently cited by
-    the world's preeminent journalists. Our research has led to
-    congressional hearings, and our tools have stripped problematic
-    measures from bills. And we recently won a major victory when, at
-    our urging, the federal government agreed to begin the process of
-    releasing all datasets held by federal agencies.
+The Sunlight Foundation is a national, nonpartisan, nonprofit
+organization that uses the tools of civic tech, open data, policy
+analysis and journalism to make our government and politics more
+accountable and transparent to all. Our vision is to use technology
+to enable more complete, equitable and effective democratic
+participation. Our overarching goal is to achieve changes in the law
+to require real-time, online transparency for all government
+information, with a special focus on the political money flow and
+who tries to influence government and how government responds. And,
+our work focuses on the local, state, federal and international
+levels.
 
-    As government grows ever-more complex, and as the flow of political
-    money becomes more perverse, we will all need better and more
-    creative tools to ensure that democracy thrives.
+These efforts have produced real results. To date, we have served
+more than 4.1 billion API calls (and counting), indicating how much
+the data we liberate is needed. Our reporting is frequently cited by
+the world's preeminent journalists. Our research has led to
+congressional hearings, and our tools have stripped problematic
+measures from bills. And we recently won a major victory when, at
+our urging, the federal government agreed to begin the process of
+releasing all datasets held by federal agencies.
+
+As government grows ever-more complex, and as the flow of political
+money becomes more perverse, we will all need better and more
+creative tools to ensure that democracy thrives.
+#+END_QUOTE
 
 We all hopefully strive daily to shine our own personal sun of
 awareness inside our own internal worlds at the parts of the greater
@@ -766,6 +771,7 @@ except the building of potential energy
 within each and every one of us.
 
 * DONE You Can Contribute to the Missoula Civic Hackathon Newsletter
+
   The Missoula Civic Hackathon is taking submissions for the next
   installment of our newsletter. Join us in the quest for
   disseminating our and other's Civic Hacking successes and failures
@@ -851,6 +857,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 * TODO Join Our Local Discussion
   https://groups.google.com/forum/#!forum/blue-sky-skunkworks
 * DONE Crossing the Collosum
+
   “Hacker slang also challenges some common linguistic and
   anthropological assumptions. For example, in the early 1990s it became
   fashionable to speak of ‘low-context’ versus ‘high-context’
@@ -920,6 +927,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 
 #+END_EXAMPLE
 * DONE Disclaimer
+
   Ideas and people mentioned and referenced in this document in no way
   reflect the beliefs and conviction of the Missoual Civic Hackathon
   team as a whole or any one of the many of our sponsors and
@@ -943,5 +951,6 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 ䷆  The Army
 #+END_EXAMPLE
 * DONE [[https://en.wiktionary.org/wiki/licentia][License]]
+
 This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License.]]
