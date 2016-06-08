@@ -76,14 +76,14 @@
   gonna hit the ~Math.random()~ function here with regard to the
   variables at play...
 
-* TODO **Free!**
+* TODO *Free!*
 
   As much of a learning experience renting our own commercial kitchen
   and serving amazing meals was, it was very stressful for our core
   beloved and the only monetary cost for the first
   hackathon. Eliminating this unnecessary task allows us to focus on
   the festivities and offer this imaginative and unique to Missoula
-  event for **free**.
+  event for *free*.
 
   And with the support from our generous sponsors we are offering a
   [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]] on Saturday to everyone that <<URL>> signs up for the event
@@ -149,6 +149,15 @@
 ###    ### ###     ###  ########  ###    ### ########## ###    ###  ########
 #+END_EXAMPLE
 
+  For our utilization, we have many rooms with projectors and an
+  entire open floor of flat panel diplays and a [[http://arcscience.com/][giant projection globe]]
+  ripe for hacking connections between all the bicycle companies and
+  bicycle groups around the world and pointing them at [[https://www.crowdrise.com/supportthebike][our fundraiser]].
+
+  Hackers with a second [[https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers][human language]] will be very valuable here, and
+  good luck competing on connections with a fluent Chinese speaker
+  raising money for bikes.
+
   https://scotch.io/bar-talk/hacking-kickstarter-6-9-tips-to-a-successful-crowdfunding
   https://www.coxblue.com/growth-hack-your-crowdfunding-campaign-2/
   http://www.rhubarbstudios.co/crowdfunding-growth-hacker/
@@ -186,7 +195,7 @@
   + 1 IBM Thinkpad T500
 
   And, although not the most “valuable” prize in the bunch, the
-  following book, to me, is the **grand prize**.  It truly is a gem
+  following book, to me, is the *grand prize*.  It truly is a gem
   that would teach any programmer much, beginning and seasoned, if
   they were to explore it fully.
 
@@ -400,8 +409,12 @@ humanity — ready for the hacking.
 by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
 [fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
-* TODO ASCII art show
-** TODO pick prizes for best original art
+* DONE Hardcopies of The Missoula Civic Hackathon Newsletter
+   Limited, first edition, signed dot-matrix printouts of this
+   newsletter will be auctioned off at the Hackathon as the sole
+   source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
+   Missoula Civic Hackathon, scheduled to pop off sometime near the
+   2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
 * DONE The Sunlight Foundation
 The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
 Civic Hackathon!
@@ -519,10 +532,10 @@ in participating in the census to read the [[http://us-city.census.okfn.org/abou
 which we copy below the list of data sets we are requesting help on
 locating.
 
-We are **not**, we repeat, **not**, at this particular time,
+We are *not*, we repeat, *not*, at this particular time,
 requesting the city government to release any data sets they have
-contained in non publicly-accessible databases, many of which are
-,understandibly, internally coupled to and expensive to decouple from
+contained in non publicly-accessible databases, many of which are,
+understandibly, internally coupled to and expensive to decouple from
 highly personal data that the City of Missoula would be violating
 citizens trust and personal privacy law to release into the wild.
 
@@ -545,10 +558,6 @@ day-to-day. — [[http://www.catb.org/jargon/html/politics.html][The Jargon File
 #+END_QUOTE
 
 This is only a census.
-
-#+END_VERSE
-
-
 
 +------------------------+--------------------------------------------------+
 |                        |                                                  |
@@ -895,7 +904,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
    transportation problems. Participants also could join
    transportation policy discussions and introductory coding
    tutorials.
-* DONE Farewell for now, and **Happy Hacking** from the
+* DONE Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
                  .  .             .
                  |\/|* __ __ _ . .| _.
@@ -933,6 +942,6 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 ䷊  Peace
 ䷆  The Army
 #+END_EXAMPLE
-* DONE License
-This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+* DONE [[https://en.wiktionary.org/wiki/licentia][License]]
+This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License.]]
