@@ -1,4 +1,4 @@
-#+TITLE: Missoula Civic Hackathon Newsletter - Transportation Edition
+
 #+AUTHOR: Blue Sky Skunkworks Division
 #+DATE: Summer Solstice, 2016
 #+setupfile: ~/org/newsletter.org
@@ -111,14 +111,25 @@
 
   The [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/TAZ][Temporary Autonomous Zone]] myriad mix of [[https://en.wikipedia.org/wiki/Midsummer][summer festival
   tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
-  skills and thrills, connection and conversation, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]]
-  and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using miniature [[https://en.wikipedia.org/wiki/Braitenber][Braitenberg vehicles]]
+  [[https://en.wikipedia.org/wiki/AWK][skills]] and [[http://www.oikos.org/stepsintro.htm][thrills]], connection and conversation, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]]
+  and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using miniature [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]]
   self-assembling out of discarded [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously
   stamped [[https://en.wikipedia.org/wiki/Neuromancer]["Chiba City,'53"]], races to the finish line, winners and
   learner, silence and centering, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+
+  The Missoula Civic Hackathon team is holding this space, tentativly
+  now, but we are asking for all of your help to solidify our hold.
+
+  You participate in our activities by showing up. We all love this
+  stuff, but the modern world demands its high tax on the true wealths
+  of this world, one being time and, if this song is close enough to
+  your own personal song to join this choir, and you have that
+  precious time to spare, come be awkward with the rest of us “nerds”
+  — as we hack this world for the better together.
+
 * Prizes Worth Hacking For
 
-  Oh boy does the universe like to throw prizes at hackathons.
+  Oh boy does the universe like to throw prizes at civic hackathons.
 
   I think many of you will find much value and surprises in the prizes
   we have collected and will collect up to the day of the hackathon!
@@ -127,22 +138,23 @@
 
   + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
   + 1 $20 gift card to Five on Black
-  + 1 Louis Garneau Racing Jersey
+  + 1 [[http://www.louisgarneau.com/][Louis Garneau]] Racing Jersey
   + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
-  + 1 copy of “The Well” by
+  + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
 
   And, although not the most “valuable” prize in the bunch, the
   following book, to me, is the grand prize.  It truly is a gem that
-  would teach a beginning programmer sooooooo much if they were to
-  explore it fully.
+  would teach any programmer, beginning and seasoned, sooooooo much if
+  they were to explore it fully.
 
-** [[http://www.amazon.com/Sargon-Computer-Program-Dan-Spracklen/dp/0810451557][Sargon: A Computer Chess Program]]
+** [[http://www.amazon.com/Sargon-Computer-Program-Dan-Spracklen/dp/0810451557][SARGON: A Computer Chess Program]]
    by [[https://chessprogramming.wikispaces.com/Dan+Spracklen][Dan]] and [[https://chessprogramming.wikispaces.com/Kathe+Spracklen][Kathe]] Spracklen
 
    Published November 1, 1978
 
-   This book is a jem and it includes the entire souce code for
-   SARGON.
+   This book is a jem and it includes the entire source code for
+   SARGON, and almost every line in this assembly program has
+   informative comments.
 
    An excerpt from the introduction...
 
@@ -203,14 +215,15 @@ to
 * Batteries - or how Missoula began loving electric bicycles
 
 The wicked sharp and generous people out at the new [[https://www.opportunityecycling.org/][Opportunity
-E-Cycling]], out near the airport, have donated a box of used laptop
-batteries destined for being shipped[fn:shipped] out[fn:out] of town and we at
-the Missoula Civic Hackathon thought we might be able to put a few of
-them to use here in town.
+E-Cycling]], out near the airport, who are busy keeping Missoula's aging
+electronics from polluting out own landfill, have donated a box of
+used laptop batteries destined for being shipped[fn:shipped]
+out[fn:out] of town and we at the Missoula Civic Hackathon thought we
+might be able to put a few of them to use here in town.
 
-First test — popped in a dusty 9-cell Li-ion into my trusted [[http://www.thinkwiki.org/wiki/Category:T500][Thinkpad
-T500]] yesterday to a "charging 0.1%" and now, as I pull the cord to the
-sound of "battery power active", my guages read:
+First test — popped in a dusty 9-cell Li-ion into my trusted
+[[http://www.thinkwiki.org/wiki/Category:T500][ThinkpadT500]] yesterday to a "charging 0.1%" and now, as I pull the
+cord to the sound of "battery power active", my guages read:
 
 #+name: full-battery
 #+begin_src lisp :results output
@@ -507,6 +520,32 @@ The theme for this years conference is:
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
 
+* The Missoula Civic Hackathon as a possible example of a Hack
+
+  As I look at my calendar now
+
+#+BEGIN_SRC elisp
+    (format "gregorian — %s\nmayan — %s\nhebrew — %s\nfrench — %s\n"
+            (current-time-string)
+            (calendar-mayan-date-string)
+            (calendar-hebrew-date-string)
+            (calendar-french-date-string)
+
+  ))
+#+END_SRC
+
+#+RESULTS:
+: gregorian — Tue Jun  7 19:51:58 2016
+: mayan — Long count = 13.0.3.9.4; tzolkin = 7 Kan; haab = 7 Zotz
+: hebrew — Sivan 1, 5776
+: french — 20 Prairial an 224 de la Révolution
+
+June 7 2016
+
+and note the date of the next hackathon
+
+
+
 * Closing statement
 
 I would like to stop now and pause.
@@ -550,45 +589,6 @@ except the building of potential energy
 .
 
 within each and every one of us.
-
-* Farewell for now, and **Happy Hacking** from the
-#+BEGIN_EXAMPLE
-                 .  .             .
-                 |\/|* __ __ _ . .| _.
-                 |  ||_) _) (_)(_||(_]
-
-     __            .  .      .      , .
-    /  `*.  ,* _.  |__| _. _.;_/ _.-+-|_  _ ._
-    \__.| \/ |(_.  |  |(_](_.| \(_] | [ )(_)[ )
-
-    .___.            |                          __/\
-      |   _  _.._ _  |                    _o   /  \ \_
-      |  (/,(_][ | ) *                 __O>O__/
-
-#+END_EXAMPLE
-
-* License
-This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
-Attribution-ShareAlike 4.0 License.]]
-
-* Disclaimer
-
-Ideas and people mentioned and referenced in this document in no way
-reflect the beliefs and conviction of the Missoual Civic Hackathon
-team as a whole or any one of the many of our sponsors and supporters.
-
-As nothing is truly static in this world and all things, great and
-small, are either evolving or devolving, we know which side of this
-deeply personal existential flip-trap we want to land — on our feet,
-running fast, concious and loving and open to new ways of attempting
-to evolve our own collective reality together. There is just too much
-[[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to address,
-[[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical energy on
-needless conflict, almost always rooted in miss-understanding and
-miss-communications, and with the infinite fractal of beautiful
-graceful hacks left to perform together, and we do need [[http://www.census.gov/popclock/][all of us]] now,
-we perfer to work out our differences along-side each other, out in
-the field, doing what we do best — Hacking.
 
 * You Can Contribute to the Missoula Civic Hackathon Newsletter
   The Missoula Civic Hackathon is taking submissions for the next
@@ -674,7 +674,80 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 -----END PGP PUBLIC KEY BLOCK-----
 #+end_example
 
-* TODO list of transportation hackathons
-   # http://hackthecommute.seattle.gov
-   # http://hackthecommute.seattle.gov/2015/03/03/a-civic-hackathon-presented-by-the-city-of-seattle-and-commute-seattle
+* Farewell for now, and **Happy Hacking** from the
+#+BEGIN_EXAMPLE
+                 .  .             .
+                 |\/|* __ __ _ . .| _.
+                 |  ||_) _) (_)(_||(_]
 
+     __            .  .      .      , .
+    /  `*.  ,* _.  |__| _. _.;_/ _.-+-|_  _ ._
+    \__.| \/ |(_.  |  |(_](_.| \(_] | [ )(_)[ )
+
+    .___.            |                          __/\
+      |   _  _.._ _  |                    _o   /  \ \_
+      |  (/,(_][ | ) *                 __O>O__/
+
+#+END_EXAMPLE
+
+* License
+This document is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License.]]
+
+* Disclaimer
+
+Ideas and people mentioned and referenced in this document in no way
+reflect the beliefs and conviction of the Missoual Civic Hackathon
+team as a whole or any one of the many of our sponsors and supporters.
+
+As nothing is truly static in this world and all things, great and
+small, are either evolving or devolving, we know which side of this
+deeply personal existential flip-trap we want to land — on our feet,
+running fast, concious and loving and open to new ways of attempting
+to evolve our own collective reality together. There is just too much
+[[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to address,
+[[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical energy on
+needless conflict, almost always rooted in miss-understanding and
+miss-communications, and with the infinite fractal of beautiful
+graceful hacks left to perform together, and we do need [[http://www.census.gov/popclock/][all of us]] now,
+we perfer to work out our differences along-side each other, out in
+the field, doing what we do best — Hacking.
+
+* Transportation Hackathons Around the World
+** Hack the Commute
+   http://hackthecommute.seattle.gov
+
+   The City of Seattle and Commute Seattle invite data analysts,
+   developers, designers, and other innovators to help design
+   user-centric tools that improve the commute. These can take the
+   form of:
+
+   + improvements to existing applications
+   + new tools to help commuters in any mode or modes of transportation
+   + data analysis and visualizations that clarify the big picture
+
+   Teams will have the opportunity to present their work to a panel of
+   judges, with the top three project ideas moving on to a
+   championship round. Work will be judged based on its potential to
+   make commuting in Seattle easier and more pleasant for everyone.
+
+** Princton
+   http://www.princeton.edu/engineering/news/archive/?id=16368
+
+   A smartphone application that alerts drivers to local road hazards
+   could help avoid accidents and be a step towards improving
+   transportation policy, [[http://www.princeton.edu/][Princeton University]] professor [[http://chemists.princeton.edu/chan/][Garnet Chan]]
+   told an audience during the hackathon sponsored by the [[https://citp.princeton.edu/][Center for
+   Information Technology Policy (CITP)]] and [[http://codeforprinceton.org/][Code for Princeton]] on
+   February 27 and 28.
+
+   In an intensive 48 hours of coding, Chan and two partners created
+   just such an app. The team's project, "Save Your Car," was one of
+   four that won recognition at the hackathon, an event that attracted
+   about 90 computer coders, policy enthusiasts, and interested
+   citizens – from Princeton students and faculty to local middle
+   school students. Teams spent the weekend in Sherrerd Hall
+   brainstorming and creating digital technologies to solve
+   transportation problems. Participants also could join
+   transportation policy discussions and introductory coding
+   tutorials.
