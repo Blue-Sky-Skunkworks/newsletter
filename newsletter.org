@@ -1,4 +1,3 @@
-
 #+AUTHOR: Blue Sky Skunkworks Division
 #+DATE: Summer Solstice, 2016
 #+setupfile: ~/org/newsletter.org
