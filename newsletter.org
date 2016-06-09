@@ -1,7 +1,7 @@
 #+AUTHOR: Blue Sky Skunkworks Division
 #+DATE: Summer Solstice, 2016
 #+setupfile: ~/org/newsletter.org
-#+KEYWORDS: civic hackathon, transportation, electronic waste, un-conference, carnival
+#+KEYWORDS: civic hackathon, transportation, electronic waste, un-conference, carnival, poetic terrorism
 #+BEGIN_EXAMPLE
   ______  ________                                ______
   ___   |/  /___(_)______________________ ____  _____  /______ _
