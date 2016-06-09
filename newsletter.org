@@ -166,16 +166,16 @@
 * TODO Upcycling Competition
 For those of use that grew up with 64K of memory being a BIG DEAL, the
 * TODO A [[https://en.wikipedia.org/wiki/Autodidacticism][Skills]] [[https://en.wikipedia.org/wiki/Spectrograph][Spectrograph]]
-  + [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
-  + [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]
-  http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/awk.pdf
-  + [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/sed.pdf][sed]]
-  + [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/make.pdf][make]]
-  + vi
-  + [[http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/][bash]]
-  + diff
-  + emacs
-  + [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
+** [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
+** [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]  http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/awk.pdf
+** [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/sed.pdf][sed]]
+** [[http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/make.pdf][make]]
+** vi
+** [[http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/][bash]]
+** diff
+** emacs
+** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
+** perl
 * TODO Prizes Worth Hacking For
 
   Oh boy does the universe like to throw prizes at civic hackathons.
@@ -742,20 +742,20 @@ to set up the playground, but please ignore the man behind the
 curtain)
 
 * TODO Pshycotherapy
-The following is unedited and stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctors]] mouth.
+The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctors]] mouth.
 
 I am the psychotherapist.  Please, describe your problems.  Each time
 you are finished talking, type RET twice.
 
-hackers rule!
+Hackers rule!
 
 Why do you say hackers rule?
 
-hackers rule!
+Hackers rule!
 
 Is it because of your plans that you say hackers rule?
 
-yes, plans.
+Yes, plans.
 
 Maybe your life has something to do with this.
 
@@ -820,50 +820,6 @@ Cypherpunks, tinkerers, sentient AI's, — you know — the usual.
 
 Are you sure that cypherpunks tinkerers sentient ai's I know the
 usual?
-
-* TODO Closing statement
-
-I would like to stop now and pause.
-
-.
-.
-.
-.
-.
-.
-.
-
-and remind everyone reading, that, at this point in time
-
-.
-.
-.
-.
-.
-.
-.
-
-absolutely nothing detailed in this newsletter has actually happened,
-
-.
-.
-.
-.
-.
-.
-.
-
-except the building of potential energy
-
-.
-.
-.
-.
-.
-.
-.
-
-within each and every one of us.
 
 * TODO You Can Contribute to the Missoula Civic Hackathon Newsletter
 
@@ -988,6 +944,70 @@ join transportation policy discussions and introductory coding
 tutorials.
 #+END_QUOTE
 * TODO Thanks Out to All of The Missoula Civic Hackathon's Sponsors
+* TODO Closing statement
+#+BEGIN_EXAMPLE
+I would like to stop now and pause,
+
+.
+.
+.
+.
+.
+.
+.
+
+before we part ways,
+
+.
+.
+.
+.
+.
+.
+.
+
+and remind everyone reading, that, at this point in time,
+
+.
+.
+.
+.
+.
+.
+.
+
+except for the building of potential energy
+
+.
+.
+.
+.
+.
+.
+.
+
+within each and every hacker accepting this call,
+
+.
+.
+.
+.
+.
+.
+.
+
+the Second Missoula Civic Hackathon
+
+.
+.
+.
+.
+.
+.
+.
+
+is soon cycling in.
+#+END_EXAMPLE
 * TODO Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
                  .  .             .
@@ -1018,7 +1038,7 @@ tutorials.
   much [[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to
   address, [[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical
   energy on needless conflict, almost always rooted in
-  misunderstanding and miscommunication, and with an infinite fractal
+  [[https://en.wikipedia.org/wiki/Nonviolent_Communication][misunderstanding and miscommunication]], and with an infinite fractal
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
   other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — [[http://missoulacivichackathon.org][Hacking]].

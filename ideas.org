@@ -61,3 +61,12 @@ This is the [[fig.dot][graph]].
   low-context interaction with computers and exhibits primarily
   “low-context” values, but cultivates an almost absurdly high-context
   slang style?” - [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
+* Perl RSA
+  http://www.cypherspace.org/rsa/story2.html
+
+#+BEGIN_SRC perl :results output :var k=10001
+print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>)]}\EsMsKsN0[lN*1lK[d2%Sa2/d0<X+d*lMLa^*lN%0]dsXx++lMlN/dsM0<J]dsJxp"|dc`
+#+END_SRC
+
+#+RESULTS:
+
