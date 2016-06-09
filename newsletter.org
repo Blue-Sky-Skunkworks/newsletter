@@ -46,26 +46,26 @@
                 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #+END_EXAMPLE
 
-* TODO Welcome!
+* DONE Welcome!
 
   Hello fellow civic hackers,
 
   Less than a fortnight until the second Missoula Civic Hackathon and
   the core team has much to share in ...
 
-* TODO Our First Install(ment)
+* DONE Our First Install(ment)
 
   of the Missoula Civic Hackathon Newsletter - Transporation Edition
 
   Version 1.0 — here we go!
 
-  We hope you all enjoy this [[https://en.wikipedia.org/wiki/Cybernetics][communication]].
+  We hope you all enjoy this communication.
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]] and help us out on
-  any of the myriad of projects hinted at below, communicating all
+  any of the myriad of projects hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics[communicating]] all
   results back into the net.
 
-* TODO The Plan for the Second Missoula Civic Hackathon
+* DONE The Plan for the Second Missoula Civic Hackathon
 
   After much deliberation and meditation on the successes and failures
   of throwing our first hackathon, the crew has changed it up a bit
@@ -75,7 +75,7 @@
   gonna hit the ~Math.random()~ function here with regard to the
   variables at play...
 
-* TODO *Free!*
+* DONE *Free!*
 
   As much of a learning experience renting our own commercial kitchen
   and serving amazing meals was, it was very stressful for our core
@@ -85,8 +85,8 @@
   event for *free*.
 
   And with the support from our generous sponsors we are offering a
-  [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]] on Saturday to everyone that <<URL>> signs up for the event
-  before June 17th.
+  [[http://drnissani.net/mnissani/revolutionarystoolkit/TheMoonIsAHarshMistress.pdf][free lunch]] on Saturday to everyone that <<URL>> signs up for the
+  event before June 17th.
 
 * TODO Non-Profit Sponsorship and Fundraiser
 
@@ -94,10 +94,10 @@
   and shared growth through synergy we experenced in the first
   Hackathon, as [[http://blueskystewardship.org][Blue Sky Stewardship]] sponsored the last hackathon with
   their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals and Friday
-  night dinner party, this next hackathon is sponsored by the [[http://www.strans.org][Montana
-  Institute of Sustainable Transportation]] and [[http://www.freecycles.org][Free Cycles]] with their
-  fantastically creative community bike shop and inventive upcycling
-  laboratory.
+  night dinner party fit for a king, this next hackathon is sponsored
+  by the [[http://www.strans.org][Montana Institute of Sustainable Transportation]] and [[http://www.freecycles.org][Free
+  Cycles]] with their fantastically creative community bike shop and
+  inventive upcycling laboratory.
 
   If you are not yet aware, Free Cycles is in the middle of possibly
   their most important time in fund-raising history with the push to
@@ -117,9 +117,9 @@
   tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
   [[https://en.wikipedia.org/wiki/AWK][skills]] and [[http://www.oikos.org/stepsintro.htm][thrills]], [[https://en.wikipedia.org/wiki/Unconference][connection and conversation]], silence and
   centering, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]] and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using
-  miniature [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
+  [[https://www.youtube.com/watch?v=4eRCygdW--c][miniature]] [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
-  finish line, winners and learner, [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+  finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
 * TODO CrowdHacking
 
   We have until the end of the month of June to raise
@@ -164,7 +164,7 @@
   http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
   http://www.crowd101.com/hacking-way-success-crowdfunding/
 * TODO Upcycling Competition
-For those of use that grew up with 64K of memory being a BIG DEAL, the
+For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 * TODO A [[https://en.wikipedia.org/wiki/Autodidacticism][Skills]] [[https://en.wikipedia.org/wiki/Spectrograph][Spectrograph]]
 ** [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
 ** [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]  http://inst.eecs.berkeley.edu/~selfpace/sp.unix.stuff/awk.pdf
@@ -224,8 +224,8 @@ For those of use that grew up with 64K of memory being a BIG DEAL, the
    Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
 * TODO Holding Space
 
-  The Missoula Civic Hackathon team is holding this space, tentativly
-  now, but we are asking for all of your help to solidify our hold.
+  The Missoula Civic Hackathon team [[http://esgs.free.fr/uk/art/sands.htm][is]] holding this space, tentativly
+  now, but we are asking for all of your help to solidify this hold.
 
   You participate in our activities by showing up and being yourself.
 
@@ -467,10 +467,10 @@ beings, at all times, as a necessary constant force of good in this
 world.
 
 Maybe it's time to shine a bit of the burning sunshine of awareness
-around your own town a bit to see if anything scurries out of the
-darkness to rapidly deliquesce — releasing all of that parasitized
-energy for constructive[fn:vampires] use on the betterment of the
-whole.
+around all of the worlds a bit to see if anything staggers blindly out
+of the darkness to rapidly deliquesce — releasing all of that
+parasitized energy for constructive[fn:vampires] use on the betterment
+of the whole.
 
 [fn:sl] http://creativecommons.org/licenses/by/4.0/
 [fn:vampires] It's not like vampires are bad people, their just
@@ -737,12 +737,12 @@ with what we do understand.
 Except for the core crew, the world does not yet know about this
 event. The sending of this Newsletter and the susequent mycillation of
 the information into the network of local people by word of mouth and
-electronic media is all (well, exept for all the things we are doing
-to set up the playground, but please ignore the man behind the
+electronic [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] is all (well, except for all the things we are doing
+to set up the playground, but please ignore the men behind the
 curtain)
 
-* TODO Pshycotherapy
-The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctors]] mouth.
+* TODO Pshyco-therapy
+The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
 
 I am the psychotherapist.  Please, describe your problems.  Each time
 you are finished talking, type RET twice.
@@ -768,7 +768,7 @@ It is my skill.
 Is it because of the people you hang around with that you say it is
 your skill?
 
-If “people” you mean, “computers”.
+If by “people”, you mean, “computers”, then yes.
 
 You have your mind on computers, it seems.
 
@@ -783,8 +783,14 @@ Why?
 
 What do you think?
 
-We use the tools at our displosals, at the times we are called forth. Now,
-at this time, it is computers.
+We use the tools at our displosal, at the times we are called forth to
+do so. Now, at this time, it is computers, and their potential for
+transforming the human condition for the better, and most definitely
+for the worse, has only just begun, and we loving, intelligent, and
+strong-of-body humans better take some centering leads among this
+stampeding band of wild horses here on Earth and calm them down a bit
+to realize the beauty around them at every moment and the lush green
+grass beheath their feet.
 
 Are you a computer hacker?
 
@@ -792,7 +798,7 @@ In the classic sense of the word.
 
 Perhaps problems at school have something to do with this.
 
-Life is school.
+[[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Deschooling-Society][Life is school]].
 
 Tell me about your school.
 
@@ -905,9 +911,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 =9PZN
 -----END PGP PUBLIC KEY BLOCK-----
 #+end_example
-* TODO Join Our Local Discussion
-  https://groups.google.com/forum/#!forum/blue-sky-skunkworks
-* TODO A Few Recent Transportation Hackathons
+* TODO A Couple Recent Transportation Hackathons
 ** [[http://hackthecommute.seattle.gov][Hack the Commute]]
 #+BEGIN_QUOTE
 The City of Seattle and Commute Seattle invite data analysts,
@@ -966,7 +970,17 @@ before we part ways,
 .
 .
 
-and remind everyone reading, that, at this point in time,
+and remind everyone reading,
+
+.
+.
+.
+.
+.
+.
+.
+
+that, at this point in time,
 
 .
 .
@@ -1006,7 +1020,26 @@ the Second Missoula Civic Hackathon
 .
 .
 
-is soon cycling in.
+is soon cycling in
+
+.
+.
+.
+.
+.
+.
+
+and we could use all of your help
+
+.
+.
+.
+.
+.
+.
+.
+
+in whatever way you see yourself fit.
 #+END_EXAMPLE
 * TODO Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
@@ -1025,9 +1058,9 @@ is soon cycling in.
 #+END_EXAMPLE
 * TODO Disclaimer
 
-  Ideas and people mentioned and referenced in this document in no way
-  reflect the beliefs and conviction of the Missoual Civic Hackathon
-  team as a whole or any one of the many of our sponsors and
+  The ideas and people mentioned and referenced in this document in no
+  way reflect the beliefs and conviction of the Missoual Civic
+  Hackathon team as a whole or any one of the many of our sponsors and
   supporters.
 
   As nothing is truly static in this world and all things, great and
@@ -1045,7 +1078,7 @@ is soon cycling in.
 * TODO The Oracle
   [[http://deoxy.org/iching/11][䷊  Peace]]\\
   [[http://deoxy.org/iching/7][䷆  The Army]]
-* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+* DONE [[https://en.wiktionary.org/wiki/licentia][License]]
 
-This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
-Attribution-ShareAlike 4.0 License.]]
+This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License]].
