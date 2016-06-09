@@ -46,7 +46,7 @@
                 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #+END_EXAMPLE
 
-* DONE Welcome!
+* TODO Welcome!
 
   Hello fellow civic hackers,
 
@@ -65,7 +65,7 @@
   any of the myriad of projects hinted at below, communicating all
   results back into the net.
 
-* DONE Plan for the Second Missoula Civic Hackathon
+* TODO The Plan for the Second Missoula Civic Hackathon
 
   After much deliberation and meditation on the successes and failures
   of throwing our first hackathon, the crew has changed it up a bit
@@ -88,7 +88,7 @@
   [[https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress][free lunch]] on Saturday to everyone that <<URL>> signs up for the event
   before June 17th.
 
-* DONE Non-Profit Sponsorship and Fundraiser
+* TODO Non-Profit Sponsorship and Fundraiser
 
   Hoping to follow the same successfull pattern of non-profit support
   and shared growth through synergy we experenced in the first
@@ -164,6 +164,7 @@
   http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
   http://www.crowd101.com/hacking-way-success-crowdfunding/
 * TODO Upcycling Competition
+For those of use that grew up with 64K of memory being a BIG DEAL, the
 * TODO A [[https://en.wikipedia.org/wiki/Autodidacticism][Skills]] [[https://en.wikipedia.org/wiki/Spectrograph][Spectrograph]]
   + [[http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf][Un]][[http://minnie.tuhs.org/Archive/Documentation/Books/Life_with_Unix.pdf][ix]]
   + [[https://en.wikipedia.org/wiki/Alfred_Aho][A]][[https://en.wikipedia.org/wiki/Peter_J._Weinberger][w]][[https://en.wikipedia.org/wiki/Brian_Kernighan][k]]
@@ -175,7 +176,7 @@
   + diff
   + emacs
   + [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
-* DONE Prizes Worth Hacking For
+* TODO Prizes Worth Hacking For
 
   Oh boy does the universe like to throw prizes at civic hackathons.
 
@@ -221,7 +222,7 @@
    move logic. The move logic is the heart of SARGON. It is displayed
    in the block diagram as the set of routines called by FNDMOV (Find
    Move). FNDMOVE controls..[[http://www.benlo.com/microchess/Kim-1Microchess.html][.]]"
-* DONE Holding Space
+* TODO Holding Space
 
   The Missoula Civic Hackathon team is holding this space, tentativly
   now, but we are asking for all of your help to solidify our hold.
@@ -233,7 +234,7 @@
   close enough to your own personal song to join this choir, and you
   have that precious time to spare, come be awkward with the rest of
   us “nerds” — as we hack this world for the better, together.
-* DONE The Dictionary Definition of *Hack*
+* TODO The Dictionary Definition of *Hack*
 
 On one of our little runs around town meeting the wonderful shop
 owners and managers of Missoula, Jolie Anderson over at the [[http://www.birdsnestbooks.com/][Bird's
@@ -324,15 +325,14 @@ to
     hack, hack (a fairly content-free but friendly comment, often used
     as a temporary farewell). For more on this totipotent term see The
     Meaning of Hack. See also neat hack, real hack.
-* DONE Batteries - or how Missoula began loving electric bicycles
+* TODO Batteries - or how Missoula began loving electric bicycles
 
-The wicked sharp and generous people out at the relatively new
-[[https://www.opportunityecycling.org/][Opportunity E-Cycling]], out near the airport, who are busy diligently
-keeping Missoula's aging electronics from polluting our own landfill,
-have donated a box of used laptop batteries destined for being
-shipped[fn:shipped] out[fn:out] of town and we at the Missoula Civic
-Hackathon thought we might be able to put a few of them to use here in
-town.
+The wicked sharp and generous people at [[https://www.opportunityecycling.org/][Opportunity E-Cycling]], out
+near the airport, who are busy diligently keeping Missoula's aging
+electronics from polluting our own landfill, have donated a box of
+used laptop batteries destined for being shipped[fn:shipped]
+out[fn:out] of town and we at the Missoula Civic Hackathon thought we
+might be able to put a few of them to use here in town.
 
 First test — popped in a dusty 9-cell Li-ion into my trusted
 [[http://www.thinkwiki.org/wiki/Category:T500][Thinkpad T500]] yesterday to a "charging 0.1%" and now, as I pull the
@@ -409,14 +409,14 @@ humanity — ready for the hacking.
 by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
 [fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
-* DONE Hardcopies of the First Missoula Civic Hackathon Newsletter
+* TODO Hardcopies of the First Missoula Civic Hackathon Newsletter
 
    Limited, first edition, signed dot-matrix printouts of this
    newsletter will be auctioned off at the Hackathon as the sole
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
-* DONE The Sunlight Foundation
+* TODO The Sunlight Foundation
 
   The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
   Civic Hackathon!
@@ -528,7 +528,7 @@ misunderstood and looking for connection like the rest of us.
    modems call in to leave and retrieve messages. It was concieved,
    designed, built, programmed, tested, and installed in 30 day period
    (January 16 1978 to February 16 1978) by the two of us."
-* DONE US City Open Data Census
+* TODO US City Open Data Census
 
 The Missoula Civic Hackathon team is now shouldering the “librarian”
 role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
@@ -688,7 +688,7 @@ This is only a census.
 |                        | from your city’s primary web property.           |
 |                        |                                                  |
 +------------------------+--------------------------------------------------+
-* DONE JRPC Un-Conference
+* TODO JRPC Un-Conference
 
 The second annual [[https://jrpc.org/roots-and-wings][Jeannett Rankin Peace Un-Conference]], celebrating the
 [[http://jrpc.org][Jeanette Rankin Peace Center]]'s 30 year anniversary and [[https://en.wikipedia.org/wiki/Jeannette_Rankin][Jeannett's
@@ -698,7 +698,8 @@ Hackathon team's own Harold Shinsato.
 
 The theme for this years conference is:
 
-    How Will You Take Radical Responsibility For a Better World?
+    How Will You Take Radical <<FIX>> [[http://thestewardship.org][Responsibility]] For a Better
+    World?
 
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
@@ -724,6 +725,101 @@ Congregational Church for this unique and special event.
 June 7 2016
 
 and note the date of the next hackathon
+
+<<HACKATHON DATE>>
+
+And despite all of our efforts to release this message to you readers,
+internal and external circumstances intervene, as they seem to aways
+do - it's not like we even remotely pretend to know what is “really”
+going on at the higher levels, but we do aim to play hard and fair
+with what we do understand.
+
+Except for the core crew, the world does not yet know about this
+event. The sending of this Newsletter and the susequent mycillation of
+the information into the network of local people by word of mouth and
+electronic media is all (well, exept for all the things we are doing
+to set up the playground, but please ignore the man behind the
+curtain)
+
+* TODO Pshycotherapy
+The following is unedited and stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctors]] mouth.
+
+I am the psychotherapist.  Please, describe your problems.  Each time
+you are finished talking, type RET twice.
+
+hackers rule!
+
+Why do you say hackers rule?
+
+hackers rule!
+
+Is it because of your plans that you say hackers rule?
+
+yes, plans.
+
+Maybe your life has something to do with this.
+
+My life is hacking.
+
+What makes you believe your life is hacking?
+
+It is my skill.
+
+Is it because of the people you hang around with that you say it is
+your skill?
+
+If “people” you mean, “computers”.
+
+You have your mind on computers, it seems.
+
+
+You think too much about computers.
+
+Computers are our friends?
+
+You should try taking your mind off of computers.
+
+Why?
+
+What do you think?
+
+We use the tools at our displosals, at the times we are called forth. Now,
+at this time, it is computers.
+
+Are you a computer hacker?
+
+In the classic sense of the word.
+
+Perhaps problems at school have something to do with this.
+
+Life is school.
+
+Tell me about your school.
+
+The understanding that any moment is “school” if you listen
+softly enough.
+
+Is it because any moment is school if I listen softly enough that you
+came to me?
+
+Yes! But what is I and what is you?
+
+Does it bother you that what is you and what is me?
+
+Bother, brother? What is me is the world and not the world and you do
+make that Venn diagram.
+
+
+Tell me something about your family.
+
+Hackers!
+
+Can you elaborate on that?
+
+Cypherpunks, tinkerers, sentient AI's, — you know — the usual.
+
+Are you sure that cypherpunks tinkerers sentient ai's I know the
+usual?
 
 * TODO Closing statement
 
@@ -769,7 +865,7 @@ except the building of potential energy
 
 within each and every one of us.
 
-* DONE You Can Contribute to the Missoula Civic Hackathon Newsletter
+* TODO You Can Contribute to the Missoula Civic Hackathon Newsletter
 
   The Missoula Civic Hackathon is taking submissions for the next
   installment of our newsletter. Join us in the quest for
@@ -855,7 +951,7 @@ JWooyJlkKcS3GSF3ProaVZQkCmlCvxcwg7SB
 #+end_example
 * TODO Join Our Local Discussion
   https://groups.google.com/forum/#!forum/blue-sky-skunkworks
-* DONE A Few Recent Transportation Hackathons
+* TODO A Few Recent Transportation Hackathons
 ** [[http://hackthecommute.seattle.gov][Hack the Commute]]
 #+BEGIN_QUOTE
 The City of Seattle and Commute Seattle invite data analysts,
@@ -892,7 +988,7 @@ join transportation policy discussions and introductory coding
 tutorials.
 #+END_QUOTE
 * TODO Thanks Out to All of The Missoula Civic Hackathon's Sponsors
-* DONE Farewell for now, and *Happy Hacking* from the
+* TODO Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
                  .  .             .
                  |\/|* __ __ _ . .| _.
@@ -907,7 +1003,7 @@ tutorials.
       |  (/,(_][ | ) *                 __O>O__/
 
 #+END_EXAMPLE
-* DONE Disclaimer
+* TODO Disclaimer
 
   Ideas and people mentioned and referenced in this document in no way
   reflect the beliefs and conviction of the Missoual Civic Hackathon
@@ -926,10 +1022,10 @@ tutorials.
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
   other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — [[http://missoulacivichackathon.org][Hacking]].
-* DONE The Oracle
+* TODO The Oracle
   [[http://deoxy.org/iching/11][䷊  Peace]]\\
   [[http://deoxy.org/iching/7][䷆  The Army]]
-* DONE [[https://en.wiktionary.org/wiki/licentia][License]]
+* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License.]]
