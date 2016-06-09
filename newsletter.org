@@ -401,14 +401,14 @@ these batteries, [[https://na.industrial.panasonic.com/sites/default/pidsa/files
 The battery powering the laptop this text is being entered into, with
 over 4 hours remaining of battery power, was the first battery I tried
 out of the box of 50 lbs., and we may have beginners luck here, or we
-may just have found a very valuable and untapped stream of “waste” of
+may just have found a very valuable and untapped stream of [[http://storyofstuff.org/movies/story-of-stuff/][“waste”]] of
 electrical energy storage material, unheard of ever in the history of
-humanity — ready for the hacking.
+humanity — ready for hacking.
 
-[fn:shipped] on pallets in large metal boxes minded from the earth powered
-by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
+[fn:shipped] on pallets in [[https://en.wikipedia.org/wiki/Semi-trailer_truck][large metal boxes]] minded from the earth
+powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
-[fn:out] for recycling on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
+[fn:out] for [[http://web.mit.edu/2.813/www/readings/Ch6GutowskiSekulic.pdf][recycling]] on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
 * TODO Hardcopies of the First Missoula Civic Hackathon Newsletter
 
    Limited, first edition, signed dot-matrix printouts of this
