@@ -167,7 +167,7 @@ of Muad’Dib” by the Princess Irulan
 
   And the point here, as all reaching out to people for help should,
   in our humble opinion, proceed, is to attempt to connect [[http://www.bahaistudies.net/asma/iandthou.pdf][I-Thou]] and
-  to be yourself and to be honest to attempt to awaken
+  to be yourself and to be honest to attempt to awaken[fn:cl]
 
 
 #+BEGIN_EXAMPLE
@@ -208,6 +208,25 @@ of Muad’Dib” by the Princess Irulan
   http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/
   http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
   http://www.crowd101.com/hacking-way-success-crowdfunding/
+
+[fn:cl]
+#+BEGIN_SRC lisp
+(defun heart (&optional (num 120))
+  "Draw a heart."
+  (labels ((r (v) (+ 17 (round v)))
+           (y (p) (r (* 16 (expt (sin p) 3))))
+           (x (p) (round (* 0.75 (r (- (* 13 (cos p)) (*  5 (cos (* 2 p))) (* 2 (cos (* 3 p))) (cos (* 4 p))))))))
+    (let ((arr (make-array '(34 34)))
+          (dp (/ (* 2 PI) num)))
+      (loop
+         for index from 0 to num
+         do (let ((p (* dp index))) (setf (aref arr (x p) (y p)) t)))
+      (loop for row from 22 downto 0
+           do (loop
+                 for col from 0 to 33
+                 do (format t "~A" (if (eq t (aref arr row col)) #\white_heart_suit #\space)))
+           do (terpri)))))
+#+END_SRC
 
 * TODO Upcycling Competition
 For those of use that grew up with 64K of memory being a *BIG DEAL*, the
