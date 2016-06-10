@@ -440,7 +440,7 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
 * TODO The Sunlight Foundation
 
-  The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an official sponsor of the Missoula
+  The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an offi[[http://www.northatlanticbooks.com/wp-content/uploads/2014/07/FOREWORD_PREFACE_OpenSourceEverythingManifesto.pdf][cia]]l sponsor of the Missoula
   Civic Hackathon!
 
 #+BEGIN_QUOTE
@@ -690,7 +690,7 @@ This is only a census.
 +------------------------+--------------------------------------------------+
 |                        |                                                  |
 | Spending               | A complete list of city expenditures at a        |
-|                        | detailed transactional level (including: tax     |
+|                        | detailed tra[[http://tcij.org/resources/handbooks/infosec][nsa]]ctional level (including: tax     |
 |                        | breaks, loans, contracts, grants, and            |
 |                        | operational spending). Records of actual (past)  |
 |                        | municipal spending at a detailed transactional   |
