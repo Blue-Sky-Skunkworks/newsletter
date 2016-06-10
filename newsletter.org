@@ -176,28 +176,28 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 ** emacs
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
 ** perl
-** TODO [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][Contructionism]]
-   We are asked, every once in a while, to teach what we know, as fast
-   as we can and somehow in the manner most people seem to learn
-   nowadays — passivly, sitting, well contained within
-   human-constructed boxes, listening to other humans or humanly
-   created machines parrot human though patterns they were taught was
-   worth repeating.
+* TODO [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][Contructionism]]
+  We are asked, every once in a while, to teach what we know, as fast
+  as we can and somehow in the manner most people seem to learn
+  nowadays — passivly, sitting, well contained within
+  human-constructed boxes, listening to other humans or humanly
+  created machines parrot human thoughts they were taught were worth
+  repeating.
 
-   Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
-   cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of time
-   we have occupied within the infinite, and we need people paying
-   attention to and learning from these types of patterns — the places
-   where beauty and wisdom and truth spring foth — not within the
-   fantasies of modern men.
+  Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
+  cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of [[http://waitbutwhy.com/2013/08/putting-time-in-perspective.html][time]]
+  we take up within the infinite, and we need people paying attention
+  to and learning from these types of patterns — the places where
+  beauty and wisdom and truth spring foth — not within the fantasies
+  of modern men.
 
-   We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
-   we love to teach this “skill” to anyone that can play fair and
-   share, because we know one of the best hacks to learning is
-   teaching and it's not like it's not a skill we didn't all hopefully
-   learn to do as children, so join alongside us as we attempt to look
-   upon the world with a fractal child's wonder as we leave the rest
-   for the 🅂 🅀 🅄 🅁 🄴 🅂 .
+  We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
+  we love to teach this “skill” to anyone that can play fair and
+  share, because we know one of the best hacks to learning is
+  teaching and it's not like it's not a skill we didn't all hopefully
+  learn to do as children, so join alongside us as we attempt to look
+  upon the world with a fractal child's wonder as we leave the rest
+  for the 🅂 [[https://en.wikipedia.org/wiki/Q_(Star_Trek)][🅀]] 🅄 🅁 🄴 🅂 .
 
 * TODO Prizes Worth Hacking For
 
@@ -334,7 +334,7 @@ to
 
     7. n. Short for hacker.
 
-    8. See nethack.
+    8. See [[http://www.nethack.org/][nethack]].
 
     9. [[[http://hacks.mit.edu/][MIT]]] v. To explore the basements, roof ledges, and steam
        tunnels of a large, institutional building, to the dismay of
@@ -499,7 +499,7 @@ of the whole.
 [fn:vampires] It's not like vampires are bad people, their just
 misunderstood and looking for connection like the rest of us.
 
-* TODO Learning from “Old” Byte Magazines
+* TODO Learning from [[http://www.arvindguptatoys.com/arvindgupta/computerpix.pdf][“Old”]] Byte Magazines
 
 #+BEGIN_QUOTE
 "… it is important not to lose sight of the fact that ther is a
@@ -1163,7 +1163,7 @@ in whatever way you see yourself fit in.
 ** TODO TAO
 ** TODO http://wikileaks.info/
 ** TODO picture poem
-* DONE [[https://en.wiktionary.org/wiki/licentia][License]]
+* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License]].
