@@ -61,9 +61,9 @@
 
   We hope you all enjoy this [[http://www.arvindguptatoys.com/arvindgupta/8.how-why-communication.pdf][communication]].
 
-  [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]] and help us out on
-  any of the myriad of projects hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics][communicating]] all
-  results back into the net.
+  [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]], study up, and help
+  us out on any of the myriad of projects hinted at below,
+  [[https://en.wikipedia.org/wiki/Cybernetics][communicating]] all results back into the net.
 
 * DONE The Plan for the Second Missoula Civic Hackathon
 
