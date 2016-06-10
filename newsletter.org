@@ -852,9 +852,9 @@ hackers and we intimately know the value of "[[https://en.wikipedia.org/wiki/Fai
 often]]".
 
 Our primary goal here is to send this message, loud and clear and
-honest and raw, over this frequency channel to give the universe the
+honest and raw, over this [[http://standards.ieee.org/getieee802/download/802.11g-2003.pdf][frequency channel]] to give the universe the
 chance to connect us to the right people so that they know that we are
-here and asking them out to play.
+here and asking them out to hack.
 
 And, I do say, we may have succeeded very well already, as...
 
