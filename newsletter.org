@@ -936,7 +936,7 @@ usual?
      [[mailto:will@blueskystewardship.org][will@blueskystewardship.org]]
 
   Everyone is [[https://www.eff.org/][highly]] [[https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto][encouraged]] to use [[https://en.wikipedia.org/wiki/Phil_Zimmermann][strong public key encryption]] to
-  sign and encrypt all private communications. A good daily habit [[http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html][akin]]
+  sign and encrypt all [[https://securityinabox.org/en][private]] communications. A good daily habit [[http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html][akin]]
   to [[https://ssd.eff.org/][brushing your teeth]].
 
 #+BEGIN_SRC sh :results verbatim
