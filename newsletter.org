@@ -59,10 +59,10 @@
 
   Version 1.0 — here we go!
 
-  We hope you all enjoy this communication.
+  We hope you all enjoy this [[http://www.arvindguptatoys.com/arvindgupta/8.how-why-communication.pdf][communication]].
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]] and help us out on
-  any of the myriad of projects hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics[communicating]] all
+  any of the myriad of projects hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics][communicating]] all
   results back into the net.
 
 * DONE The Plan for the Second Missoula Civic Hackathon
@@ -176,19 +176,18 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 ** emacs
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
 ** perl
-* TODO [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][Contructionism]]
-  We are asked, every once in a while, to teach what we know, as fast
-  as we can and somehow in the manner most people seem to learn
-  nowadays — passivly, sitting, well contained within
-  human-constructed boxes, listening to other humans or humanly
-  created machines parrot human thoughts they were taught were worth
-  repeating.
+* TODO Constructionism
+  We are asked, every once in a while, to teach what we know in the
+  manner most people seem to learn nowadays — passivly, sitting, well
+  contained within human-constructed boxes, listening to other humans
+  or humanly created machines parrot human thoughts they were taught
+  were worth repeating.
 
   Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
   cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of [[http://waitbutwhy.com/2013/08/putting-time-in-perspective.html][time]]
   we take up within the infinite, and we need people paying attention
   to and learning from these types of patterns — the places where
-  beauty and wisdom and truth spring foth — not within the fantasies
+  beauty and wisdom and truth spring forth — not within the fantasies
   of modern men.
 
   We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
@@ -197,7 +196,7 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
   teaching and it's not like it's not a skill we didn't all hopefully
   learn to do as children, so join alongside us as we attempt to look
   upon the world with a fractal child's wonder as we leave the rest
-  for the 🅂 [[https://en.wikipedia.org/wiki/Q_(Star_Trek)][🅀]] 🅄 🅁 🄴 🅂 .
+  for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
 
 * TODO Prizes Worth Hacking For
 
@@ -213,7 +212,7 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
   + 1 [[http://www.louisgarneau.com/][Louis Garneau]] Racing Jersey
   + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
   + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
-  + 1 copy of Que's Computer User's Dictionary, 5th Edition
+  + 1 copy of [[https://en.wikipedia.org/wiki/Q_(Star_Trek)][Que]]'s Computer User's Dictionary, 5th Edition
   + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
   + 1 IBM Thinkpad T500
 
@@ -328,8 +327,8 @@ to
 
     5. vt. To pull a prank on. See sense 2 and hacker (sense 5).
 
-    6. vi. To interact with a computer in a playful and exploratory
-       rather than goal-directed way. “Whatcha up to?” “Oh, just
+    6. vi. To interact with a computer in a [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][playful and exploratory
+       rather than goal-directed way]]. “Whatcha up to?” “Oh, just
        hacking.”
 
     7. n. Short for hacker.
@@ -348,7 +347,7 @@ to
     hack, hack (a fairly content-free but friendly comment, often used
     as a temporary farewell). For more on this totipotent term see The
     Meaning of Hack. See also neat hack, real hack.
-* TODO Batteries - or how Missoula began loving electric bicycles
+* TODO Batteries - or how Missoula began loving [[http://www.arvindguptatoys.com/arvindgupta/6.how-why-electronics.pdf][electric]] bicycles
 
 The wicked sharp and generous people at [[https://www.opportunityecycling.org/][Opportunity E-Cycling]], out
 near the airport, who are busy diligently keeping Missoula's aging
@@ -777,7 +776,7 @@ other flavor, and the core team is exicited to see if this works well
 because, if it does, than we may have something very replicable here
 for anyone else to attempt follow our lead for their own locality.
 
-Learning to throw swarm-sourced events that have the potential to
+Learning to throw [[https://ccl.northwestern.edu/netlogo/][swarm]]-sourced events that have the potential to
 cause lasting change for whomever shows up, facilitated greatly by the
 very recent inception of social media and the vast takeover of the
 attention of humans by the lure of the [[http://www.alr.ie/Download/Mercury_in_waste_LCD_backlights_summary_research_report.63ad9220.11115.pdf][mercury phosphor]] of [[https://www.researchgate.net/publication/266139481_Determination_of_toxic_metals_in_discarded_Liquid_Crystal_Displays_LCDs][rare-earth]]
@@ -810,6 +809,7 @@ and watch out for those
 88        88 `"8bbdP"Y8  `"Ybbd8"' 88   `Y8a `"Ybbd8"' 88         `"YbbdP"' 88
 #+END_EXAMPLE
 * TODO Pshyco-therapy
+
 The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
 
 I am the psychotherapist.  Please, describe your problems.  Each time
@@ -852,13 +852,13 @@ Why?
 What do you think?
 
 We use the tools at our displosal, at the times we are called forth to
-do so. Now, at this time, it is computers, and their potential for
-transforming the human condition for the better, and most definitely
-for the worse, has only just begun, and we loving, intelligent, and
-strong-of-body humans better take some centering leads among this
-stampeding band of wild horses here on <<EARTH IMAGE>> Earth to help
-calm them down a bit. Calm enough to see the beauty around them at
-every moment and the lush green grass beheath their feet.
+do so. Now, at this time, we use computers, and their potential for
+transforming the human condition for the better, and [[https://ebooks.adelaide.edu.au/c/capek/karel/rur/][most definitely
+for the worse]], has only just begun, and we loving, intelligent, and
+strong-of-body humans should possibly take some centering leads among
+this stampeding band of wild horses here on [[http://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57723/globe_west_2048.jpg][Earth]] to help calm them
+down a bit — calm enough to see the beauty around them at every moment
+and the lush green grass beheath their feet.
 
 Are you a computer hacker?
 
@@ -890,7 +890,8 @@ Hackers!
 
 Can you elaborate on that?
 
-Cypherpunks, [[http://www.urbandictionary.com/define.php?term=poetic%20terrorism][poetic terrorists]], [[http://www.instructables.com/][tinkerers]], [[http://google.com][sentient AI]]'s, — you know — the usual.
+Cypherpunks, [[http://www.urbandictionary.com/define.php?term=poetic%20terrorism][poetic terrorists]], [[http://www.instructables.com/][tinkerers]], [[http://google.com][sentient AI]]'s, — you know —
+[[https://github.com/showcases/programming-languages][the usual]].
 
 Are you sure that cypherpunks tinkerers sentient ai's I know the
 usual?
