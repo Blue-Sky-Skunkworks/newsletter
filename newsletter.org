@@ -77,9 +77,9 @@
 
 * DONE *Free!*
 
-  As much of a learning experience renting our own commercial kitchen
-  and serving amazing meals was, it was very stressful for our core
-  beloved and the only monetary cost for the first
+  As much of a learning experience renting our first [[http://moonlightkitchens.com/][commercial
+  kitchen]] and serving amazing meals was, it was very stressful for our
+  core beloved and the only monetary cost for the first
   hackathon. Eliminating this unnecessary task allows us to focus on
   the festivities and offer this imaginative and unique to Missoula
   event for *free*.
@@ -582,12 +582,13 @@ in participating in the census to read the [[http://us-city.census.okfn.org/abou
 which we copy below the list of data sets we are requesting help on
 locating.
 
-We are *not*, we repeat, *not*, at this particular time,
-requesting the city government to release any data sets they have
-contained in non publicly-accessible databases, many of which are,
-understandibly, internally coupled to and expensive to decouple from
-highly personal data that the City of Missoula would be violating
-citizens trust and personal privacy law to release into the wild.
+We are *not*, we repeat, *not*, at this particular time, requesting
+any city governments to release any of the publicly funded data sets
+they have currently contained in non publicly-accessible databases,
+many of which are, understandibly, internally coupled to and expensive
+to decouple from highly personal data that any city would, if they
+released this data, be violating citizens trust and [[https://myshadow.org/increase-your-privacy][personal privacy
+law]].
 
 And on the topic of *politics*, let me assure our readers here that we
 are not pushing any particular political agendas other than what we
@@ -1168,7 +1169,7 @@ in whatever way you see yourself fit in.
   much [[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to
   address, [[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical
   energy on needless conflict, almost always rooted in
-  [[https://en.wikipedia.org/wiki/Nonviolent_Communication][misunderstanding and miscommunication]], and with an infinite fractal
+  [[http://www.fws.gov/pacific/ea/tribal/treaties/flatheads_1855.pdf][misunderstanding]] and [[https://en.wikipedia.org/wiki/Nonviolent_Communication][miscommunication]], and with an infinite fractal
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
   other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — [[http://missoulacivichackathon.org][Hacking]].
