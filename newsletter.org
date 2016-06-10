@@ -90,14 +90,14 @@
 
 * DONE Non-Profit Sponsorship and Fundraiser
 
-  Hoping to follow the same successfull pattern of non-profit support
-  and shared growth through synergy we experenced in the first
-  Hackathon, as [[http://blueskystewardship.org][Blue Sky Stewardship]] sponsored the last hackathon with
-  their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals and Friday
-  night dinner party fit for a king, this next hackathon is sponsored
-  by the [[http://www.strans.org][Montana Institute of Sustainable Transportation]] and [[http://www.freecycles.org][Free
-  Cycles]] with their fantastically creative community bike shop and
-  inventive upcycling laboratory.
+  Hoping to follow the same successfull pattern[fn:spice] of
+  non-profit support and shared growth through synergy we experenced
+  in the first Hackathon, as [[http://blueskystewardship.org][Blue Sky Stewardship]] sponsored the last
+  hackathon with their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals
+  and Friday night dinner party fit for a king, this next hackathon is
+  sponsored by the [[http://www.strans.org][Montana Institute of Sustainable Transportation]] and
+  [[http://www.freecycles.org][Free Cycles]] with their fantastically
+  creative community bike shop and inventive upcycling laboratory.
 
   If you are not yet aware, Free Cycles is in the middle of possibly
   their most important time in [[http://www.freedman-chicago.com/ec4i/History-of-Crowdfunding.pdf][fund-raising history]] with the push to
@@ -110,6 +110,18 @@
 
   The team thinks that there may just be a little wiggle room here for
   the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
+
+[fn:spice] There is in all things a pattern that is part of our
+universe. It has symmetry, elegance, and grace—those qualities you
+find always in that which the true artist captures. You can find it in
+the turning of the seasons, in the way sand trails along a ridge, in
+the branch clusters of the creosote bush or the pattern of its
+leaves. We try to copy these patterns in our lives and our society,
+seeking the rhythms, the dances, the forms that comfort. Yet, it is
+possible to see peril in the finding of ultimate perfection. It is
+clear that the unltimate pattern contains its own fixity. In such
+perfection, all things move toward death. —from “The Collected Sayings
+of Muad’Dib” by the Princess Irulan
 
 * TODO Carnival!!!
 
@@ -485,66 +497,6 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
 #+RESULTS:
 | 9 | 22.30562072324877 | 2016 |
 
-* TODO The Sunlight Foundation
-
-  The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an offi[[http://www.northatlanticbooks.com/wp-content/uploads/2014/07/FOREWORD_PREFACE_OpenSourceEverythingManifesto.pdf][cia]]l sponsor of the Missoula
-  Civic Hackathon!
-
-#+BEGIN_QUOTE
-OUR MISSION[fn:sl]
-
-The Sunlight Foundation is a national, nonpartisan, nonprofit
-organization that uses the tools of civic tech, open data, policy
-analysis and journalism to make our government and politics more
-accountable and transparent to all. Our vision is to use technology
-to enable more complete, equitable and effective democratic
-participation. Our overarching goal is to achieve changes in the law
-to require real-time, online transparency for all government
-information, with a special focus on the political money flow and
-who tries to influence government and how government responds. And,
-our work focuses on the local, state, federal and international
-levels.
-
-These efforts have produced real results. To date, we have served
-more than 4.1 billion API calls (and counting), indicating how much
-the data we liberate is needed. Our reporting is frequently cited by
-the world's preeminent journalists. Our research has led to
-congressional hearings, and our tools have stripped problematic
-measures from bills. And we recently won a major victory when, at
-our urging, the federal government agreed to begin the process of
-releasing all datasets held by federal agencies.
-
-As government grows ever-more complex, and as the flow of political
-money becomes more perverse, we will all need better and more
-creative tools to ensure that democracy thrives.
-#+END_QUOTE
-
-We all hopefully strive daily to shine our own personal sun of
-awareness inside our own internal worlds at the parts of the greater
-world that we do not need any longer and have long served their
-purpose, placed inside each of us, against our then undeveloped and
-vulnerable wills, a long time ago.
-
-These energy matrices, psychopathies, entities, whatever-your-flavor
-will wither and die in the sun like the vampires of lore as the sun
-rises over the horizon.
-
-As this process is vitally critical to our own personal growth and
-evolution — “As above, so below”, and at the level of the “City”, this
-same process must proceed in earnest, by all conscious and aware
-beings, at all times, as a necessary constant force of good in this
-world.
-
-Maybe it's time to shine a bit of the burning sunshine of awareness
-around all of the worlds a bit to see if anything staggers blindly out
-of the darkness to rapidly deliquesce — releasing all of that
-parasitized energy for constructive[fn:vampires] use on the betterment
-of the whole.
-
-[fn:sl] http://creativecommons.org/licenses/by/4.0/
-[fn:vampires] It's not like vampires are bad people, their just
-misunderstood and looking for connection like the rest of us.
-
 * TODO Learning from [[http://www.arvindguptatoys.com/arvindgupta/computerpix.pdf][“Old”]] Byte Magazines
 
 #+BEGIN_QUOTE
@@ -609,6 +561,66 @@ current technology.”
    modems call in to leave and retrieve messages. It was concieved,
    designed, built, programmed, tested, and installed in 30 day period
    (January 16 1978 to February 16 1978) by the two of us."
+
+* TODO The Sunlight Foundation
+
+  The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an offi[[http://www.northatlanticbooks.com/wp-content/uploads/2014/07/FOREWORD_PREFACE_OpenSourceEverythingManifesto.pdf][cia]]l sponsor of the Missoula
+  Civic Hackathon!
+
+#+BEGIN_QUOTE
+OUR MISSION[fn:sl]
+
+The Sunlight Foundation is a national, nonpartisan, nonprofit
+organization that uses the tools of civic tech, open data, policy
+analysis and journalism to make our government and politics more
+accountable and transparent to all. Our vision is to use technology
+to enable more complete, equitable and effective democratic
+participation. Our overarching goal is to achieve changes in the law
+to require real-time, online transparency for all government
+information, with a special focus on the political money flow and
+who tries to influence government and how government responds. And,
+our work focuses on the local, state, federal and international
+levels.
+
+These efforts have produced real results. To date, we have served
+more than 4.1 billion API calls (and counting), indicating how much
+the data we liberate is needed. Our reporting is frequently cited by
+the world's preeminent journalists. Our research has led to
+congressional hearings, and our tools have stripped problematic
+measures from bills. And we recently won a major victory when, at
+our urging, the federal government agreed to begin the process of
+releasing all datasets held by federal agencies.
+
+As government grows ever-more complex, and as the flow of political
+money becomes more perverse, we will all need better and more
+creative tools to ensure that democracy thrives.
+#+END_QUOTE
+
+We all hopefully strive daily to shine our own personal sun of
+awareness inside our own internal worlds at the parts of the greater
+world that we do not need any longer and have long served their
+purpose, placed inside each of us, against our then undeveloped and
+vulnerable wills, a long time ago.
+
+These energy matrices, psychopathies, entities, whatever-your-flavor
+will wither and die in the sun like the vampires of lore as the sun
+rises over the horizon.
+
+As this process is vitally critical to our own personal growth and
+evolution — “As above, so below”, and at the level of the “City”, this
+same process must proceed in earnest, by all conscious and aware
+beings, at all times, as a necessary constant force of good in this
+world.
+
+Maybe it's time to shine a bit of the burning sunshine of awareness
+around all of the worlds a bit to see if anything staggers blindly out
+of the darkness to rapidly deliquesce — releasing all of that
+parasitized energy for constructive[fn:vampires] use on the betterment
+of the whole.
+
+[fn:sl] http://creativecommons.org/licenses/by/4.0/
+[fn:vampires] It's not like vampires are bad people, their just
+misunderstood and looking for connection like the rest of us.
 * TODO US City Open Data Census
 
 The Missoula Civic Hackathon team is now shouldering the “librarian”
@@ -628,7 +640,7 @@ law]].
 And on the topic of *politics*, let me assure our readers here that we
 are not pushing any particular political agendas other than what we
 consider our birth-right — freedom of expression and the freedom to
-share with others.
+share our hacks with others.
 
 #+BEGIN_QUOTE
 Formerly vaguely liberal-moderate, more recently
@@ -780,7 +792,7 @@ Hackathon team's own Harold Shinsato.
 
 The theme for this years conference is:
 
-    How Will You Take Radical <<FIX>> [[http://thestewardship.org][Responsibility]] For a Better
+    How Will You Take Radical [[http://thestewardship.org][Responsibility]] For a Better
     World?
 
 I invite all who have June 11th free to join us at the University
