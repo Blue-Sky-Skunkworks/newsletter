@@ -442,6 +442,14 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
+
+#+BEGIN_SRC elisp
+(solar-equinoxes/solstices 2 2016)
+#+END_SRC
+
+#+RESULTS:
+| 9 | 22.30562072324877 | 2016 |
+
 * TODO The Sunlight Foundation
 
   The [[http://sunlightfoundation.org][Sunlight Foundation]] is now an offi[[http://www.northatlanticbooks.com/wp-content/uploads/2014/07/FOREWORD_PREFACE_OpenSourceEverythingManifesto.pdf][cia]]l sponsor of the Missoula
@@ -747,18 +755,34 @@ Congregational Church for this unique and special event.
   As we look at our calendar now
 
 #+BEGIN_SRC elisp
-        (format "gregorian — %s\nmayan — %s\nhebrew — %s\nfrench — %s\n"
-       (current-time-string)
-       (calendar-mayan-date-string)
-       (calendar-hebrew-date-string)
-       (calendar-french-date-string)
-
-  )
-
+(format "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n"
+        (current-time-string)           ;; gregorian
+        (calendar-bahai-date-string)
+        (calendar-chinese-date-string)
+        (calendar-coptic-date-string)
+        (calendar-french-date-string)
+        (calendar-hebrew-date-string)
+        (calendar-islamic-date-string)
+        (calendar-iso-date-string)
+        (calendar-julian-date-string)
+        (calendar-mayan-date-string)
+        (calendar-persian-date-string))
 #+END_SRC
 
 #+RESULTS:
-: when
+#+begin_example
+Fri Jun 10 02:55:26 2016
+Núr 6, 173
+Cycle 78, year 33 (Bing-Shen), month 5 (Jia-Wu), day 6 (Gui-Hai)
+Baunah 3, 1732
+23 Prairial an 224 de la Révolution
+Sivan 4, 5776
+Ramadan 4, 1437
+Day 5 of week 23 of 2016
+May 28, 2016
+Long count = 13.0.3.9.7; tzolkin = 10 Manik; haab = 10 Zotz
+Xordad 21, 1395
+#+end_example
 
 June 7 2016
 
