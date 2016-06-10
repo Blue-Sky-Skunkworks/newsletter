@@ -179,26 +179,25 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 ** TODO [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][Contructionism]]
    We are asked, every once in a while, to teach what we know, as fast
    as we can and somehow in the manner most people seem to learn
-   nowadays — passivly, sitting, trapped in human-constructed boxes,
-   listening to other humans or humanly created machines parrot some
-   other human though they were taught was worth repeating, generally
-   in that same dismal situation, a long time ago.
+   nowadays — passivly, sitting, well contained within
+   human-constructed boxes, listening to other humans or humanly
+   created machines parrot human though patterns they were taught was
+   worth repeating.
 
    Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
    cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of time
    we have occupied within the infinite, and we need people paying
    attention to and learning from these types of patterns — the places
-   where beauty and wisdom and truth lie — not within the fantasies of
-   modern men.
+   where beauty and wisdom and truth spring foth — not within the
+   fantasies of modern men.
 
    We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
    we love to teach this “skill” to anyone that can play fair and
    share, because we know one of the best hacks to learning is
    teaching and it's not like it's not a skill we didn't all hopefully
-   learned to do as children, so join alongside us as we attempt to
-   look upon the world with a fractal child's wonder and we can leave
-   the rest for the 🅂 🅀 🅄 🅁 🄴 🅂 .
-
+   learn to do as children, so join alongside us as we attempt to look
+   upon the world with a fractal child's wonder as we leave the rest
+   for the 🅂 🅀 🅄 🅁 🄴 🅂 .
 
 * TODO Prizes Worth Hacking For
 
@@ -764,17 +763,52 @@ and note the date of the next hackathon
 
 <<HACKATHON DATE>>
 
-And despite all of our efforts to release this message to you readers,
-internal and external circumstances intervene, as they seem to aways
-do - it's not like we even remotely pretend to know what is “really”
-going on at the higher levels, but we do aim to play hard and fair
-with what we do understand.
+And despite all of our efforts to release this message to you readers
+way back, internal and external circumstances intervene, as they
+always seem to do.
 
 Except for the core crew, the world does not yet know about this
 event. The sending of this Newsletter and the susequent [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369477/][myceliation]] of
 the information into the network of local people by word of mouth and
-electronic [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] has yet to occur
+electronic and print [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] has yet to occur.
 
+This Hackathon is an attempt at a hack like the last one, just one
+other flavor, and the core team is exicited to see if this works well
+because, if it does, than we may have something very replicable here
+for anyone else to attempt follow our lead for their own locality.
+
+Learning to throw swarm-sourced events that have the potential to
+cause lasting change for whomever shows up, facilitated greatly by the
+very recent inception of social media and the vast takeover of the
+attention of humans by the lure of the [[http://www.alr.ie/Download/Mercury_in_waste_LCD_backlights_summary_research_report.63ad9220.11115.pdf][mercury phosphor]] of [[https://www.researchgate.net/publication/266139481_Determination_of_toxic_metals_in_discarded_Liquid_Crystal_Displays_LCDs][rare-earth]]
+[[http://www.ptable.com/][metals]], we feel, is a very valuable skill worth honing nowadays.
+
+As practice makes perfect, and for our second time around we do expect
+many “failures” this time and we'll [[http://www.taoism.net/ttc/complete.htm][take them in stride]] as we are
+hackers and we intimately know the value of "[[https://en.wikipedia.org/wiki/Fail-fast][Fail fast]] and [[https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][fail
+often]]".
+
+Our primary goal here is to send this message, loud and clear and
+honest and raw, over this frequency channel to give the universe the
+chance to connect us to the right people so that they know that we are
+here and asking them out to play.
+
+And, I do say, we may have succeeded very well already, as...
+
+*You*, dear reader, are still reading and the [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][meme]]s presented have
+possessed many a young mind, so protect yourself out there, friend,
+and watch out for those
+
+#+BEGIN_EXAMPLE
+88        88                       88                                       88
+88        88                       88                                       88
+88        88                       88                                       88
+88aaaaaaaa88 ,adPPYYba,  ,adPPYba, 88   ,d8  ,adPPYba, 8b,dPPYba, ,adPPYba, 88
+88""""""""88 ""     `Y8 a8"     "" 88 ,a8"  a8P_____88 88P'   "Y8 I8[    "" 88
+88        88 ,adPPPPP88 8b         8888[    8PP""""""" 88          `"Y8ba,  ""
+88        88 88,    ,88 "8a,   ,aa 88`"Yba, "8b,   ,aa 88         aa    ]8I aa
+88        88 `"8bbdP"Y8  `"Ybbd8"' 88   `Y8a `"Ybbd8"' 88         `"YbbdP"' 88
+#+END_EXAMPLE
 * TODO Pshyco-therapy
 The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
 
