@@ -176,6 +176,30 @@ For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 ** emacs
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
 ** perl
+** TODO [[http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf][Contructionism]]
+   We are asked, every once in a while, to teach what we know, as fast
+   as we can and somehow in the manner most people seem to learn
+   nowadays — passivly, sitting, trapped in human-constructed boxes,
+   listening to other humans or humanly created machines parrot some
+   other human though they were taught was worth repeating, generally
+   in that same dismal situation, a long time ago.
+
+   Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
+   cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of time
+   we have occupied within the infinite, and we need people paying
+   attention to and learning from these types of patterns — the places
+   where beauty and wisdom and truth lie — not within the fantasies of
+   modern men.
+
+   We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
+   we love to teach this “skill” to anyone that can play fair and
+   share, because we know one of the best hacks to learning is
+   teaching and it's not like it's not a skill we didn't all hopefully
+   learned to do as children, so join alongside us as we attempt to
+   look upon the world with a fractal child's wonder and we can leave
+   the rest for the 🅂 🅀 🅄 🅁 🄴 🅂 .
+
+
 * TODO Prizes Worth Hacking For
 
   Oh boy does the universe like to throw prizes at civic hackathons.
@@ -313,12 +337,12 @@ to
 
     8. See nethack.
 
-    9. [MIT] v. To explore the basements, roof ledges, and steam
+    9. [[[http://hacks.mit.edu/][MIT]]] v. To explore the basements, roof ledges, and steam
        tunnels of a large, institutional building, to the dismay of
        Physical Plant workers and (since this is usually performed at
        educational institutions) the Campus Police. This activity has
        been found to be eerily similar to playing adventure games such
-       as Dungeons and Dragons and Zork. See also vadding.
+       as Dungeons and Dragons and [[http://inform7.com/][Zork]]. See also vadding.
 
     Constructions on this term abound. They include happy hacking (a
     farewell), how's hacking? (a friendly greeting among hackers) and
@@ -477,6 +501,18 @@ of the whole.
 misunderstood and looking for connection like the rest of us.
 
 * TODO Learning from “Old” Byte Magazines
+
+#+BEGIN_QUOTE
+"… it is important not to lose sight of the fact that ther is a
+difference beteween training and education. If computer science is a
+fundamental discipline, then university education in this field should
+emphasize enduring fundamental principles rather than transient
+current technology.”
+
+[[https://www.inf.unibz.it/~calvanese/teaching/2015-09-PhD-RM/material/Wegner%20-%20Research%20Paradigms%20in%20CS%20-%20ICSE%201976.pdf][Peter Wegner]], [[http://www.americanscientist.org/libraries/documents/2014129911110802-2015-01Hayes.pdf][/Three Computer Cultures/]]
+#+END_QUOTE
+
+
 ** http://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n87/mode/2up
 ** [[http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n17/mode/2up][Functional Approximations]]
 ** http://archive.org/stream/byte-magazine-1978-11/1978_11_BYTE_03-11_The_Sky_is_the_Limit#page/n35/mode/2up
@@ -704,9 +740,9 @@ The theme for this years conference is:
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
 
-* TODO The Missoula Civic Hackathon as a possible example of a Hack
+* TODO The Missoula Civic Hackathon as a Possible Example of a Hack
 
-  As I look at my calendar now
+  As we look at our calendar now
 
 #+BEGIN_SRC elisp
         (format "gregorian — %s\nmayan — %s\nhebrew — %s\nfrench — %s\n"
@@ -735,11 +771,9 @@ going on at the higher levels, but we do aim to play hard and fair
 with what we do understand.
 
 Except for the core crew, the world does not yet know about this
-event. The sending of this Newsletter and the susequent mycillation of
+event. The sending of this Newsletter and the susequent [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369477/][myceliation]] of
 the information into the network of local people by word of mouth and
-electronic [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] is all (well, except for all the things we are doing
-to set up the playground, but please ignore the men behind the
-curtain)
+electronic [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] has yet to occur
 
 * TODO Pshyco-therapy
 The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
@@ -788,9 +822,9 @@ do so. Now, at this time, it is computers, and their potential for
 transforming the human condition for the better, and most definitely
 for the worse, has only just begun, and we loving, intelligent, and
 strong-of-body humans better take some centering leads among this
-stampeding band of wild horses here on Earth and calm them down a bit
-to realize the beauty around them at every moment and the lush green
-grass beheath their feet.
+stampeding band of wild horses here on <<EARTH IMAGE>> Earth to help
+calm them down a bit. Calm enough to see the beauty around them at
+every moment and the lush green grass beheath their feet.
 
 Are you a computer hacker?
 
@@ -822,7 +856,7 @@ Hackers!
 
 Can you elaborate on that?
 
-Cypherpunks, tinkerers, sentient AI's, — you know — the usual.
+Cypherpunks, [[http://www.urbandictionary.com/define.php?term=poetic%20terrorism][poetic terrorists]], [[http://www.instructables.com/][tinkerers]], [[http://google.com][sentient AI]]'s, — you know — the usual.
 
 Are you sure that cypherpunks tinkerers sentient ai's I know the
 usual?
@@ -1039,7 +1073,7 @@ and we could use all of your help
 .
 .
 
-in whatever way you see yourself fit.
+in whatever way you see yourself fit in.
 #+END_EXAMPLE
 * TODO Farewell for now, and *Happy Hacking* from the
 #+BEGIN_EXAMPLE
@@ -1078,6 +1112,23 @@ in whatever way you see yourself fit.
 * TODO The Oracle
   [[http://deoxy.org/iching/11][䷊  Peace]]\\
   [[http://deoxy.org/iching/7][䷆  The Army]]
+* TODO add
+** TODO xkcd
+   https://xkcd.com/386/
+** TODO G.E.B.
+** TODO GPL Stallman
+** TODO ASCII 3d
+** TODO stegenography
+** TODO apple II
+** TODO interactive fiction
+** TODO Hank Williams
+** TODO hubble deep space
+** TODO earth in light
+** TODO permaculture - uc davis
+** TODO Snowden
+** TODO TAO
+** TODO http://wikileaks.info/
+** TODO picture poem
 * DONE [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
