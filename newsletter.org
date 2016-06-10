@@ -566,7 +566,7 @@ current technology.”
    modems call in to leave and retrieve messages. It was concieved,
    designed, built, programmed, tested, and installed in 30 day period
    (January 16 1978 to February 16 1978) by the two of us."
-* TODO US City Open Data Census
+* DONE US City Open Data Census
 
 The Missoula Civic Hackathon team is now shouldering the “librarian”
 role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
@@ -697,7 +697,7 @@ This is only a census.
 |                        | detailed tra[[http://tcij.org/resources/handbooks/infosec][nsa]]ctional level (including: tax     |
 |                        | breaks, loans, contracts, grants, and            |
 |                        | operational spending). Records of actual (past)  |
-|                        | municipal spending at a detailed transactional   |
+|                        | municipal spending at a detailed tra[[https://prism-break.org/en/][nsa]]ctional   |
 |                        | level, for example, at the level of month to     |
 |                        | month expenditure on specific items (usually     |
 |                        | this means individual records of spending        |
@@ -800,7 +800,7 @@ And, I do say, we may have succeeded very well already, as...
 
 *You*, dear reader, are still reading and the [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][meme]]s presented have
 possessed many a young mind, so protect yourself out there, friend,
-and watch out for those
+and [[https://www.eff.org/privacybadger][watch]] out for those
 
 #+BEGIN_EXAMPLE
 88        88                       88                                       88
