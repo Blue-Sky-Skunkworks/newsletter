@@ -120,7 +120,7 @@
   [[https://www.youtube.com/watch?v=4eRCygdW--c][miniature]] [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
   finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
-* TODO CrowdHacking
+* DONE CrowdHacking
 
   We have until the end of the month of June to raise
 
@@ -131,7 +131,7 @@
 #+RESULTS:
 : $204180
 
-  in order to furtur Free Cycles along its evolutionary path.
+  in order to further Free Cycles along its evolutionary path.
 
   And this “problem” is most definitely an information distribution
   problem.
@@ -153,6 +153,39 @@
   ripe for hacking connections between all the bicycle companies and
   bicycle groups around the world and pointing them at [[https://www.crowdrise.com/supportthebike][our fundraiser]].
 
+  And the point here, as all reaching out to people for help should,
+  in our humble opinion, proceed, is to attempt to connect [[http://www.bahaistudies.net/asma/iandthou.pdf][I-Thou]] and
+  to be yourself and to be honest to attempt to awaken
+
+
+#+BEGIN_EXAMPLE
+                       ♡♡♡♡           ♡♡♡♡♡
+                    ♡♡♡    ♡♡       ♡♡     ♡♡
+                  ♡♡         ♡♡♡ ♡♡♡         ♡♡
+                 ♡             ♡ ♡             ♡
+                 ♡             ♡♡♡             ♡
+                ♡               ♡               ♡
+                ♡               ♡               ♡
+                ♡                               ♡
+                ♡♡                             ♡♡
+                 ♡             __o             ♡
+                  ♡          _`\<,_           ♡
+                  ♡         (*)/ (*)          ♡
+                   ♡♡                       ♡♡
+                     ♡                    ♡♡
+                      ♡♡♡               ♡♡
+                        ♡               ♡
+                         ♡             ♡
+                          ♡♡         ♡♡
+                            ♡♡     ♡♡
+                             ♡♡   ♡♡
+                               ♡ ♡
+                                ♡
+                                ♡
+#+END_EXAMPLE
+
+  to our cause.
+
   Hackers with a second [[https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers][human language]] will be very valuable here, and
   good luck competing on connections with a fluent Chinese speaker
   raising money for bikes. [[http://research.microsoft.com/en-us/um/people/mbj/Smiley/Smiley.html][;)]]
@@ -163,6 +196,7 @@
   http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/
   http://crowdfundinghacks.com/best-of-crowdfunding-hacks/
   http://www.crowd101.com/hacking-way-success-crowdfunding/
+
 * TODO Upcycling Competition
 For those of use that grew up with 64K of memory being a *BIG DEAL*, the
 
@@ -180,14 +214,15 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 ** emacs
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
 ** perl
+** C
 * TODO Constructionism
   We are asked, every once in a while, to teach what we know in the
-  manner most people seem to learn nowadays — passivly, sitting, well
-  contained within human-constructed boxes, listening to other humans
-  or humanly created machines parrot human thoughts they were taught
-  were worth repeating.
+  manner most people seem to have been tought how to learn — passivly,
+  sitting, well contained within human-constructed boxes, listening to
+  other humans or humanly created machines parrot human thoughts they
+  were taught were worth repeating.
 
-  Outside that square box is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
+  Outside that [[https://www.vocabulary.com/dictionary/myopic][square box]] is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
   cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of [[http://waitbutwhy.com/2013/08/putting-time-in-perspective.html][time]]
   we take up within the infinite, and we need people paying attention
   to and learning from these types of patterns — the places where
@@ -574,7 +609,7 @@ current technology.”
    modems call in to leave and retrieve messages. It was concieved,
    designed, built, programmed, tested, and installed in 30 day period
    (January 16 1978 to February 16 1978) by the two of us."
-* DONE US City Open Data Census
+* TODO US City Open Data Census
 
 The Missoula Civic Hackathon team is now shouldering the “librarian”
 role for the [[http://us-city.census.okfn.org/][US City Open Data Census]] and we invite anyone interested
@@ -751,7 +786,7 @@ The theme for this years conference is:
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
 
-* TODO The Missoula Civic Hackathon as a Possible Example of a Hack
+* DONE The Missoula Civic Hackathon as a Possible Example of a Hack
 
   As we look at our calendar now
 
@@ -812,7 +847,7 @@ attention of humans by the lure of the [[http://www.alr.ie/Download/Mercury_in_w
 [[http://www.ptable.com/][metals]], we feel, is a very valuable skill worth honing nowadays.
 
 As practice makes perfect, and for our second time around we do expect
-many “failures” this time and we'll [[http://www.taoism.net/ttc/complete.htm][take them in stride]] as we are
+many “failures” this time and we'll [[file:///usr/share/games/fortunes/tao][take them in stride]] as we are
 hackers and we intimately know the value of "[[https://en.wikipedia.org/wiki/Fail-fast][Fail fast]] and [[https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][fail
 often]]".
 
@@ -909,7 +944,7 @@ Yes! But what is I and what is you?
 
 Does it bother you that what is you and what is me?
 
-Bother, brother? What is me is the world and not the world and you do
+Bother, [[https://en.wikipedia.org/wiki/Cyborg][brother]]? What is me is the world and not the world and you do
 make that Venn diagram.
 
 
@@ -924,6 +959,15 @@ Can you elaborate on that?
 
 Are you sure that cypherpunks tinkerers sentient ai's I know the
 usual?
+
+We'll
+
+#+BEGIN_SRC C :includes <stdio.h>
+printf("See!\n");
+#+END_SRC
+
+#+RESULTS:
+: See!
 
 * TODO You Can Contribute to the Missoula Civic Hackathon Newsletter
 
@@ -1154,6 +1198,28 @@ in whatever way you see yourself fit in.
       |  (/,(_][ | ) *                 __O>O__/
 
 #+END_EXAMPLE
+* DONE Our Word
+
+“Among hackers, though, slang has a [[http://www.garykessler.net/library/steganography.html][subtler aspect]], paralleled perhaps
+in the slang of [[http://burghausenjazz.com/intro/introduction.html#john][jazz musicians]] and some kinds of fine artists but hard
+to detect in most technical or scientific cultures; parts of it are
+code for shared states of [[http://www.gurdjieff.am/in-search/index.pdf][consciousness]]. There is a whole range of
+altered states and problem-solving mental stances [[https://en.wikipedia.org/wiki/Visual_memory][basic]] to high-level
+hacking which don't fit into [[http://orwell.ru/library/novels/1984/english/en_app][conventional linguistic reality]] any
+better than a [[http://www.platform.org/][Coltrane]] [[http://rollingout.com/2015/11/16/platform-org-founder-diversity-advocate-hank-williams-dead-50/][solo]] or one of [[https://www.youtube.com/watch?v=1u1HWCsf06A][Maurits Escher]]'s surreal trompe
+l'oeil compositions (Escher is a favorite of hackers), and hacker
+slang encodes these subtleties in many unobvious ways. As a simple
+example, take the distinction between a [[https://pixabay.com/en/photos/light%20bulb/][kluge]] and an elegant solution,
+and the differing connotations attached to each. The distinction is
+not only of engineering significance; it reaches right back into the
+nature of the generative processes in program design and asserts
+something important about two different kinds of relationship between
+the hacker and the hack. Hacker slang is unusually rich in
+implications of this kind, of overtones and undertones that illuminate
+the hackish psyche.”
+
+— [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
+
 * TODO Disclaimer
 
   The ideas and people mentioned and referenced in this document in no
@@ -1169,7 +1235,7 @@ in whatever way you see yourself fit in.
   much [[http://www.kpax.com/story/31573624/civic-hackathon-brainstorms-environmental-solutions][“low hanging fruit”]] at this time on earth for us hackers to
   address, [[http://missoulanews.bigskypress.com/missoula/hackathon/Content?oid=2756399][falling to the ground in bushels]], to waste any critical
   energy on needless conflict, almost always rooted in
-  [[http://www.fws.gov/pacific/ea/tribal/treaties/flatheads_1855.pdf][misunderstanding]] and [[https://en.wikipedia.org/wiki/Nonviolent_Communication][miscommunication]], and with an infinite fractal
+  [[http://www.fws.gov/pacific/ea/tribal/treaties/flatheads_1855.pdf][misunderstanding]] and mis[[https://en.wikipedia.org/wiki/Nonviolent_Communication][communication]], and with an infinite fractal
   of beautiful graceful hacks left to perform together (and we do need
   [[http://www.census.gov/popclock/][all of us]] now) we prefer to work out our differences alongside each
   other, out [[http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79787/city_lights_namerica_8k.jpg][here]] in the [[http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Feynman_QED_1949.pdf][field]], doing what we do best — [[http://missoulacivichackathon.org][Hacking]].
@@ -1190,7 +1256,6 @@ in whatever way you see yourself fit in.
 ** TODO earth in light
 ** TODO permaculture - uc davis
 ** TODO Snowden
-** TODO TAO
 ** TODO http://wikileaks.info/
 ** TODO picture poem
 * TODO [[https://en.wiktionary.org/wiki/licentia][License]]
