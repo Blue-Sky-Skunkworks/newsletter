@@ -286,7 +286,7 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
   + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
   + 1 copy of [[https://en.wikipedia.org/wiki/Q_(Star_Trek)][Que]]'s Computer User's Dictionary, 5th Edition
   + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
-  + 1 IBM Thinkpad T500
+  + 1 [[https://libreboot.org/docs/hcl/t500.html][IBM Thinkpad T500]]
 
   And, although not the most “valuable” prize in the bunch, the
   following book, to me, is the *grand prize*.  It truly is a gem
