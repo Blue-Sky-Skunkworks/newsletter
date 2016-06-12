@@ -147,6 +147,18 @@ of Muad’Dib” by the Princess Irulan
   [[https://www.youtube.com/watch?v=4eRCygdW--c][miniature]] [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
   finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+* TODO Schedule of Events
+| time            | event                         |
+|-----------------+-------------------------------|
+| 8:30 a.m.       | Doors Open                    |
+| 9:30            | Lightning Talks               |
+| 10:00           | Break                         |
+| 10:15 – 12:00   | Civic Hackathon Un-Conference |
+| noon            | Lunch Break                   |
+| 1:00 p.m – 4:00 | Carnival!                     |
+| 4:00            | Demos and Prizes              |
+| 5:00-Midnight   | CrowdHack                     |
+| 8:00-10 p.m.    | CryptoParty                   |
 * TODO CrowdHacking
 
   We have until the end of the month of June to raise
