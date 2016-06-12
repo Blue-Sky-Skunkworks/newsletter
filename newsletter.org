@@ -46,18 +46,33 @@
                 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #+END_EXAMPLE
 
-* DONE Welcome!
+* TODO Welcome!
 
   Hello fellow civic hackers,
 
-  Less than a week until the second Missoula Civic Hackathon and the
+  Less than a week until the second [[http://missoulacivichackathon.org/][Missoula Civic Hackathon]] and the
   core team has much to share in ...
 
 * DONE Our First Install(ment)
 
-  of the Missoula Civic Hackathon Newsletter - Transporation Edition
+  of the Missoula Civic Hackathon Newsletter
 
-  Version 1.0 — here we go!
+#+BEGIN_EXAMPLE
+╺┳╸┏━┓┏━┓┏┓╻┏━┓┏━┓┏━┓┏━┓╺┳╸┏━┓╺┳╸╻┏━┓┏┓╻
+ ┃ ┣┳┛┣━┫┃┗┫┗━┓┣━┛┃ ┃┣┳┛ ┃ ┣━┫ ┃ ┃┃ ┃┃┗┫
+ ╹ ╹┗╸╹ ╹╹ ╹┗━┛╹  ┗━┛╹┗╸ ╹ ╹ ╹ ╹ ╹┗━┛╹ ╹
+            ┏━╸╺┳┓╻╺┳╸╻┏━┓┏┓╻
+            ┣╸  ┃┃┃ ┃ ┃┃ ┃┃┗┫
+            ┗━╸╺┻┛╹ ╹ ╹┗━┛╹ ╹
+
+                 ╺━╸╺━╸
+
+      ╻ ╻┏━╸┏━┓┏━┓╻┏━┓┏┓╻   ╺┓  ┏━┓
+      ┃┏┛┣╸ ┣┳┛┗━┓┃┃ ┃┃┗┫    ┃  ┃┃┃
+      ┗┛ ┗━╸╹┗╸┗━┛╹┗━┛╹ ╹   ╺┻╸╹┗━┛
+#+END_EXAMPLE
+
+  — here we go!
 
   We hope you all enjoy this [[http://www.arvindguptatoys.com/arvindgupta/8.how-why-communication.pdf][communication]].
 
@@ -65,7 +80,7 @@
   us out on any of the myriad of [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Projects][projects]] hinted at below,
   [[https://en.wikipedia.org/wiki/Cybernetics][communicating]] all results back into the net.
 
-* DONE The Plan for the Second Missoula Civic Hackathon
+* TODO The Plan for the Second Missoula Civic Hackathon
 
   After much deliberation and meditation on the successes and failures
   of throwing our [[https://github.com/Blue-Sky-Skunkworks/hackathon_old][first hackathon]], the crew has changed it up a bit
@@ -75,7 +90,7 @@
   gonna hit the ~Math.random()~ function here with regard to the
   variables at play...
 
-* DONE *Free!*
+* TODO *Free!*
 
   As much of a learning experience renting our first [[http://moonlightkitchens.com/][commercial
   kitchen]] and serving amazing meals was, it was very stressful for our
@@ -88,7 +103,7 @@
   [[http://drnissani.net/mnissani/revolutionarystoolkit/TheMoonIsAHarshMistress.pdf][free lunch]] on Saturday to everyone that <<URL>> signs up for the
   event before June 17th.
 
-* DONE Non-Profit Sponsorship and Fundraiser
+* TODO Non-Profit Sponsorship and Fundraiser
 
   Hoping to follow the same successfull pattern[fn:spice] of
   non-profit support and shared growth through synergy we experenced
@@ -123,7 +138,7 @@ clear that the unltimate pattern contains its own fixity. In such
 perfection, all things move toward death. —from “The Collected Sayings
 of Muad’Dib” by the Princess Irulan
 
-* DONE Carnival!!!
+* TODO Carnival!!!
 
   The [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/TAZ][Temporary Autonomous Zone]] myriad mix of [[https://en.wikipedia.org/wiki/Midsummer][summer festival
   tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
@@ -132,7 +147,7 @@ of Muad’Dib” by the Princess Irulan
   [[https://www.youtube.com/watch?v=4eRCygdW--c][miniature]] [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
   finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
-* DONE CrowdHacking
+* TODO CrowdHacking
 
   We have until the end of the month of June to raise
 
@@ -505,7 +520,7 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
 [fn:out] for [[http://web.mit.edu/2.813/www/readings/Ch6GutowskiSekulic.pdf][recycling]] on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
 * TODO Hardcopies of the First Missoula Civic Hackathon Newsletter
 
-   Limited, first edition, signed dot-matrix printouts of this
+   Limited, first edition, signed, dot-matrix printouts of this
    newsletter will be auctioned off at the Hackathon as the sole
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
@@ -819,7 +834,7 @@ The theme for this years conference is:
 I invite all who have June 11th free to join us at the University
 Congregational Church for this unique and special event.
 
-* DONE The Missoula Civic Hackathon as a Possible Example of a Hack
+* TODO The Missoula Civic Hackathon as a Possible Example of a Hack
 
   As we look at our calendar now
 
@@ -1205,7 +1220,20 @@ is soon cycling in
 .
 .
 
-and we could use all of your help
+and we could use all of your
+
+.
+.
+.
+.
+.
+.
+.
+#+END_EXAMPLE
+
+[[http://biblehub.com/psalms/23-4.htm][help]]
+
+#+BEGIN_EXAMPLE
 
 .
 .
@@ -1232,7 +1260,7 @@ in whatever way you see yourself fit in.
       |  (/,(_][ | ) *                 __O>O__/
 
 #+END_EXAMPLE
-* DONE Our Word
+* TODO Our Word
 
 “Among hackers, though, slang has a [[http://www.garykessler.net/library/steganography.html][subtler aspect]], paralleled perhaps
 in the slang of [[http://burghausenjazz.com/intro/introduction.html#john][jazz musicians]] and some kinds of fine artists but hard
