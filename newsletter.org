@@ -82,14 +82,14 @@
   We hope you all enjoy this [[http://www.arvindguptatoys.com/arvindgupta/8.how-why-communication.pdf][communication]].
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]], [[http://www.randomwebsite.com/][study up]], and [[http://techunderground.org/resources/][help]]
-  us out on any of the myriad of [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Projects][projects]] hinted at below,
-  [[https://en.wikipedia.org/wiki/Cybernetics][communicating]] all results back into the net.
+  us out on any of the myriad of [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Projects][projects]] hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics][sharing]]
+  successes and, most importantly, failures back with the rest.
 
 * TODO The Plan for the Second Missoula Civic Hackathon
 
-  After much deliberation and meditation on the successes and failures
-  of throwing our [[https://github.com/Blue-Sky-Skunkworks/hackathon_old][first hackathon]], the crew has changed it up a bit
-  this time, and I'm pretty confident you will all be pleased.
+  After much deliberation and meditation on the patterns that worked
+  well while throwing our [[https://github.com/Blue-Sky-Skunkworks/hackathon_old][first hackathon]], the crew has changed it up
+  a bit this time, and I'm pretty confident you will all be pleased.
 
   In leu of strict science and more in line with /Alchemy/ we're
   gonna hit the ~Math.random()~ function here with regard to the
