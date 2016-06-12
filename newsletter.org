@@ -985,8 +985,8 @@ Hackers!
 
 Can you elaborate on that?
 
-[[http://key.cryptoparty.is/files/cryptoparty-handbook-2013-08-21/cryptoparty-handbook-2013-08-21.pdf][Cypherpunks]], [[http://www.urbandictionary.com/define.php?term=poetic%20terrorism][poetic terrorists]], [[http://www.instructables.com/][tinkerers]], [[http://google.com][sentient AI]]'s, — you know —
-[[https://github.com/showcases/programming-languages][the usual]].
+[[http://key.cryptoparty.is/files/cryptoparty-handbook-2013-08-21/cryptoparty-handbook-2013-08-21.pdf][Cypherpunks]], [[http://www.urbandictionary.com/define.php?term=poetic%20terrorism][poetic terrorists]], [[http://www.instructables.com/][tinkerers]], [[http://www.dominicmuren.com/2012/09/the-production-cycle.html][makers]], [[http://google.com][sentient AI]]'s, —
+you know — [[https://github.com/showcases/programming-languages][the usual]].
 
 Are you sure that cypherpunks tinkerers sentient ai's I know the
 usual?
@@ -1289,6 +1289,8 @@ the hackish psyche.”
 ** TODO Snowden
 ** TODO http://wikileaks.info/
 ** TODO picture poem
+* TODO thermodynamics
+http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets1
 * TODO [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
