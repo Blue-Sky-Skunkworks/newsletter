@@ -123,7 +123,7 @@ clear that the unltimate pattern contains its own fixity. In such
 perfection, all things move toward death. —from “The Collected Sayings
 of Muad’Dib” by the Princess Irulan
 
-* TODO Carnival!!!
+* DONE Carnival!!!
 
   The [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/TAZ][Temporary Autonomous Zone]] myriad mix of [[https://en.wikipedia.org/wiki/Midsummer][summer festival
   tradition]], [[http://lispacademy.org/][Ancient Greek Academy]], brothers and sisters sharing,
@@ -229,7 +229,8 @@ of Muad’Dib” by the Princess Irulan
 #+END_SRC
 
 * TODO Upcycling Competition
-For those of use that grew up with 64K of memory being a *BIG DEAL*, the
+For those of use that grew up with 64K of memory being a [[https://en.wikipedia.org/wiki/Apple_II_series][*BIG DEAL*]],
+the
 
 
 http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
@@ -242,8 +243,9 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 ** vi
 ** [[http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/][bash]]
 ** diff
-** emacs
+** [[https://stallman.org/][emacs]]
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
+** [[https://xkcd.com/297/][Common Lisp]]
 ** perl
 ** C
 * TODO Constructionism
@@ -862,16 +864,17 @@ way back, internal and external circumstances intervene, as they
 always seem to do.
 
 Except for the core crew, the world does not yet know about this
-event. The sending of this Newsletter and the susequent [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369477/][myceliation]] of
-the information into the network of local people by word of mouth and
-electronic and print [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] has yet to occur.
+event. The sending of this Newsletter to a select few people and the
+susequent [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369477/][myceliation]] of the information into the network of local
+people by word of mouth and electronic and [[http://www.mikroing.si/specifikacijepdf/ml590spec.pdf][print]] [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/raw/master/books/BrassCheck.pdf][media]] has yet to
+occur.
 
 This Hackathon is an attempt at a hack like the last one, just one
 other flavor, and the core team is exicited to see if this works well
 because, if it does, than we may have something very replicable here
 for anyone else to attempt follow our lead for their own locality.
 
-Learning to throw [[https://ccl.northwestern.edu/netlogo/][swarm]]-sourced events that have the potential to
+Learning to [[http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf][throw]] [[https://ccl.northwestern.edu/netlogo/][swarm]]-sourced events that have the potential to
 cause lasting change for whomever shows up, facilitated greatly by the
 very recent inception of social media and the vast takeover of the
 attention of humans by the lure of the [[http://www.alr.ie/Download/Mercury_in_waste_LCD_backlights_summary_research_report.63ad9220.11115.pdf][mercury phosphor]] of [[https://www.researchgate.net/publication/266139481_Determination_of_toxic_metals_in_discarded_Liquid_Crystal_Displays_LCDs][rare-earth]]
@@ -1240,7 +1243,7 @@ hacking which don't fit into [[http://orwell.ru/library/novels/1984/english/en_a
 better than a [[http://www.platform.org/][Coltrane]] [[http://rollingout.com/2015/11/16/platform-org-founder-diversity-advocate-hank-williams-dead-50/][solo]] or one of [[https://www.youtube.com/watch?v=1u1HWCsf06A][Maurits Escher]]'s surreal trompe
 l'oeil compositions (Escher is a favorite of hackers), and hacker
 slang encodes these subtleties in many unobvious ways. As a simple
-example, take the distinction between a [[https://pixabay.com/en/photos/light%20bulb/][kluge]] and an elegant solution,
+example, take the distinction between a [[https://pixabay.com/en/photos/light%20bulb/][kluge]] and an [[http://umbra.nascom.nasa.gov/images/latest_aia_171.gif][elegant solution]],
 and the differing connotations attached to each. The distinction is
 not only of engineering significance; it reaches right back into the
 nature of the generative processes in program design and asserts
@@ -1273,12 +1276,15 @@ the hackish psyche.”
 * TODO The Oracle
   [[http://deoxy.org/iching/11][䷊  Peace]]\\
   [[http://deoxy.org/iching/7][䷆  The Army]]
+* TODO thermodynamics
+http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets1
+* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+
+This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License]].
 * TODO add
-** TODO xkcd
-   https://xkcd.com/386/
 ** TODO G.E.B.
-** TODO GPL Stallman
-** TODO ASCII 3d
+** TODO GPL
 ** TODO stegenography
 ** TODO apple II
 ** TODO interactive fiction
@@ -1289,9 +1295,10 @@ the hackish psyche.”
 ** TODO Snowden
 ** TODO http://wikileaks.info/
 ** TODO picture poem
-* TODO thermodynamics
-http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets1
-* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+** TODO ASCII 3d
+#+BEGIN_SRC sh
 
-This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
-Attribution-ShareAlike 4.0 License]].
+
+#+END_SRC
+** TODO 5 rules of open spaces
+** TODO fix fill-paragraph with links
