@@ -782,7 +782,7 @@ This is only a census.
 |                        | rather than at the $1m+ level). Note: a database |
 |                        | of contracts awarded or similar is not           |
 |                        | considered sufficient. This data category refers |
-|                        | to detailed ongoing data on actual expenditures. |
+|                        | to de[[https://tails.boum.org/][tail]]ed ongoing data on actual expenditures. |
 |                        |                                                  |
 +------------------------+--------------------------------------------------+
 |                        |                                                  |
@@ -1249,7 +1249,7 @@ not only of engineering significance; it reaches right back into the
 nature of the generative processes in program design and asserts
 something important about two different kinds of relationship between
 the hacker and the hack. Hacker slang is unusually rich in
-implications of this kind, of overtones and undertones that illuminate
+implications of this kind, of overtones and undertones that [[http://www.rawilson.com/illuminatus.html][illuminate]]
 the hackish psyche.”
 
 — [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
