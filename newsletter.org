@@ -260,9 +260,28 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 ** diff
 ** [[https://stallman.org/][emacs]]
 ** [[https://en.wikipedia.org/wiki/Ken_Arnold][fortune]]
-** [[https://xkcd.com/297/][Common Lisp]]
+** [[https://xkcd.com/297/][Common]] [[http://www.loomcom.com/genera/genera-install.html][Lisp]]
 ** perl
 ** C
+* TODO CryptoParty?
+
+  What is [[https://www.cryptoparty.in/][CryptoParty]]
+
+#+BEGIN_QUOTE
+  Attend a CryptoParty to learn and teach how to use basic
+  cryptography tools. A CryptoParty is free, public and fun. It is an
+  open format where everyone is welcome independent of their age,
+  gender or knowledge. People bring their computers, mobile devices,
+  and a willingness to learn! CryptoParty is a decentralized, [[https://www.cryptoparty.in/parties/upcoming][global
+  initiative]] to introduce the most basic cryptography software and the
+  fundamental concepts of their operation to the general public, such
+  as the [[https://www.torproject.org/][Tor anonymity network]], [[http://www.zdnet.com/article/gchq-pioneers-on-birth-of-public-key-crypto/][public key encryption]] ([[https://www.gnupg.org/][PGP/GPG]]), and
+  [[https://otr.cypherpunks.ca/][OTR (Off The Record messaging)]].
+#+END_QUOTE
+
+  CryptoParties are free to attend, public, and commercially and
+  politically non-aligned (see the [[https://www.cryptoparty.in/guiding_principles][guiding principles]]).”
+#+END_QUOTE
 * TODO Constructionism
   We are asked, every once in a while, to teach what we know in the
   manner most people seem to have been tought how to learn — passivly,
