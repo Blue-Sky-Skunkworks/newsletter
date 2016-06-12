@@ -1278,11 +1278,49 @@ the hackish psyche.”
   [[http://deoxy.org/iching/7][䷆  The Army]]
 * TODO thermodynamics
 http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets1
-* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+* TODO ASCII 3d
+http://aa-project.sourceforge.net/aa3d/
 
-This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
-Attribution-ShareAlike 4.0 License]].
-* TODO add
+#+name: aa3d-input
+#+BEGIN_SRC elisp
+  (slime-eval `(art:text-3d "H"))
+#+END_SRC
+
+#+RESULTS: aa3d-input
+#+begin_example
+13333311133333
+22333111223331
+12333111123331
+12333333333331
+12333222223331
+12333111123331
+13333311133333
+22222111222221
+11111111111111
+11111111111111
+11111111111111
+#+end_example
+
+#+BEGIN_SRC sh :results verbatim :var input=aa3d-input
+echo "$input" | aa3d
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+GJTR`KMJN[LSGTKMJN[N[LTKMJNMJN[N[LTKMJNMJN[N[LTKMJNMJN[N[LTKMJNMJN[N[LTKMJNMJN[N
+]KMQ\\SP]UMY]Q\SP]P]UY]\SPSSP]P]UY]\SPSSP]P]UY]\SPSSP]P]UY]\SPSSP]P]UY]\SPSSP]P]
+ER_J]KUMS\QPE_]UMSMS\QE]UMUUMSMS\QE]UMUUMSMS\QE]UMUUMSMS\QE]UMUUMSMS\QE]UMUUMSMS
+CQE_PSVJ^COJCEPVJ^COJCEPVJVVJ^COJCEPVJVVJ^COJCEPVJVVJ^COJCEPVJVVJ^COJCEPVJVVJ^CO
+HTXZQDDUTZUXHXQDUTTZUXHQDUDDUTTZUXHQDUDDUTTZUXHQDUDDUTTZUXHQDUDDUTTZUXHQDUDDUTTZ
+EYZIHVFQ[K`CEZHFQ[Q[K`EHFQFFQ[Q[K`EHFQFFQ[Q[K`EHFQFFQ[Q[K`EHFQFFQ[Q[K`EHFQFFQ[Q[
+EEDHYNWSMFZCEDNWSMFMFZDNWSMWSMFMFZDNWSMWSMFMFZDNWSMWSMFMFZDNWSMWSMFMFZDNWSMWSMFM
+ZNFDRGB`JKZVZDRGB``JKVZDRGGGB``JKVZDRGGGB``JKVZDRGGGB``JKVZDRGGGB``JKVZDRGGGB``J
+NQAQLHPZQ\X`NAQLHPZQ\X`NAQLLHPZQ\X`NAQLLHPZQ\X`NAQLLHPZQ\X`NAQLLHPZQ\X`NAQLLHPZQ
+VRMT^C]XN_TPVMT^C]XN_TPVMT^^C]XN_TPVMT^^C]XN_TPVMT^^C]XN_TPVMT^^C]XN_TPVMT^^C]XN
+CNH^N\HYWVQMCH^N\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYW
+KJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\
+`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^C
+#+end_example
 ** TODO G.E.B.
 ** TODO GPL
 ** TODO stegenography
@@ -1295,10 +1333,11 @@ Attribution-ShareAlike 4.0 License]].
 ** TODO Snowden
 ** TODO http://wikileaks.info/
 ** TODO picture poem
-** TODO ASCII 3d
-#+BEGIN_SRC sh
 
-
-#+END_SRC
 ** TODO 5 rules of open spaces
 ** TODO fix fill-paragraph with links
+* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+
+This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution-ShareAlike 4.0 License]].
+* TODO add
