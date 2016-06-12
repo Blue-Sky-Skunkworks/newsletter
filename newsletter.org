@@ -50,8 +50,8 @@
 
   Hello fellow civic hackers,
 
-  Less than a fortnight until the second Missoula Civic Hackathon and
-  the core team has much to share in ...
+  Less than a week until the second Missoula Civic Hackathon and the
+  core team has much to share in ...
 
 * DONE Our First Install(ment)
 
