@@ -83,7 +83,7 @@
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]], [[http://www.randomwebsite.com/][study up]], and [[http://techunderground.org/resources/][help]]
   us out on any of the myriad of [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Projects][projects]] hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics][sharing]]
-  successes and, most importantly, failures back with the rest.
+  successes and, most importantly, failures back into the net.
 
 * TODO The Plan for the Second Missoula Civic Hackathon
 
@@ -318,7 +318,7 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
   share, because we know one of the best hacks to learning is
   teaching and it's not like it's not a skill we didn't all hopefully
   learn to do as children, so join alongside us as we attempt to look
-  upon the world with a fractal child's wonder as we leave the rest
+  upon the world with a [[http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020711.02p00026.pdf][fractal]] child's wonder as we leave the rest
   for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
 
 * TODO Prizes Worth Hacking For
@@ -561,6 +561,23 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
+
+   Hackathons *never* need to use Debt Notes, but maybe the next one
+   could use some to [[http://anomalistbooks.com/book.cfm?id=55][play]] with.
+
+   Here is a [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][key point]] that everyone here on Earth could potentially
+   understand, if we can successfully [[https://en.wikipedia.org/wiki/Cloud_computing][get the word out]] and provide the
+   [[https://aws.amazon.com/][supporting]] [[https://www.heroku.com/][informational]] [[http://www.openstack.org/][structures]] — it is *true*
+   [[http://web.mit.edu/2.813/www/readings/Ch6GutowskiSekulic.pdf][THERMODYNAMICALLY]] that almost every use of [[https://en.wikipedia.org/wiki/Suelo][*US DOLLARS*]] is
+   currently very damaging to everyone on the planet and we [[http://msi.nga.mil/MSISiteContent/StaticFiles/NAV_PUBS/APN/Chapt-22.pdf][Celestial]]
+   Hackers hope that everyone gets that gist and begins [[https://en.wikipedia.org/wiki/Holocene_extinction][rapidly]]
+   [[http://www.colinalexander.info/files/pdfs/Schumacher.pdf][localizing]] *all* of their material needs. You know, [[http://people.morrisville.edu/~reymers/readings/ANTH101/Life_Without_Chiefs-Harris.pdf][all those
+   “uncivilized peoples”]] could survive in groups of 150 or less with
+   [[http://gurdjieff-heritage-society.org/BeelzebubsTales/Beelzebub.htm][everything provided from all]] of the parts of the ever supporting,
+   to those who now see, [[http://www.fractal.org/Fractal-cosmology.pdf][universal fractal]], so it's about time us
+   [[http://www.ancient.eu/article/835/][“modern”]] folks pick us a [[http://www.historyisaweapon.com/zinnapeopleshistory.html][history book]] every once in a while and put
+   in place, by leading by example, [[http://library.uniteddiversity.coop/Permaculture/Bill_Mollison-Permaculture_Two-Practical_Design_for_Town_and_Country_in_Permanent_Agriculture.pdf][the patterns of the past that
+   worked so well then]], and will work again now.
 
 #+BEGIN_SRC elisp
 (solar-equinoxes/solstices 2 2016)
@@ -943,7 +960,7 @@ here and asking them out to hack.
 
 And, I do say, we may have succeeded very well already, as...
 
-*You*, dear reader, are still reading and the [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][meme]]s presented have
+*You*, dear reader, are still reading and the meme's presented have
 possessed many a young mind, so protect yourself out there, friend,
 and [[https://www.eff.org/privacybadger][watch]] out for those
 
@@ -1323,7 +1340,13 @@ the hackish psyche.”
   The ideas and people mentioned and referenced in this document in no
   way reflect the beliefs and conviction of the Missoual Civic
   Hackathon team as a whole or any one of the many of our sponsors and
-  supporters.
+  supporters. We would never push any [[https://www.youtube.com/watch?v=VEOIfLcjdbg][belief]] on anyone as that's never
+  worked before and our beliefs are held as tools, not weapons, shared
+  and discarded when not needed, but we do hope that by imparting
+  *many beliefs* we are potentially showing one tiny aspect of the map
+  of the territory of the land we must travel to, with much toil, to
+  dig for that chest under the X, to find the chest empty, except for
+  a letter, inviting us all back home to the tribe, [[https://en.wikipedia.org/wiki/Heroes_(TV_series)][heroes]].
 
   As nothing is truly static in this world and all things, great and
   small, are either evolving or devolving, we know which side of this
@@ -1404,4 +1427,21 @@ KJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License]].
+
+We do ask, as a caveat of compassion, to not print this newsletter out
+in hardcopy, in the ways you have performed that action in the past,
+but rather go seek out your Local Electronics Waste, a literal [[http://www.defendblackhills.org/][GOLD]]
+mine, leeching in the rain somewhere nearby you, that has everything
+you need to print this out, in style and grace, and at the same time
+become aware of the precious metals surrounding you and attempt to
+keep them nearby as the forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][current disease]] attempt to pull
+them back as power-ups for the destructive cycle again.
+
+It is quite possibly very important that everyone interested in the
+evolution of the energetic fields around them to keep all those
+precious metals nearby, locally, for their future use, because, in the
+future, [[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we
+finally get around to truly using the, as yet undiscovered, magic of
+these precious metals, ya'll might want some around with which to
+play.
 * TODO add
