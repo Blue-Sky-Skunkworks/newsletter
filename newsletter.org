@@ -1,7 +1,7 @@
 #+AUTHOR: Blue Sky Skunkworks Division
 #+DATE: Summer Solstice, 2016
 #+setupfile: ~/org/newsletter.org
-#+KEYWORDS: civic hackathon, transportation, electronic waste, un-conference, carnival, poetic terrorism
+#+KEYWORDS: civic hackathon, transportation, electronic waste, un-conference, carnival, poetic terrorism, legominism
 #+BEGIN_EXAMPLE
   ______  ________                                ______
   ___   |/  /___(_)______________________ ____  _____  /______ _
@@ -116,17 +116,17 @@
   hackathon with their wonderful [[http://www.missoulaclimate.org/zero-waste.html][zero waste]] sustainablily-minded meals
   and Friday night dinner party fit for a king, this next hackathon is
   sponsored by the [[http://www.strans.org][Montana Institute of Sustainable Transportation]] and
-  [[http://www.freecycles.org][Free Cycles]] with their fantastically
-  creative community bike shop and inventive upcycling laboratory.
+  [[http://www.freecycles.org][Free Cycles]] with their fantastically creative community bike shop
+  and inventive upcycling laboratory.
 
   If you are not yet aware, Free Cycles is in the middle of possibly
   their most important time in [[http://www.freedman-chicago.com/ec4i/History-of-Crowdfunding.pdf][fund-raising history]] with the push to
   save their home from being razed to the ground, everyone swept up
-  with that crazy new dance everyone is talking about called “out with
-  the old and in with the new,” — the quick flip of a long lasting
-  community for the joy of the rush of the high of the dazzle of the
-  phantasmagoria of the myopic reality tunnel called “modern civilized
-  progress”.
+  with that crazy new dance everyone is talking about called [[http://www.technologystudent.com/prddes1/plannedob1.html][“out with
+  the old and in with the new,”]] — the quick flip of a [[http://www.strans.org/history.html][long lasting
+  community]] for the joy of the rush of the high of the dazzle of the
+  (paradoxically) neophobic myopic reality tunnel called [[https://www.google.com/search?q=photos+above+suburbia&tbm=isch][“modern
+  civilized progress”]].
 
   The team thinks that there may just be a little wiggle room here for
   the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
@@ -280,7 +280,7 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 ** [[https://xkcd.com/297/][Common]] [[http://www.loomcom.com/genera/genera-install.html][Lisp]]
 ** perl
 ** C
-* TODO CryptoParty?
+* TODO CryptoParty
 
   What is [[https://www.cryptoparty.in/][CryptoParty]]
 
@@ -298,13 +298,36 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 
   CryptoParties are free to attend, public, and commercially and
   politically non-aligned (see the [[https://www.cryptoparty.in/guiding_principles][guiding principles]]).”
+
+** Crypto-activities
+*** Key Signing Party
+
+#+BEGIN_QUOTE
+“Key signing parties help build communities. They help techies get
+together to get to know each other, network, and discuss important
+issues like civil liberties, cryptorights, and internet
+regulation. Discussion is important because discussion is not only the
+first step, but also the step before action. When I first wrote [[http://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html][this
+document]] there were not very many complex webs of trust in the
+world. Things have dramatically improved, with more plentiful webs
+that are much deeper than they were a few years ago. However, it still
+remains the case that if you work to build a web of trust in your
+local area, it is very likely that the first participants in that web
+will be the leaders and policy setters of the internet community in
+your area. They are the individuals who can choose to build secure
+strong cryptographic technology and protocols into the local
+infrastructure if they so choose. The integration of such technology
+and protocols could make issues like the FBI's carnivore system and
+the National Security Agency's illegal domestic surveillance
+technologically infeasible and therefore moot.”
 #+END_QUOTE
+
 * TODO Constructionism
   We are asked, every once in a while, to teach what we know in the
   manner most people seem to have been tought how to learn — passivly,
   sitting, well contained within human-constructed boxes, listening to
   other humans or humanly created machines parrot human thoughts they
-  were taught were worth repeating.
+  were taught were worth repeating back when they were in “school”.
 
   Outside that [[https://www.vocabulary.com/dictionary/myopic][square box]] is an [[https://en.wikipedia.org/wiki/Space-filling_curve][infinite fractal]]. And that [[http://tilde.club/~david/m/#zoom=0.011285668314080708,0.006462388641753358&lookAt=-0.21900509262792986,-0.8106778502752179&iterations=1889&superSamples=1&escapeRadius=10.0&colorScheme=pickColorGrayscale][fractal]]
   cares not much for human thought, such a drop in the [[http://imgsrc.hubblesite.org/hu/db/images/hs-2012-37-a-full_jpg.jpg][ocean]] of [[http://waitbutwhy.com/2013/08/putting-time-in-perspective.html][time]]
@@ -315,11 +338,11 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 
   We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
   we love to teach this “skill” to anyone that can play fair and
-  share, because we know one of the best hacks to learning is
-  teaching and it's not like it's not a skill we didn't all hopefully
-  learn to do as children, so join alongside us as we attempt to look
-  upon the world with a [[http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020711.02p00026.pdf][fractal]] child's wonder as we leave the rest
-  for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
+  share, because we know one of the best hacks to learning is teaching
+  and it's not like it's not a skill we didn't all hopefully learn to
+  do as children, so join alongside us hackers as we attempt to look
+  upon the world with a [[http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020711.02p00026.pdf][fractal]] child's wonder and we can leave the
+  rest for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
 
 * TODO Prizes Worth Hacking For
 
@@ -336,7 +359,7 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
   + 1 signed copy of [[http://www.amazon.com/Behind-Stare-Character-Professional-Cyclocross/dp/1937565335][“Behind the Stare” by Geoff Proctor]]
   + 1 copy of [[http://www.well.com/][“The Well”]] by [[https://en.wikipedia.org/wiki/Katie_Hafner][Katie Hafner]]
   + 1 copy of [[https://en.wikipedia.org/wiki/Q_(Star_Trek)][Que]]'s Computer User's Dictionary, 5th Edition
-  + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula Insectarium]]
+  + 4 day passes to the new [[http://www.missoulabutterflyhouse.org/][Missoula]] [[http://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2][Butterfly]] [[http://www.missoulabutterflyhouse.org/][House and Insectarium]]
   + 1 [[https://libreboot.org/docs/hcl/t500.html][IBM Thinkpad T500]]
 
   And, although not the most “valuable” prize in the bunch, the
@@ -374,11 +397,11 @@ http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 
   You participate in our activities by showing up and being yourself.
 
-  We all love this stuff, but the modern world demands its high tax on
-  the true wealths of this world, one being time, and if this song is
-  close enough to your own personal song to join this choir, and you
-  have that precious time to spare, come be awkward with the rest of
-  us “nerds” — as we hack this world for the better, together.
+  We hackers love this stuff, but the modern world demands its high
+  tax on the true wealths of this world, one being time, and if this
+  song is close enough to your own personal song to join this choir,
+  and you have that precious time to spare, come be awkward with the
+  rest of us “nerds” — as we hack this world for the better, together.
 * TODO The Dictionary Definition of *Hack*
 
 On one of our little runs around town meeting the wonderful shop
@@ -416,13 +439,13 @@ to
     that results, as if by magic, in a stunning improvement in system
     performance—or an equally stunning prank.”
 
-    We now turn to the trusty [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
+    We now turn to the [[http://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html][trusted]] [[http://www.catb.org/jargon/html/][Jargon File]] for some additional
     clarification:
 
     “The ‘hacker culture’ is actually a loosely networked collection
     of subcultures that is nevertheless conscious of some important
     shared experiences, shared roots, and shared values. It has its
-    own myths, heroes, villains, folk epics, in-jokes, taboos, and
+    myths, [[http://concurringopinions.com/archives/2012/01/bright-ideas-anita-allens-unpopular-privacy.html][heroes]], villains, folk [[https://epic.org/][epic]]s, in-jokes, [[https://bfi.org/trimtab][tab]]oos, and
     dreams. Because hackers as a group are particularly creative
     people who define themselves partly by rejection of ‘normal’
     values and working habits, it has unusually rich and conscious
@@ -474,10 +497,11 @@ to
 
 The wicked sharp and generous people at [[https://www.opportunityecycling.org/][Opportunity E-Cycling]], out
 near the airport, who are busy diligently keeping Missoula's aging
-electronics from polluting our own landfill, have donated a box of
-used laptop batteries destined for being shipped[fn:shipped]
-out[fn:out] of town and we at the Missoula Civic Hackathon thought we
-might be able to put a few of them to use here in town.
+electronics from polluting our landfill, have donated a box of used
+laptop batteries destined for being shipped[fn:shipped] out[fn:out] of
+town as a friendly guesture of connection to the local community and
+we at the Missoula Civic Hackathon thought we might be able to put a
+few of [[https://en.wikipedia.org/wiki/Lithium-ion_battery][them]] to [[http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries][use]] here in town.
 
 First test — popped in a dusty 9-cell Li-ion into my trusted
 [[http://www.thinkwiki.org/wiki/Category:T500][Thinkpad T500]] yesterday to a "charging 0.1%" and now, as I pull the
@@ -553,7 +577,7 @@ humanity — ready for hacking.
 [fn:shipped] on pallets in [[https://en.wikipedia.org/wiki/Semi-trailer_truck][large metal boxes]] minded from the earth
 powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] fuel
 
-[fn:out] for [[http://web.mit.edu/2.813/www/readings/Ch6GutowskiSekulic.pdf][recycling]] on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
+[fn:out] for [[http://www.ban.org/e-stewardship/][recycling]] on the west coast [[http://senseable.mit.edu/monitour-app/][and possibly much further]]
 * TODO Hardcopies of the First Missoula Civic Hackathon Newsletter
 
    Limited, first edition, signed, dot-matrix printouts of this
@@ -561,9 +585,6 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    source of [[http://www.federalreserve.gov/][Federal Reserve]] [[http://www.mybudget360.com/cost-of-living-compare-1975-2015-inflation-price-changes-history/][Debt Notes]] we'll throw at the next
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
-
-   Hackathons *never* need to use Debt Notes, but maybe the next one
-   could use some to [[http://anomalistbooks.com/book.cfm?id=55][play]] with.
 
    Here is a [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][key point]] that everyone here on Earth could potentially
    understand, if we can successfully [[https://en.wikipedia.org/wiki/Cloud_computing][get the word out]] and provide the
@@ -579,12 +600,17 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    in place, by leading by example, [[http://library.uniteddiversity.coop/Permaculture/Bill_Mollison-Permaculture_Two-Practical_Design_for_Town_and_Country_in_Permanent_Agriculture.pdf][the patterns of the past that
    worked so well then]], and will work again now.
 
+   Hackathons *never* need to use Debt[fn:college] Notes, but maybe the next one
+   could use some to [[http://anomalistbooks.com/book.cfm?id=55][play]] with.
+
 #+BEGIN_SRC elisp
 (solar-equinoxes/solstices 2 2016)
 #+END_SRC
 
 #+RESULTS:
 | 9 | 22.30562072324877 | 2016 |
+
+[fn:college]
 
 * TODO Learning from [[http://www.arvindguptatoys.com/arvindgupta/computerpix.pdf][“Old”]] Byte Magazines
 
@@ -733,7 +759,7 @@ share our hacks with others.
 
 #+BEGIN_QUOTE
 Formerly vaguely liberal-moderate, more recently
-moderate-to-neoconservative (hackers too were affected by the
+moderate-to-[[https://en.wikipedia.org/wiki/Neophile][neo]]conservative (hackers too were affected by the
 collapse of socialism). There is a strong libertarian contingent
 which rejects conventional left-right politics entirely. The only
 safe generalization is that hackers tend to be rather
@@ -1342,11 +1368,11 @@ the hackish psyche.”
   Hackathon team as a whole or any one of the many of our sponsors and
   supporters. We would never push any [[https://www.youtube.com/watch?v=VEOIfLcjdbg][belief]] on anyone as that's never
   worked before and our beliefs are held as tools, not weapons, shared
-  and discarded when not needed, but we do hope that by imparting
-  *many beliefs* we are potentially showing one tiny aspect of the map
-  of the territory of the land we must travel to, with much toil, to
-  dig for that chest under the X, to find the chest empty, except for
-  a letter, inviting us all back home to the tribe, [[https://en.wikipedia.org/wiki/Heroes_(TV_series)][heroes]].
+  and discarded when not needed or damaging, but we do hope that by
+  imparting *many beliefs* we are potentially showing one tiny aspect
+  of the map of the territory of the land we must travel to, with much
+  toil, to dig for that chest under the X, to find the chest empty,
+  except for a letter, inviting us all back home to the tribe.
 
   As nothing is truly static in this world and all things, great and
   small, are either evolving or devolving, we know which side of this
@@ -1423,6 +1449,13 @@ KJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\
 
 ** TODO 5 rules of open spaces
 ** TODO fix fill-paragraph with links
+* TODO Meta
+If we can step above a bit and look down at this communication, as a
+document, in time, attempting to *do* something for to the universes
+that decide to [[http://matrix.wikia.com/wiki/Redpill][take the red pill]] and follow the [[branching http://ecademy.agnesscott.edu/~lriddle/ifs/pythagorean/backstitch10iterations.jpg][trees of knowledge]]
+that can potentially lead to understanding of more than is currently
+possibly by many of these same universes, than we may be able to
+catagorize this phantasmagorical .
 * TODO [[https://en.wiktionary.org/wiki/licentia][License]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
@@ -1430,18 +1463,19 @@ Attribution-ShareAlike 4.0 License]].
 
 We do ask, as a caveat of compassion, to not print this newsletter out
 in hardcopy, in the ways you have performed that action in the past,
-but rather go seek out your Local Electronics Waste, a literal [[http://www.defendblackhills.org/][GOLD]]
+but rather go seek out your [[http://sonic84.com][Local Electronics Waste]], a literal [[http://www.defendblackhills.org/][GOLD]]
 mine, leeching in the rain somewhere nearby you, that has everything
-you need to print this out, in style and grace, and at the same time
-become aware of the precious metals surrounding you and attempt to
-keep them nearby as the forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][current disease]] attempt to pull
-them back as power-ups for the destructive cycle again.
+you need to print this out, in style and grace and in a [[http://zeta.math.utsa.edu/~yxk833/UAT-online.html][much more
+naturally eye catching way]], and at the same time become aware of the
+precious metals surrounding you and attempt to keep them nearby as the
+forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][current disease]] attempt to pull them back as power-ups
+for the destructive cycle again.
 
 It is quite possibly very important that everyone interested in the
 evolution of the energetic fields around them to keep all those
 precious metals nearby, locally, for their future use, because, in the
 future, [[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we
-finally get around to truly using the, as yet undiscovered, magic of
-these precious metals, ya'll might want some around with which to
-play.
-* TODO add
+finally get around to truly using the, as yet undiscovered by the
+whole, magic properties of these precious metals, ya'll might want
+some around with which to play.
+
