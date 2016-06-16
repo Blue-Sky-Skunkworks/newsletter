@@ -48,7 +48,8 @@
 
 
 #+BEGIN_QUOTE
-The joyfullness of [[http://wtf.tw/ref/carse.pdf][infinite play]], it's laughter, lies in learning to start something we cannot finish.
+The joyfullness of [[http://wtf.tw/ref/carse.pdf][infinite play]], it's laughter, lies in learning to
+start something we cannot finish.
 
 - James Carse
 #+END_QUOTE
@@ -1475,7 +1476,6 @@ bigger than the one that we are taught in school and this myth can
 bring much more faith to the self and faith is contagious and the
 works of faith are evident.
 * TODO Leadership
-
 * TODO [[https://en.wiktionary.org/wiki/licentia][License to Share]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
