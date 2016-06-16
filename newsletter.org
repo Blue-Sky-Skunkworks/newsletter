@@ -46,6 +46,13 @@
                 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #+END_EXAMPLE
 
+
+#+BEGIN_QUOTE
+The joyfullness of [[http://wtf.tw/ref/carse.pdf][infinite play]], it's laughter, lies in learning to start something we cannot finish.
+
+- James Carse
+#+END_QUOTE
+
 * TODO Welcome!
 #+BEGIN_EXAMPLE
  _  _  _ _______        _______  _____  _______ _______   /
@@ -91,9 +98,14 @@
   well while throwing our [[https://github.com/Blue-Sky-Skunkworks/hackathon_old][first hackathon]], the crew has changed it up
   a bit this time, and I'm pretty confident you will all be pleased.
 
-  In leu of strict science and more in line with /Alchemy/ we're
-  gonna hit the ~Math.random()~ function here with regard to the
-  variables at play...
+  In leu of strict science[fn:science] and more in line with /Alchemy/ we're gonna
+  hit the ~Math.random()~ function here with regard to the variables
+  at play...
+
+[fn:science] Science is an essentially anarchic enterprise:
+theoretical anarchism is more humanitarian and more likely to
+encourage progress than its law-and-order alternatives. —
+[[https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf][P. Feyerabend]]
 
 * TODO *Free!*
 
@@ -1367,13 +1379,14 @@ the hackish psyche.”
   The ideas and people mentioned and referenced in this document in no
   way reflect the beliefs and conviction of the Missoual Civic
   Hackathon team as a whole or any one of the many of our sponsors and
-  supporters. We would never push any [[https://www.youtube.com/watch?v=VEOIfLcjdbg][belief]] on anyone as that's never
-  worked before and our beliefs are held as tools, not weapons, shared
-  and discarded when not needed or damaging, but we do hope that by
-  imparting *many beliefs* we are potentially showing one tiny aspect
-  of the map of the territory of the land we must travel to, with much
-  toil, to dig for that chest under the X, to find the chest empty,
-  except for a letter, inviting us all back home to the tribe.
+  supporters. We would never proselytize any belief as that's never
+  worked before — our beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not weapons, shared
+  and discarded when not needed, but we do hope that by imparting
+  *many beliefs* we are potentially showing one tiny aspect of the map
+  of the territory of the land we must travel to, with much toil, to
+  dig for that chest under the X, to find that most desired of all
+  chests empty — except for a letter, inviting us all back home to the
+  tribe.
 
   As nothing is truly static in this world and all things, great and
   small, are either evolving or devolving, we know which side of this
@@ -1457,26 +1470,41 @@ that decide to [[http://matrix.wikia.com/wiki/Redpill][take the red pill]] and f
 that can potentially lead to understanding of more than is currently
 possibly by many of these same universes, than we may be able to
 catagorize this phantasmagorical .
-* TODO [[https://en.wiktionary.org/wiki/licentia][License]]
+* TODO [[https://en.wiktionary.org/wiki/licentia][License to Share]]
 
 This document is licensed for all under the [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Attribution-ShareAlike 4.0 License]].
 
-We do ask, as a caveat of compassion, to not print this newsletter out
+We would like to remind all our future detractors, bound to react even
+[[https://xkcd.com/386/][violently]] to this message, of the powerful phenomenon called the
+[[https://en.wikipedia.org/wiki/Streisand_effect][Streisand Effect]], and to remind them that what thay are reacting to is
+not *us*, out here, in *our own universes*, playing with them as we
+know best — attempting to share what we have discovered — but what
+they are really reacting to is the the powerful phenomenon known well
+to ancient men called *“growing up”*. The ancient rite of passage
+where all the buffers we built in the past, for our own
+self-preservation at the time, between the incomplete and conflicting
+informational matrixes this world places inside us when we were too
+young to understand, [[https://en.wikipedia.org/wiki/Electron%E2%80%93positron_annihilation][release]] their now synergistically combined and
+amplified energies for potentially the betterment of all concious
+beings existing in the entire time-space-loop of the entire fractal of
+universes.
+
+We do ask, as a caveat of [[http://www.spiritsound.com/bhikshu.html][compassion]], to not print this newsletter out
 in hardcopy, in the ways you have performed that action in the past,
 but rather go seek out your [[http://sonic84.com][Local Electronics Waste]], a literal [[http://www.defendblackhills.org/][GOLD]]
 mine, leeching in the rain somewhere nearby you, that has everything
 you need to print this out, in style and grace and in a [[http://zeta.math.utsa.edu/~yxk833/UAT-online.html][much more
 naturally eye catching way]], and at the same time become aware of the
 precious metals surrounding you and attempt to keep them nearby as the
-forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][current disease]] attempt to pull them back as power-ups
-for the destructive cycle again.
+forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][very recent fad]] attempt to grasp them back as power-ups
+for their own destructive cycles again.
 
 It is quite possibly very important that everyone interested in the
-evolution of the energetic fields around them to keep all those
-precious metals nearby, locally, for their future use, because, in the
-future, [[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we
-finally get around to truly using the, as yet undiscovered by the
-whole, magic properties of these precious metals, ya'll might want
-some around with which to play.
+evolution of the energetic fields around them keep all those precious
+metals nearby, locally, for their future use, because, in the future,
+[[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we finally get
+around to truly using the, as yet undiscovered by the whole, magic
+properties of these precious metals, ya'll might want some around with
+which to play.
 
