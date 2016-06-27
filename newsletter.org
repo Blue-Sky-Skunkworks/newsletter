@@ -606,6 +606,9 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    Missoula Civic Hackathon, scheduled to pop off sometime near the
    2016 [[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-september-equinox][Fall Equinox]].
 
+   Hackathons *never* need to use Debt Notes, but maybe the next one
+   could use some to [[http://anomalistbooks.com/book.cfm?id=55][play]] with.
+
    Here is a [[http://pear.accc.uic.edu/ojs/index.php/fm/article/view/694/604][key point]] that everyone here on Earth could potentially
    understand, if we can successfully [[https://en.wikipedia.org/wiki/Cloud_computing][get the word out]] and provide the
    [[https://aws.amazon.com/][supporting]] [[https://www.heroku.com/][informational]] [[http://www.openstack.org/][structures]] — it is *true*
@@ -620,17 +623,12 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    in place, by leading by example, [[http://library.uniteddiversity.coop/Permaculture/Bill_Mollison-Permaculture_Two-Practical_Design_for_Town_and_Country_in_Permanent_Agriculture.pdf][the patterns of the past that
    worked so well then]], and will work again now.
 
-   Hackathons *never* need to use Debt[fn:college] Notes, but maybe the next one
-   could use some to [[http://anomalistbooks.com/book.cfm?id=55][play]] with.
-
 #+BEGIN_SRC elisp
 (solar-equinoxes/solstices 2 2016)
 #+END_SRC
 
 #+RESULTS:
 | 9 | 22.30562072324877 | 2016 |
-
-[fn:college]
 
 * TODO Learning from [[http://www.arvindguptatoys.com/arvindgupta/computerpix.pdf][“Old”]] Byte Magazines
 
