@@ -633,7 +633,7 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
 * TODO Learning from [[http://www.arvindguptatoys.com/arvindgupta/computerpix.pdf][“Old”]] Byte Magazines
 
 #+BEGIN_QUOTE
-"… it is important not to lose sight of the fact that ther is a
+"… it is important not to lose sight of the fact that there is a
 difference beteween training and education. If computer science is a
 fundamental discipline, then university education in this field should
 emphasize enduring fundamental principles rather than transient
