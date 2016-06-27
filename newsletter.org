@@ -327,13 +327,20 @@ that are much deeper than they were a few years ago. However, it still
 remains the case that if you work to build a web of trust in your
 local area, it is very likely that the first participants in that web
 will be the leaders and policy setters of the internet community in
-your area. They are the individuals who can choose to build secure
-strong cryptographic technology and protocols into the local
-infrastructure if they so choose. The integration of such technology
-and protocols could make issues like the FBI's carnivore system and
-the National Security Agency's illegal domestic surveillance
-technologically infeasible and therefore moot.”
+your area. They are the individuals[fn:individual] who can choose to
+build secure strong cryptographic technology and protocols into the
+local infrastructure if they so choose. The integration of such
+technology and protocols could make issues like the FBI's carnivore
+system and the National Security Agency's illegal domestic
+surveillance technologically infeasible and therefore moot.”
 #+END_QUOTE
+
+[fn:individual] “Privacy of the American individual in his person, his
+home, his papers, and his communications has been an established
+principle of our way of life, at least on paper. By the far and the
+large the various law enforcement agencies and private detectives do
+not and have not invaded these rights.” — Miguel Vega “All About
+Wiretapping” in Electronics Illustrated May 1958
 
 * TODO Constructionism
   We are asked, every once in a while, to teach what we know in the
@@ -1381,13 +1388,13 @@ the hackish psyche.”
   way reflect the beliefs and conviction of the Missoual Civic
   Hackathon team as a whole or any one of the many of our sponsors and
   supporters. We would never proselytize any belief as that's never
-  worked before — our beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not weapons, shared
-  and discarded when not needed, but we do hope that by imparting
-  *many beliefs* we are potentially showing one tiny aspect of the map
-  of the territory of the land we must travel to, with much toil, to
-  dig for that chest under the X, to find that most desired of all
-  chests empty — except for a letter, inviting us all back home to the
-  tribe.
+  worked before for us — our personal beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not
+  weapons, shared and discarded when not needed, but we do hope that
+  by sharing *many beliefs* we are potentially showing one tiny aspect
+  of the map of the territory of the land we must travel to, with much
+  toil, to dig for that chest under the X, to find that most desired
+  of all chests — empty — except for a letter, inviting us all back
+  home to the tribe.
 
   As nothing is truly static in this world and all things, great and
   small, are either evolving or devolving, we know which side of this
@@ -1475,6 +1482,8 @@ implant a new myth into the hearts of the readers. A mythology much
 bigger than the one that we are taught in school and this myth can
 bring much more faith to the self and faith is contagious and the
 works of faith are evident.
+* TODO Three More Laws of Robotics
+Asimov + Tilden + Gurdjieff
 * TODO Leadership
 * TODO [[https://en.wiktionary.org/wiki/licentia][License to Share]]
 
@@ -1510,7 +1519,21 @@ It is quite possibly very important that everyone interested in the
 evolution of the energetic fields around them keep all those precious
 metals nearby, locally, for their future use, because, in the future,
 [[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we finally get
-around to truly using the, as yet undiscovered by the whole, magic
+around to truly using the, as yet undiscovered by the whole, [[http://www.epanorama.net/zen_schematics/Circuits/Misc/Trick.html][magic]]
 properties of these precious metals, ya'll might want some around with
 which to play.
 
+* TODO How To Print
+We printed this on an OKIDATA MICROLINE 590 using some green and white
+striped computer paper we had laying around. Had to cut out the ink
+from cartridges using the last cutting wheel we had left, but we got
+it. Black storage gold. Had to dock the T500 to get a parallel port,
+be who doesn't have one of those lying around.
+
+#+BEGIN_EXAMPLE
+lpstat -a
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+lp -d destination
+#+END_EXAMPLE
