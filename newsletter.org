@@ -212,7 +212,7 @@ of Muad’Dib” by the Princess Irulan
 
   And the point here, as all reaching out to people for help should,
   in our humble opinion, proceed, is to attempt to connect [[http://www.bahaistudies.net/asma/iandthou.pdf][I-Thou]] and
-  to be yourself and to be honest to attempt to awaken[fn:cl]
+  to be your honest self in the attempt to awaken[fn:cl]
 
 
 #+BEGIN_EXAMPLE
@@ -357,12 +357,12 @@ Wiretapping”, Electronics Illustrated May 1958
   of modern men.
 
   We hackers prefer to learn by [[https://en.wikipedia.org/wiki/Constructionism_(learning_theory)][building and playing and sharing]], and
-  we love to teach this “skill” to anyone that can play fair and
-  share, because we know one of the best hacks to learning is teaching
-  and it's not like it's not a skill we didn't all hopefully learn to
-  do as children, so join alongside us hackers as we attempt to look
-  upon the world with a [[http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020711.02p00026.pdf][fractal]] child's wonder and we can leave the
-  rest for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
+  we love to teach this “skill” to anyone that can play fair and share
+  , and it's not like it's not a skill we didn't all hopefully learn
+  to do as children, and we hackers know one of the best hacks to
+  learning is teaching so join alongside us as we attempt to look upon
+  the world with a [[http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020711.02p00026.pdf][fractal]] child's wonder and we can leave the rest
+  for the 🅂 🅀 🅄 🄰 🅁 🄴 🅂  .
 
 * TODO Prizes Worth Hacking For
 
