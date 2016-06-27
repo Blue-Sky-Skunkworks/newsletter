@@ -63,7 +63,7 @@ start something we cannot finish.
 
   Hello fellow civic hackers,
 
-  Less than a week until the second [[http://missoulacivichackathon.org/][Missoula Civic Hackathon]] and the
+  Less than a week until the second [[http://missoulacivichackathon.org][Missoula Civic Hackathon]] and the
   core team has much to share in ...
 
 * TODO Our First Install(ment)
@@ -117,9 +117,9 @@ encourage progress than its law-and-order alternatives. —
   the festivities and offer this imaginative and unique to Missoula
   event for *free*.
 
-  And with the support from our generous sponsors we are offering a
-  [[http://drnissani.net/mnissani/revolutionarystoolkit/TheMoonIsAHarshMistress.pdf][free lunch]] on Saturday to everyone that <<URL>> signs up for the
-  event before June 17th.
+  And with the support from our generous [[http://missoulacivichackathon/#!/sponsors][sponsors]] we are offering a
+  [[http://drnissani.net/mnissani/revolutionarystoolkit/TheMoonIsAHarshMistress.pdf][free lunch]] on Saturday for everyone that signs up for the event
+  before June 17th.
 
 * TODO Non-Profit Sponsorship and Fundraiser
 
