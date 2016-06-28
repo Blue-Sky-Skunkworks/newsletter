@@ -1559,8 +1559,8 @@ lp -d destination
 It's amazing what they used to let kids [[https://en.wikipedia.org/wiki/The_Prisoner_(video_game)][play with]].
 
 #+BEGIN_QUOTE
-> (show-apple-disk-file "PR.CHURCH")
-PR.CHURCH APPLESOFT-BASIC
+> (show-apple-disk-file "PR.[[https://en.wikipedia.org/wiki/Church_of_the_SubGenius][CHURCH]]")
+PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/basic/Applesoft%20BASIC%20Programming%20Reference%20Manual%20-%20Apple%20Computer.pdf][APPLESOFT-BASIC]]
 1  ZZ=FRE(0) : POKE -16368,0
 2  ONERR GOTO 32000
 9  GOTO 1000
