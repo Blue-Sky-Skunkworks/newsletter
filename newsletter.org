@@ -1536,7 +1536,7 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
 30003  CALL 520"PR.LOSE"
 32000  T1%=PEEK(222) : CALL 1002 : IF T1%=5 OR T1%=6 OR T1%=7 OR T1%=13 THEN RESUME
 32003  NORMAL  : TEXT  : PRINT  : PRINT CH$
-32005  IF T1%=255 THEN CALL 520"PR.SAVE"
+32005  IF T1%=255 THEN CALL 520"PR.[[http://www.learnmorsecode.com/][SAVE]]"
 32008  CALL 520"PR.ERR"
 #+END_QUOTE
 
