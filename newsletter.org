@@ -969,7 +969,7 @@ Hackathon team's own Harold Shinsato.
 
 The theme for this years conference is:
 
-    How Will You Take Radical [[http://thestewardship.org][Responsibility]] For a Better
+    How [[http://philosophy.eserver.org/nietzsche-zarathustra.txt][Will]] You Take Radical [[http://thestewardship.org][Responsibility]] For a Better
     World?
 
 I invite all who have June 11th free to join us at the University
@@ -1624,10 +1624,10 @@ that decide to [[http://matrix.wikia.com/wiki/Redpill][take the red pill]] and f
 knowledge]] that can potentially lead to an understanding of more than
 is currently personally believed, than we may be able to catagorize
 this phantasmagorical exercise as an attempt to implant a new myth
-into the hearts of the readers. This mythology is much bigger than the
-one that we are taught in school and can provide much more space for
-faith and faith is contagious as the works of faith become more
-evident.
+into the hearts of the readers. This mythology is probably much
+“larger” than the one the reader is taught in school and can provide
+much more space for faith in “something” outside the box and faith is
+contagious as the works of faith become more evident.
 * TODO Three More Laws of Robotics
 Asimov + Tilden + Gurdjieff
 * TODO Leadership
