@@ -805,7 +805,7 @@ law]].
 And on the topic of *politics*, let me assure our readers here that we
 are not pushing any particular political agendas other than what we
 consider everyone's birth-right — the defending of the [[http://realsociology.edublogs.org/files/2013/09/erich-fromm-the-fear-of-freedom-escape-from-freedom-29wevxr.pdf][freedom]] of
-speech and the freedom to share hacks, in private as needed, with
+[[https://wikileaks.org/][speech]] and the freedom to share hacks, in private as needed, with
 others.
 
 #+BEGIN_QUOTE
@@ -1489,21 +1489,6 @@ CNH^N\HYWVQMCH^N\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYWVQMCH^NN\HYW
 KJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\
 `YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^CE[QU`YCILI^C
 #+end_example
-** TODO G.E.B.
-** TODO GPL
-** TODO stegenography
-** TODO apple II
-** TODO interactive fiction
-** TODO Hank Williams
-** TODO hubble deep space
-** TODO earth in light
-** TODO permaculture - uc davis
-** TODO Snowden
-** TODO http://wikileaks.info/
-** TODO picture poem
-
-** TODO 5 rules of open spaces
-** TODO fix fill-paragraph with links
 * TODO Meta
 If we all can step above a bit and look down at this communication, as
 a document, in time, attempting to *do* something for to the universes
@@ -1570,3 +1555,17 @@ lpstat -a
 #+BEGIN_EXAMPLE
 lp -d destination
 #+END_EXAMPLE
+* ideas
+** TODO G.E.B.
+** TODO GPL
+** TODO apple II
+** TODO interactive fiction
+** TODO Hank Williams
+** TODO hubble deep space
+** TODO earth in light
+** TODO permaculture - uc davis
+** TODO Snowden
+** TODO picture poem
+** TODO 5 rules of open spaces
+** TODO fix fill-paragraph with links
+** TODO Tao
