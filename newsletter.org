@@ -367,7 +367,7 @@ system and the National Security Agency's illegal domestic
 surveillance technologically infeasible and therefore moot.”
 #+END_QUOTE
 
-[fn:individual] “Privacy of the American individual in his person, his
+[fn:individual] “[[https://www.aclu.org/your-right-privacy][Privacy]] of the American individual in his person, his
 home, his papers, and his communications has been an established
 principle of our way of life, at least on paper. By the far and the
 large the various law enforcement agencies and private detectives do
