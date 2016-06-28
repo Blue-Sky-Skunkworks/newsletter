@@ -29,7 +29,9 @@ This is the [[fig.dot][graph]].
                        (overcomes metal wood earth water fire metal)))
     (print)))
 
-
+** Fractan language
+http://www.uctv.tv/shows/Fractran-A-Ridiculous-Logical-Language-with-John-Conway-23320
+http://rosettacode.org/wiki/Fractran
 ** TODO add target='_blank' to html exports
 ** Unix Shell tech tip
 

@@ -164,7 +164,28 @@ of Muad’Dib” by the Princess Irulan
   centering, [[https://en.wikipedia.org/wiki/Starship_Troopers][Starship Troopers]] and [[https://en.wikipedia.org/wiki/Ender%27s_Game][Ender's Game]] re-enacted using
   [[https://www.youtube.com/watch?v=4eRCygdW--c][miniature]] [[https://en.wikipedia.org/wiki/Braitenberg_vehicle][Braitenberg vehicles]] [[https://en.wikipedia.org/wiki/BEAM_robotics][self-assembling]] out of discarded
   [[https://en.wikipedia.org/wiki/Electronic_waste][electronic waste]] suspiciously [[http://fennetic.net/pub/true_names.pdf][stamped]] [[http://project.cyberpunk.ru/lib/neuromancer/]["Chiba City,'53"]], races to the
-  finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace.
+  finish line, winners and [[http://opensourceecology.org/open-source-hardware-enterprise-model-distributive-enterprise/][learner]], [[http://missoulacivichackathon.org/#!/prayer][prayer]] and peace[fn:superman].
+
+[fn:superman] “Let us dare to face the situation. Man has become
+superman. He is a superman because he not only has as his disposal
+innate physical forces, but also commands, thanks to scientific and
+technological advances, the latent forces of nature which he can now
+put to his own use. To kill at a distance, man used to rely solely on
+his own physical strength; he used it to bend the bow and to release
+the arrow. The superman has progressed to the stage where, thanks to a
+device designed for the purpose, he can use the energy released by the
+combustion of a given combination of chemical products. This enables
+him to employ a much more effective projectile and to propel it over
+far greater distances.
+
+However, the superman suffers from a fatal flaw. He has failed to rise
+to the level of superhuman reason which should match that of his
+superhuman strength. He requires such reason to put this vast power to
+solely reasonable and useful ends and not to destructive and murderous
+ones. Because he lacks it, the conquests of science and technology
+become a mortal danger to him rather than a blessing.”
+- [[http://www.nobelprize.org/nobel_prizes/peace/laureates/1952/schweitzer-lecture.html][Albert Schweitzer's Nobel Prize for Peace Lecture]]
+
 * TODO Schedule of Events
 | time            | event                         |
 |-----------------+-------------------------------|
