@@ -637,13 +637,23 @@ powered by combusting [[https://en.wikipedia.org/wiki/Diesel_exhaust][diesel]] f
    [[http://web.mit.edu/2.813/www/readings/Ch6GutowskiSekulic.pdf][THERMODYNAMICALLY]] that almost every use of [[https://en.wikipedia.org/wiki/Suelo][*US DOLLARS*]] is
    currently very damaging to everyone on the planet and we [[http://msi.nga.mil/MSISiteContent/StaticFiles/NAV_PUBS/APN/Chapt-22.pdf][Celestial]]
    Hackers hope that everyone gets that gist and begins [[https://en.wikipedia.org/wiki/Holocene_extinction][rapidly]]
-   [[http://www.colinalexander.info/files/pdfs/Schumacher.pdf][localizing]] *all* of their material needs. You know, [[http://people.morrisville.edu/~reymers/readings/ANTH101/Life_Without_Chiefs-Harris.pdf][all those
-   “uncivilized peoples”]] could survive in groups of 150 or less with
-   [[http://gurdjieff-heritage-society.org/BeelzebubsTales/Beelzebub.htm][everything provided from all]] of the parts of the ever supporting,
-   to those who now see, [[http://www.fractal.org/Fractal-cosmology.pdf][universal fractal]], so it's about time us
-   [[http://www.ancient.eu/article/835/][“modern”]] folks pick us a [[http://www.historyisaweapon.com/zinnapeopleshistory.html][history book]] every once in a while and put
-   in place, by leading by example, [[http://library.uniteddiversity.coop/Permaculture/Bill_Mollison-Permaculture_Two-Practical_Design_for_Town_and_Country_in_Permanent_Agriculture.pdf][the patterns of the past that
-   worked so well then]], and will work again now.
+   [[http://www.colinalexander.info/files/pdfs/Schumacher.pdf][localizing]] *all* of their material needs.
+
+   It is amazing how much barter and the return to recoprocity builds
+   community and it is everyone's personal joy to discover, but let
+   the Missoula Civic Hackathon team tell ya — every US Dollar not
+   spent on “services” furthering the current lemming run to the ocean
+   is a person seeking out one of the growing non Federal Reserve Debt
+   Note solutions and discovering, for themselves, how much the
+   [[https://en.wikipedia.org/wiki/Almighty_dollar][almighty dollar]] has separated them from the rest of us and how much
+   an actual tax on true wealth the daily use of it is.
+
+   You might not yet know, but [[http://people.morrisville.edu/~reymers/readings/ANTH101/Life_Without_Chiefs-Harris.pdf][all those “uncivilized peoples”]] could
+   survive in groups of 150 or less with [[http://gurdjieff-heritage-society.org/BeelzebubsTales/Beelzebub.htm][everything provided from all]]
+   of the parts of the ever supporting [[http://www.fractal.org/Fractal-cosmology.pdf][universal fractal]], so it's
+   about time us [[http://www.ancient.eu/article/835/][“modern”]] folks pick us a [[http://www.historyisaweapon.com/zinnapeopleshistory.html][history book]] every once in a
+   while and put in place, by leading by example, [[http://library.uniteddiversity.coop/Permaculture/Bill_Mollison-Permaculture_Two-Practical_Design_for_Town_and_Country_in_Permanent_Agriculture.pdf][the patterns of the
+   past that worked so well then]], and will work again now.
 
 #+BEGIN_SRC elisp
 (solar-equinoxes/solstices 2 2016)
@@ -1532,12 +1542,12 @@ universes.
 We do ask, as a caveat of [[http://www.spiritsound.com/bhikshu.html][compassion]], to not print this newsletter out
 in hardcopy, in the ways you have performed that action in the past,
 but rather go seek out your [[http://sonic84.com][Local Electronics Waste]], a literal [[http://www.defendblackhills.org/][GOLD]]
-mine, leeching in the rain somewhere nearby you, that has everything
-you need to print this out, in style and grace and in a [[http://zeta.math.utsa.edu/~yxk833/UAT-online.html][much more
-naturally eye catching way]], and at the same time become aware of the
-precious metals surrounding you and attempt to keep them nearby as the
-forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][very recent fad]] attempt to grasp them back as power-ups
-for their own destructive cycles again.
+mine, leeching heavy metals in the rain somewhere nearby you, that has
+everything you need to print this out, in style and grace and in a
+[[http://zeta.math.utsa.edu/~yxk833/UAT-online.html][much more naturally eye catching way]], and at the same time become
+aware of the precious metals surrounding you and attempt to keep them
+nearby as the forces of this [[http://realitysandwich.com/75652/greatest_epidemic/][very recent fad]] attempt to grasp them
+back as power-ups for their own destructive cycles again.
 
 It is quite possibly very important that everyone interested in the
 evolution of the energetic fields around them keep all those precious
@@ -1552,7 +1562,7 @@ We printed this on an OKIDATA MICROLINE 590 using some green and white
 striped computer paper we had laying around. Had to cut out the ink
 from cartridges using the last cutting wheel we had left, but we got
 it. Black storage gold. Had to dock the T500 to get a parallel port,
-be who doesn't have one of those lying around.
+but who doesn't have one of those lying around.
 
 #+BEGIN_EXAMPLE
 lpstat -a
