@@ -1422,11 +1422,11 @@ the hackish psyche.”
   way reflect the beliefs and conviction of the Missoual Civic
   Hackathon team as a whole or any one of the many of our sponsors and
   supporters. We would never proselytize any belief as that's never
-  worked before for us — our personal beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not
+  really worked before — our personal beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not
   weapons, shared and discarded when not needed, but we do hope that
   by sharing *many beliefs* we are potentially showing one tiny aspect
   of the map of the territory of the land we must travel to, with much
-  toil, to dig for that chest under the X, to find that most desired
+  toil, to dig for that chest under the ✖, to find that most desired
   of all chests — empty — except for a letter, inviting us all back
   home to the tribe.
 
@@ -1506,16 +1506,16 @@ KJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\]WNKKJ\A[RN\
 ** TODO 5 rules of open spaces
 ** TODO fix fill-paragraph with links
 * TODO Meta
-If we can step above a bit and look down at this communication, as a
-document, in time, attempting to *do* something for to the universes
+If we all can step above a bit and look down at this communication, as
+a document, in time, attempting to *do* something for to the universes
 that decide to [[http://matrix.wikia.com/wiki/Redpill][take the red pill]] and follow the [[http://ecademy.agnesscott.edu/~lriddle/ifs/pythagorean/backstitch10iterations.jpg][branching trees of
 knowledge]] that can potentially lead to an understanding of more than
-is currently possibly, than we may be able to catagorize this
-phantasmagorical exercise as just some information ball attempting to
-implant a new myth into the hearts of the readers. A mythology much
-bigger than the one that we are taught in school and this myth can
-bring much more faith to the self and faith is contagious and the
-works of faith are evident.
+is currently personally believed, than we may be able to catagorize
+this phantasmagorical exercise as an attempt to implant a new myth
+into the hearts of the readers. This mythology is much bigger than the
+one that we are taught in school and can provide much more space for
+faith and faith is contagious as the works of faith become more
+evident.
 * TODO Three More Laws of Robotics
 Asimov + Tilden + Gurdjieff
 * TODO Leadership
@@ -1529,8 +1529,8 @@ We would like to remind all our future detractors, bound to react even
 [[https://en.wikipedia.org/wiki/Streisand_effect][Streisand Effect]], and to remind them that what thay are reacting to is
 not *us*, out here, in *our own universes*, playing with them as we
 know best — attempting to share what we have discovered — but what
-they are really reacting to is the the powerful phenomenon known well
-to ancient men called *“growing up”*. The ancient rite of passage
+they may really be reacting to is the the powerful phenomenon known
+well to ancient men called *“growing up”*. The ancient rite of passage
 where all the buffers we built in the past, for our own
 self-preservation at the time, between the incomplete and conflicting
 informational matrixes this world places inside us when we were too
