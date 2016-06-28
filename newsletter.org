@@ -91,7 +91,7 @@ start something we cannot finish.
 
   [[http://www.meetup.com/Montana-Programmers][Everyone]] is highly encouraged to [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Swarmwise][self-organize]], [[http://www.randomwebsite.com/][study up]], and [[http://techunderground.org/resources/][help]]
   us out on any of the myriad of [[https://github.com/Blue-Sky-Skunkworks/missoula-civic-hackathon-notes/wiki/Projects][projects]] hinted at below, [[https://en.wikipedia.org/wiki/Cybernetics][sharing]]
-  successes and, most importantly, failures <<NOECONS>> back into the net.
+  successes and, most importantly, [[http://www.halliburton.com/][failures]] back into the net.
 
 * TODO The Plan for the Second Missoula Civic Hackathon
 
