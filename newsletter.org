@@ -401,7 +401,7 @@ Wiretapping”, [[http://www.americanradiohistory.com/Archive-Electronics-Illust
 
   Oh boy does the universe like to throw prizes at civic hackathons.
 
-  I think many of you will find much value and surprise in the prizes
+  I think many of you will find much [[http://goldprice.org][value]] and surprise in the prizes
   we have collected and will collect up to the day of the hackathon!
 
   Here is a wee bit of a teaser:
@@ -1433,8 +1433,8 @@ It's amazing what they used to let kids [[https://en.wikipedia.org/wiki/The_Pris
 > (show-apple-disk-file "PR.CHURCH")
 PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/basic/Applesoft%20BASIC%20Programming%20Reference%20Manual%20-%20Apple%20Computer.pdf][APPLESOFT-BASIC]]
 1  ZZ=FRE(0) : [[http://mrob.com/pub/xapple2/ppc-rpm.html][POKE]] -16368,0
-2  ONERR GOTO 32000
-9  GOTO 1000
+2  ONERR [[https://en.wikipedia.org/wiki/Considered_harmful][GOTO]] 32000
+9  GOTO[fn:Dijkstra] 1000
 300  TEXT  : INVERSE  : L3%=3 : L4%=23 : H3%=4 : H4%=7 : GOSUB 395 : RETURN
 310  NORMAL  : POKE 32,16 : POKE 33,21 : POKE 34,15 : POKE 35,18 : HOME  : RETURN
 350  FOR I3=1 TO 2500 : NEXT I3 : RETURN
@@ -1490,15 +1490,15 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
 3008  TP$="WHO ARE THE PRISONERS AND WHO ARE THE KEEPERS?" : GOSUB 400 : TP$="MEN ARE NOT PRISONERS OF FATE, BUT OF THEIR MINDS" : GOSUB 500 : GOSUB 350
 3010  TP$="HAVE YOU NOT YET REALIZED THERE IS NO PHYSICAL ESCAPE?" : GOSUB 500 : GOSUB 350 : TP$="YOU HAVE ALWAYS BEEN HERE AND WILL ALWAYS BE HERE" : GOSUB 500 : GOSUB 350
 3013  TP$="HOWEVER, THERE IS A FORM OF ESCAPE, IF YOU ARE WILLING" : GOSUB 500 : GOSUB 350 : TP$="IT IS AN ESCAPE FROM THE BONDAGE OF THIS ENSLAVING SOCIETY" : GOSUB 500 : GOSUB 350
-3015  TP$="WOULD YOU CONSIDER JOINING THE [[http://norse-mythology.org/gods-and-creatures/the-aesir-gods-and-goddesses/loki/][PRIESTHOOD]]?" : GOSUB 400 : IF A$="N" THEN TP$="WON'T YOU RECONSIDER? ANY OTHER PATH MUST SEEM FRUITLESS" : GOSUB 400 : IF A$="N" THEN TP$="WELL, THE OFFER STANDS" : GOSUB 500 : GOTO 2000
+3015  TP$="WOULD YOU [[https://en.wikipedia.org/wiki/Adolf_Eichmann][CONSIDER]] JOINING THE [[http://norse-mythology.org/gods-and-creatures/the-aesir-gods-and-goddesses/loki/][PRIESTHOOD]]?" : GOSUB 400 : IF A$="N" THEN TP$="WON'T YOU RECONSIDER? ANY OTHER PATH MUST SEEM [[http://www.ars-grin.gov/npgs/][FRUIT]]LESS" : GOSUB 400 : IF A$="N" THEN TP$="WELL, THE [[http://plants.usda.gov/factsheet/pdf/fs_niru.pdf][OFFER]] STANDS" : GOSUB 500 : GOTO 2000
 3018  T2%=0 : TP$="LET US SEE IF YOU PASS THE TEST" : GOSUB 500 : GOSUB 350 : TP$="DO YOU USE TRADITIONAL APPROACHES TO PROBLEMS?" : GOSUB 650
 3020  TP$="DO YOU BELIEVE LEARNING SHOULD BE PRACTICAL?" : GOSUB 650
-3021  TP$="DO YOU PRIZE THE INDIVIDUAL ABOVE THE STATE?" : GOSUB 655
+3021  TP$="DO YOU PRIZE THE [[https://en.wikipedia.org/wiki/Radical_(chemistry)][INDIVIDUAL]] ABOVE THE STATE?" : GOSUB 655
 3023  TP$="DO YOU MEASURE SUCCESS BY ECONOMIC MEANS?" : GOSUB 650
 3025  TP$="DO YOU FEEL THAT MANY ARTISTS ARE WEIRD OR IMMORAL?" : GOSUB 650
 3026  TP$="DO YOU THINK SOME CORRUPTION IN [[f://libcom.org/files/Bakunin%20on%20Anarchy%20(1971).pdf][GOVERNMENT]] IS INEVITABLE?" : GOSUB 655
-3027  TP$="DO YOU THINK GOOD WORKS ARE MORE IMPORTANT THAN RELIGOUS BELIEFS?" : GOSUB 655
-3028  TP$="DO YOU BELIEVE THAT PEOPLE SHOULD CONFORM TO SOCIAL EXPECTATIONS?" : GOSUB 650
+3027  TP$="DO YOU THINK [[http://goodworksventures.com/][GOOD WORKS]] ARE MORE IMPORTANT THAN RELIGOUS BELIEFS?" : GOSUB 655
+3028  TP$="DO YOU BELIEVE THAT PEOPLE SHOULD [[https://en.wikipedia.org/wiki/Milgram_experiment][CONFORM TO SOCIAL EXPECTATIONS]]?" : GOSUB 650
 3030  TP$="DO YOU JUDGE PEOPLE AND EVENTS MORALISTICALLY?" : GOSUB 650
 3033  ID%=ID%+5* T2% : IF T2%<7 THEN TP$="I AM SORRY. YOU HAVE NOT YET LEARNED" : GOSUB 500 : GOSUB 350 : GOTO 2000
 3035  TP$="GOOD. YOU PASS THE TESTS. NOW YOU MUST PROVE YOUR COMMITMENT" : GOSUB 500 : GOSUB 350 : TP$="YOU MUST DEMONSTRATE THAT YOU HAVE ESCAPED YOUR PREVIOUS LIFE" : GOSUB 500 : MR%=0
@@ -1540,6 +1540,10 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
 32008  CALL 520"PR.ERR"
 #+END_QUOTE
 
+[fn:Dijkstra] “For a number of years I have been familiar with the
+observation that the quality of programmers is a decreasing function
+of the density of go to statements in the programs they produce.”
+— [[http://xroads.virginia.edu/~hyper/poe/telltale.html][Edgar]] [[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm][Dijkstra]] [[http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf][“Go To Statements Considered Harmful”]]
 * TODO Disclaimer
   The ideas and people mentioned and referenced in this document in no
   way reflect the beliefs and conviction of the Missoual Civic
@@ -1548,7 +1552,7 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
   really worked before — our personal beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not
   weapons, shared and discarded when not needed, but we do hope that
   by sharing *many beliefs* we are potentially showing one tiny aspect
-  of the map of the territory of the land we must travel to, with much
+  of the [[http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra01.pdf][map of the territory]] of the land we must travel to, with much
   toil, to dig for that chest under the ✖, to find that most desired
   of all chests — empty — except for a letter, inviting us all back
   home to the tribe.
