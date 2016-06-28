@@ -1417,7 +1417,6 @@ the hackish psyche.”
 — [[http://www.catb.org/jargon/html/introduction.html][The Jargon File]]
 
 * TODO Disclaimer
-
   The ideas and people mentioned and referenced in this document in no
   way reflect the beliefs and conviction of the Missoual Civic
   Hackathon team as a whole or any one of the many of our sponsors and
