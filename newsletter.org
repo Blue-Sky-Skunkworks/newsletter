@@ -1010,7 +1010,7 @@ because, if it does, than we may have something very replicable here
 for anyone else to attempt follow our lead for their own locality.
 
 Learning to [[http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf][throw]] [[https://ccl.northwestern.edu/netlogo/][swarm]]-sourced events that have the potential to
-cause lasting change for whomever shows up, facilitated greatly by the
+cause lasting change[fn:jefferson] for whomever shows up, facilitated greatly by the
 very recent inception of social media and the vast takeover of the
 attention of humans by the lure of the [[http://www.alr.ie/Download/Mercury_in_waste_LCD_backlights_summary_research_report.63ad9220.11115.pdf][mercury phosphor]] of [[https://www.researchgate.net/publication/266139481_Determination_of_toxic_metals_in_discarded_Liquid_Crystal_Displays_LCDs][rare-earth]]
 [[http://www.ptable.com/][metals]], we feel, is a very valuable skill worth honing nowadays.
@@ -1041,6 +1041,10 @@ and [[https://www.eff.org/privacybadger][watch]] out for those
 88        88 88,    ,88 "8a,   ,aa 88`"Yba, "8b,   ,aa 88         aa    ]8I aa
 88        88 `"8bbdP"Y8  `"Ybbd8"' 88   `Y8a `"Ybbd8"' 88         `"YbbdP"' 88
 #+END_EXAMPLE
+
+[fn:jefferson] “Nothing then is unchangable but the inherent and
+unalienable rights of man.” — [[http://www.let.rug.nl/usa/presidents/thomas-jefferson/letters-of-thomas-jefferson/jefl278.php][Thomas Jefferson (1824)]]
+
 * TODO Pshyco-therapy
 
 The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
