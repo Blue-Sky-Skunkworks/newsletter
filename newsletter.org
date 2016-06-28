@@ -144,7 +144,7 @@ encourage progress than its law-and-order alternatives. —
   The team thinks that there may just be a little wiggle room here for
   the Missoula Civic Hackathon to [[https://www.crowdrise.com/supportthebike][support the bike]].
 
-[fn:spice] There is in all things a pattern that is part of our
+[fn:spice] “There is in all things a pattern that is part of our
 universe. It has symmetry, elegance, and grace—those qualities you
 find always in that which the true artist captures. You can find it in
 the turning of the seasons, in the way sand trails along a ridge, in
@@ -153,8 +153,8 @@ leaves. We try to copy these patterns in our lives and our society,
 seeking the rhythms, the dances, the forms that comfort. Yet, it is
 possible to see peril in the finding of ultimate perfection. It is
 clear that the unltimate pattern contains its own fixity. In such
-perfection, all things move toward death. —from [[http://www.pdfarchive.info/pdf/H/He/Herbert_Frank_-_Dune.pdf][“The Collected Sayings
-of Muad’Dib” by the Princess Irulan]]
+perfection, all things move toward death.”  — from [[http://www.pdfarchive.info/pdf/H/He/Herbert_Frank_-_Dune.pdf][“The Collected
+Sayings of Muad’Dib” by the Princess Irulan]]
 
 [fn:invention] “The progressive development of man is vitally
 dependent on invention.  It is the most important product of his
