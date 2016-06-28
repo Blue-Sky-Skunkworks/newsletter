@@ -130,7 +130,7 @@ encourage progress than its law-and-order alternatives. —
   and Friday night dinner party fit for a king, this next hackathon is
   sponsored by the [[http://www.strans.org][Montana Institute of Sustainable Transportation]] and
   [[http://www.freecycles.org][Free Cycles]] with their fantastically creative community bike shop
-  and [[http://www.tfcbooks.com/tesla/1919-00-00.htm][inventive]] upcycling laboratory.
+  and inventive[fn:invention] upcycling laboratory.
 
   If you are not yet aware, Free Cycles is in the middle of possibly
   their most important time in [[http://www.freedman-chicago.com/ec4i/History-of-Crowdfunding.pdf][fund-raising history]] with the push to
@@ -155,6 +155,17 @@ possible to see peril in the finding of ultimate perfection. It is
 clear that the unltimate pattern contains its own fixity. In such
 perfection, all things move toward death. —from “The Collected Sayings
 of Muad’Dib” by the Princess Irulan
+
+[fn:invention] “The progressive development of man is vitally
+dependent on invention.  It is the most important product of his
+creative brain.  Its ultimate purpose is the complete mastery of mind
+over the material world, the harnessing of the forces of nature to
+human needs.  This is the difficult task of the inventor who is often
+misunderstood and unrewarded.  But he finds ample compensation in the
+pleasing exercises of his powers and in the knowledge of being one of
+that exceptionally privileged class without whom the race would have
+long ago perished in the bitter struggle against pitiless elements.” —
+[[http://www.tfcbooks.com/tesla/1919-00-00.htm][Nikola Tesla]]
 
 * TODO Carnival!!!
 
@@ -1559,9 +1570,9 @@ lp -d destination
 It's amazing what they used to let kids [[https://en.wikipedia.org/wiki/The_Prisoner_(video_game)][play with]].
 
 #+BEGIN_QUOTE
-> (show-apple-disk-file "PR.[[https://en.wikipedia.org/wiki/Church_of_the_SubGenius][CHURCH]]")
+> (show-apple-disk-file "PR.CHURCH")
 PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/basic/Applesoft%20BASIC%20Programming%20Reference%20Manual%20-%20Apple%20Computer.pdf][APPLESOFT-BASIC]]
-1  ZZ=FRE(0) : POKE -16368,0
+1  ZZ=FRE(0) : [[http://mrob.com/pub/xapple2/ppc-rpm.html][POKE]] -16368,0
 2  ONERR GOTO 32000
 9  GOTO 1000
 300  TEXT  : INVERSE  : L3%=3 : L4%=23 : H3%=4 : H4%=7 : GOSUB 395 : RETURN
@@ -1578,7 +1589,7 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
 655  GOSUB 400 : IF A$<>"N" THEN T2%=T2%+1
 656  RETURN
 1000  GOSUB 10000
-1003  TP$="WILL YOU MAKE A 5 CREDIT CONTRIBUTION TO OUR CHURCH?" : GOSUB 500 : GOSUB 310 : INPUT IP$ : IF LEFT$ (IP$,1)<>"Y" THEN ID%=ID%+5 : GOTO 1008
+1003  TP$="WILL YOU MAKE A 5 CREDIT CONTRIBUTION TO OUR [[https://en.wikipedia.org/wiki/Church_of_the_SubGenius][CHURCH]]?" : GOSUB 500 : GOSUB 310 : INPUT IP$ : IF LEFT$ (IP$,1)<>"Y" THEN ID%=ID%+5 : GOTO 1008
 1005  IF CR%>4 THEN CR%=CR%-5
 1008  IF MR% THEN TP$="I UNDERSTAND YOU'VE GOTTEN YOURSELF INTO SOME TROUBLE, MY SON" : GOSUB 500 : GOSUB 350 : TP$="PLEASE FEEL FREE TO TALK ABOUT IT IF YOU WILL" : GOSUB 500 : GOTO 1013
 1010  TP$="GREETINGS, MY CHILD. SHALL WE HAVE A CHAT?" : GOSUB 500
@@ -1588,7 +1599,7 @@ PR.CHURCH [[ftp://ftp.apple.asimov.net/pub/apple_II/documentation/programming/ba
 1015  IF NOT(PS%(4)) AND ID%-CT%>10+INT(RND(1)* 20) THEN PS%(4)=PS%(4)+1 : TP$="TO COMFORT YOU IN THESE TIMES I AM GIVING YOU THIS CROSS" : GOSUB 500 : GOSUB 350
 1020  TP$="REMAIN STRONG, MY CHILD" : GOSUB 500
 1030  TEXT  : NORMAL  : PRINT  : PRINT CH$
-1035  CALL 520"PR.VILLAGE"
+1035  CALL 520"PR.[[http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf][VILLAGE]]"
 1999  END
 2000  TP$="" : T1%=0 : GOSUB 310 : INPUT IP$ : IP$=IP$+"   " : FOR I=1 TO LEN(IP$)-2 : A$=MID$(IP$,I,3) : IF A$="WHO" OR A$="WHA" OR A$="WHE" OR A$="HOW" OR A$="WHY" OR A$="?  " THEN T1%=1 : GOTO 2010
 2003  IF A$="ESC" OR A$="OFF" OR A$="LEA" OR A$="RUN" OR A$="PRI" OR A$="OUT" THEN T1%=2 : GOTO 2010
