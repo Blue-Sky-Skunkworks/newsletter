@@ -1027,7 +1027,7 @@ occur.
 
 This Hackathon is an attempt at a hack like the last one, just one
 other flavor, and the core team is exicited to see if this works well
-because, if it does, than we may have something very replicable here
+because, if it does, than we may have something very [[http://www.molecularassembler.com/KSRM/1.htm][replicable]] here
 for anyone else to attempt follow our lead for their own locality.
 
 Learning to [[http://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf][throw]] [[https://ccl.northwestern.edu/netlogo/][swarm]]-sourced events that have the potential to
@@ -1068,7 +1068,7 @@ unalienable rights of man.” — [[http://www.let.rug.nl/usa/presidents/thomas-
 
 * TODO Pshyco-therapy
 
-The following is stright from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
+The following is straight from the [[http://www.cs.cmu.edu/Groups/AI/areas/classics/eliza/emacs/doctor.el][Doctor]]'s mouth.
 
 I am the psychotherapist.  Please, describe your problems.  Each time
 you are finished talking, type RET twice.
