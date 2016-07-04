@@ -306,7 +306,7 @@ become a mortal danger to him rather than a blessing.”
 #+END_SRC
 
 * TODO Upcycling Competition
-For those of use that grew up with 64K of memory being a [[https://en.wikipedia.org/wiki/Apple_II_series][*BIG DEAL*]],
+For those of use that grew up with 64K of [[http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf][memory]] being a [[https://en.wikipedia.org/wiki/Apple_II_series][*BIG DEAL*]],
 the
 
 
