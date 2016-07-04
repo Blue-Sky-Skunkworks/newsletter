@@ -1667,7 +1667,7 @@ metals nearby, locally, for their future use, because, in the future,
 [[https://en.wikipedia.org/wiki/Clarke%27s_three_laws][technology is indistinguishible from magic]], and when we finally get
 around to truly using the, as yet undiscovered by the whole, [[http://www.epanorama.net/zen_schematics/Circuits/Misc/Trick.html][magic]]
 properties of these precious metals, ya'll might want some around with
-which to play.
+which to [[https://archive.org/details/theoryofgamesand030098mbp][play]].
 
 * TODO How To Print
 We printed this on an OKIDATA MICROLINE 590 using some green and white
