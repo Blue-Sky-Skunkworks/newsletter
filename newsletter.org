@@ -307,8 +307,7 @@ become a mortal danger to him rather than a blessing.”
 
 * TODO Upcycling Competition
 For those of use that grew up with 64K of [[http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf][memory]] being a [[https://en.wikipedia.org/wiki/Apple_II_series][*BIG DEAL*]],
-the
-
+the potentials
 
 http://www.arvindguptatoys.com/arvindgupta/4.how-why-robots.pdf
 
@@ -785,7 +784,7 @@ rises over the horizon.
 As this process is vitally critical to our own personal growth and
 evolution — “As above, so below”, and at the level of the “City”, this
 same process must proceed in earnest, by all conscious and aware
-beings, at all times, as a necessary constant force of good in this
+beings, at all times, as a necessary [[http://arxiv.org/pdf/physics/0410074.pdf][constant]] force of good in this
 world.
 
 Maybe it's time to shine a bit of the burning sunshine of awareness
@@ -1687,7 +1686,6 @@ lp -d destination
 ** TODO G.E.B.
 ** TODO GPL
 ** TODO interactive fiction
-** TODO Hank Williams
 ** TODO hubble deep space
 ** TODO earth in light
 ** TODO permaculture - uc davis
@@ -1696,3 +1694,6 @@ lp -d destination
 ** TODO 5 rules of open spaces
 ** TODO fix fill-paragraph with links
 ** TODO Tao
+** TODO Konrad Zuse
+** TODO Jurgen Schmidhuber
+** TODO Swarmanoid
