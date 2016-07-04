@@ -1550,7 +1550,7 @@ of the density of go to statements in the programs they produce.”
   Hackathon team as a whole or any one of the many of our sponsors and
   supporters. We would never proselytize any belief as that's never
   really worked before — our personal beliefs are held as [[https://www.youtube.com/watch?v=VEOIfLcjdbg][tools]], not
-  weapons, shared and discarded when not needed, but we do hope that
+  weapons, shared and discarded when they are not helpful, but we do hope that
   by sharing *many beliefs* we are potentially showing one tiny aspect
   of the [[http://www.cc.gatech.edu/ai/robot-lab/online-publications/icra01.pdf][map of the territory]] of the land we must travel to, with much
   toil, to dig for that chest under the ✖, to find that most desired
